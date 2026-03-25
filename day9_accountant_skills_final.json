@@ -1,0 +1,1721 @@
+[
+    {
+        "profile_no": 1,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "MS EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 2,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "GST",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "TDS",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "TALLY",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "ZOHO",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "SAP",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 3,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 4,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 5,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 6,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 7,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 8,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 9,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "ACCOUNTS PAYABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 10,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "ACCOUNTS RECEIVABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 11,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "PAYROLL",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 12,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "TAXATION",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "MS EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 13,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 14,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 15,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 16,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 17,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 18,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 19,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 20,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 21,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 22,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 23,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 24,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 25,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "INCOME TAX",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 26,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "GST",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "VAT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 27,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 28,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 29,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 30,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 31,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 32,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 33,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 34,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 35,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "MS EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "ACCOUNTS PAYABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 36,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "ACCOUNTS PAYABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 37,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "ACCOUNTS RECEIVABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 38,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "ACCOUNTS RECEIVABLE",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 39,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 40,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 41,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 42,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 43,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 44,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 45,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 46,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CPA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 47,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 48,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 49,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "AUDIT",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 50,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "PAYROLL",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 51,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "PAYROLL",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 52,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "PAYROLL",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 53,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 54,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 55,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 56,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 57,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 58,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 59,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 60,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 61,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 62,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "SAP",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 63,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 64,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 65,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 66,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 67,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 68,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 69,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 70,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 71,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CPA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 72,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CPA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 73,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 74,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CPA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 75,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 76,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 77,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 78,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 79,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 80,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 81,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "TAXATION",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 82,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 83,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 84,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 85,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "TAXATION",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "TALLY",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "ZOHO",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "QUICKBOOKS",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 86,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "EXCEL",
+                "category": "Software",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 87,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "FINANCE",
+                "category": "Domain",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 88,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    },
+    {
+        "profile_no": 89,
+        "role_name": "Accountant Role",
+        "skills_found": [
+            {
+                "skill": "GST",
+                "category": "Technical",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CA",
+                "category": "Qualification",
+                "confidence": 1.0
+            },
+            {
+                "skill": "CMA",
+                "category": "Qualification",
+                "confidence": 1.0
+            }
+        ]
+    }
+]
