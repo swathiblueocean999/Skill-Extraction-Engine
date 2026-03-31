@@ -1,0 +1,22 @@
+Name: Johnsmith
+Email: johnsmith.accountant@email.com
+Summary:
+Detail-oriented B.Com graduate with 3 years of experience in financial accounting and auditing. 
+Expertise in managing accounts payable/receivable, payroll processing, and financial reporting.
+
+Key Skills:
+- Financial Accounting & Bookkeeping
+- Tally ERP 9, Microsoft Excel (Advanced), and SAP
+- Tax Preparation (GST, TDS Filing)
+- Budgeting and Financial Analysis
+- Knowledge of GAAP and IFRS standards
+
+Professional Experience:
+Junior Accountant | ABC Financial Services | 2021 – Present
+- Managed daily accounting operations and prepared monthly financial statements.
+- Reconciled bank statements and handled accounts payable.
+- Assisted in internal and external auditing processes.
+- Processed monthly payroll for over 50 employees accurately.
+
+Education:
+Bachelor of Commerce (B.Com) | University of Kerala

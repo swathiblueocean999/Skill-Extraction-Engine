@@ -1,0 +1,358 @@
+=== Semantic Matching Results ===
+
+Profile: 1
+Role: Accounts Assistant –
+Match Score: 50.0%
+------------------------------
+Profile: 2
+Role: unior Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 3
+Role: Accounting Associate –
+Match Score: 50.0%
+------------------------------
+Profile: 4
+Role: Trainee Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 5
+Role: Accounts Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 6
+Role: Finance Assistant –
+Match Score: 0.0%
+------------------------------
+Profile: 7
+Role: Billing Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 8
+Role: Invoice Processing Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 9
+Role: Accounts Payable Assistant –
+Match Score: 50.0%
+------------------------------
+Profile: 10
+Role: Accounts Receivable Assistant –
+Match Score: 50.0%
+------------------------------
+Profile: 11
+Role: Payroll Assistant –
+Match Score: 50.0%
+------------------------------
+Profile: 12
+Role: Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 13
+Role: General Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 14
+Role: Corporate Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 15
+Role: Staff Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 16
+Role: Senior Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 17
+Role: Financial Accountant –
+Match Score: 25.0%
+------------------------------
+Profile: 18
+Role: Cost Accountant –
+Match Score: 0.0%
+------------------------------
+Profile: 19
+Role: Management Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 20
+Role: Project Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 21
+Role: Revenue Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 22
+Role: Inventory Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 23
+Role: Fixed Asset Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 24
+Role: Tax Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 25
+Role: Direct Tax Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 26
+Role: Indirect Tax Accountant (GST / VAT) – Job
+Match Score: 50.0%
+------------------------------
+Profile: 27
+Role: International Tax Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 28
+Role: Transfer Pricing Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 29
+Role: Statutory Accountant –
+Match Score: 25.0%
+------------------------------
+Profile: 30
+Role: Compliance Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 31
+Role: Forensic Accountant –
+Match Score: 0%
+------------------------------
+Profile: 32
+Role: Trust Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 33
+Role: Fund Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 34
+Role: Grant Accountant –
+Match Score: 0%
+------------------------------
+Profile: 35
+Role: Accounts Payable Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 36
+Role: Accounts Payable Accountant –
+Match Score: 25.0%
+------------------------------
+Profile: 37
+Role: Accounts Receivable Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 38
+Role: Accounts Receivable Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 39
+Role: Credit Controller –
+Match Score: 50.0%
+------------------------------
+Profile: 40
+Role: Collections Specialist –
+Match Score: 0.0%
+------------------------------
+Profile: 41
+Role: Billing Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 42
+Role: Internal Auditor –
+Match Score: 50.0%
+------------------------------
+Profile: 43
+Role: External Auditor –
+Match Score: 50.0%
+------------------------------
+Profile: 44
+Role: Audit Associate –
+Match Score: 50.0%
+------------------------------
+Profile: 45
+Role: Audit Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 46
+Role: Audit Manager –
+Match Score: 50.0%
+------------------------------
+Profile: 47
+Role: Compliance Auditor –
+Match Score: 50.0%
+------------------------------
+Profile: 48
+Role: Risk Auditor –
+Match Score: 50.0%
+------------------------------
+Profile: 49
+Role: SOX Auditor –
+Match Score: 50.0%
+------------------------------
+Profile: 50
+Role: Payroll Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 51
+Role: Payroll Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 52
+Role: Payroll Manager –
+Match Score: 50.0%
+------------------------------
+Profile: 53
+Role: Compensation & Benefits Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 54
+Role: Financial Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 55
+Role: Finance Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 56
+Role: MIS Executive –
+Match Score: 50.0%
+------------------------------
+Profile: 57
+Role: MIS Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 58
+Role: Financial Reporting Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 59
+Role: Budget Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 60
+Role: FP&A Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 61
+Role: ERP Accountant –
+Match Score: 25.0%
+------------------------------
+Profile: 62
+Role: SAP FICO Consultant –
+Match Score: 50.0%
+------------------------------
+Profile: 63
+Role: Oracle Financials Consultant –
+Match Score: 50.0%
+------------------------------
+Profile: 64
+Role: NetSuite Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 65
+Role: Accounting Systems Analyst –
+Match Score: 50.0%
+------------------------------
+Profile: 66
+Role: Accounting Manager –
+Match Score: 50.0%
+------------------------------
+Profile: 67
+Role: Finance Manager –
+Match Score: 50.0%
+------------------------------
+Profile: 68
+Role: Accounts Manager –
+Match Score: 25.0%
+------------------------------
+Profile: 69
+Role: Head of Accounts –
+Match Score: 50.0%
+------------------------------
+Profile: 70
+Role: Head of Finance –
+Match Score: 50.0%
+------------------------------
+Profile: 71
+Role: Financial Controller –
+Match Score: 50.0%
+------------------------------
+Profile: 72
+Role: Group Financial Controller –
+Match Score: 50.0%
+------------------------------
+Profile: 73
+Role: Director of Finance –
+Match Score: 0%
+------------------------------
+Profile: 74
+Role: Chief Financial Officer (CFO) –
+Match Score: 25.0%
+------------------------------
+Profile: 75
+Role: Public Practice Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 76
+Role: Chartered Accountant (CA) –
+Match Score: 0%
+------------------------------
+Profile: 77
+Role: Cost & Management Accountant (CMA) – Job
+Match Score: 50.0%
+------------------------------
+Profile: 78
+Role: Company Secretary (Finance-Focused) – Job
+Match Score: 33.33%
+------------------------------
+Profile: 79
+Role: Banking Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 80
+Role: Insurance Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 81
+Role: Real Estate Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 82
+Role: Manufacturing Cost Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 83
+Role: NGO / Trust Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 84
+Role: Government Accountant –
+Match Score: 50.0%
+------------------------------
+Profile: 85
+Role: Freelance Accountant
+Match Score: 50.0%
+------------------------------
+Profile: 86
+Role: Virtual Accountant
+Match Score: 0.0%
+------------------------------
+Profile: 87
+Role: Outsourced Accounting Consultant
+Match Score: 50.0%
+------------------------------
+Profile: 88
+Role: Tax Consultant
+Match Score: 50.0%
+------------------------------
+Profile: 89
+Role: GST Consultant
+Match Score: 50.0%
+------------------------------
