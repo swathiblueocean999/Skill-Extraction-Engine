@@ -20,7 +20,7 @@
     },
     {
         "profile_id": 2,
-        "role": "unior Accountant –",
+        "role": "Junior Accountant –",
         "responsibilities": [
             "Prepare and maintain financial records",
             "Assist in accounts payable and receivable processes",
@@ -35,6 +35,7 @@
         "experience": "0–2 years",
         "education": "Degree in Accounting, Finance, or related field"
     },
+    
     {
         "profile_id": 3,
         "role": "Accounting Associate –",
