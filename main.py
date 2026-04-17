@@ -1,47 +1,60 @@
-from scorer import (
-    calculate_skill_score,
-    calculate_experience_score,
-    calculate_education_score,
-    calculate_semantic_score,
-    calculate_final_score
-)
-from weights import WEIGHTS
+import json
+from normalization import normalize_text, normalize_experience, normalize_skills
+from bias import remove_bias_fields
+from scorer import calculate_scores, final_score
 
-# Sample Resume
-resume = {
-    "skills": ["Python", "Machine Learning"],
-    "experience": 2,
-    "education": "B.Tech",
-    "text": "Python developer with machine learning experience"
-}
+# Load data
+with open("output.json", "r") as f:
+    profiles = json.load(f)
 
-# Sample Job Description
+# Example JD
 jd = {
-    "skills": ["Python", "Machine Learning"],
-    "experience": 3,
-    "education": "B.Tech",
-    "text": "Looking for a machine learning engineer with Python skills"
+    "skills": ["excel", "accounting"],
+    "education": "bachelor",
+    "text": "accounts assistant accounting excel finance"
 }
 
-# Calculate individual scores
-scores = {
-    "skill": calculate_skill_score(resume["skills"], jd["skills"]),
-    "experience": calculate_experience_score(resume["experience"], jd["experience"]),
-    "education": calculate_education_score(resume["education"], jd["education"]),
-    "semantic": calculate_semantic_score(resume["text"], jd["text"])
-}
+candidates = []
 
-# Choose weight type
-weights = WEIGHTS["default"]
+for p in profiles:
 
-# Final score
-final_score = calculate_final_score(scores, weights)
+    candidate = {
+        "skills": normalize_skills(p.get("skills")),
+        "experience": normalize_experience(p.get("experience")),
+        "education": normalize_text(p.get("education")),
+        "text": normalize_text(p.get("role", "") + " " + " ".join(p.get("responsibilities", [])))
+    }
 
-# Output
-print("\n--- ATS SCORE BREAKDOWN ---")
-print(f"Skill Match: {scores['skill']*100:.2f}%")
-print(f"Experience Match: {scores['experience']*100:.2f}%")
-print(f"Education Match: {scores['education']*100:.2f}%")
-print(f"Semantic Match: {scores['semantic']*100:.2f}%")
+    candidate = remove_bias_fields(candidate)
 
-print(f"\nFinal ATS Score: {final_score*100:.2f}%")
+    scores = calculate_scores(candidate, jd)
+    total = final_score(scores)
+
+    candidates.append({
+        "candidate": p.get("profile_id"),
+        "score": total
+    })
+    # 🔹 Ranking Output (already there)
+ranked = sorted(candidates, key=lambda x: x["score"], reverse=True)
+
+with open("ranking_output.txt", "w") as f:
+    for c in ranked:
+        f.write(f"{c['candidate']} - {c['score']}\n")
+
+
+# 🔹 Sequential Output (NEW)
+sequential = sorted(candidates, key=lambda x: x["candidate"])
+
+with open("sequential_output.txt", "w") as f:
+    for c in sequential:
+        f.write(f"{c['candidate']} - {c['score']}\n")
+
+# Sort
+candidates = sorted(candidates, key=lambda x: x["score"], reverse=True)
+
+# Save output
+with open("final_output.txt", "w") as f:
+    for c in candidates:
+        f.write(f"{c['candidate']} - {c['score']}\n")
+
+print("Day 15 Completed Successfully!")
