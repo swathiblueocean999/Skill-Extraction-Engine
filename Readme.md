@@ -1,0 +1,1 @@
+Implemented a fair ATS scoring system by normalizing candidate data, reducing bias by removing irrelevant attributes, and applying a balanced weighted scoring model. Generated both ranked and sequential outputs to improve recruiter decision-making and system transparency. -Day 15
