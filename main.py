@@ -1,60 +1,111 @@
 import json
-from normalization import normalize_text, normalize_experience, normalize_skills
-from bias import remove_bias_fields
-from scorer import calculate_scores, final_score
+from scorer import (
+    calculate_skill_score,
+    calculate_experience_score,
+    calculate_education_score,
+    calculate_final_score
+)
+from semantic import calculate_semantic_score
+from weights import WEIGHTS
 
-# Load data
-with open("output.json", "r") as f:
+# 🔹 Load profiles (JSON is a LIST)
+with open("output.json", "r", encoding="utf-8") as f:
     profiles = json.load(f)
 
-# Example JD
-jd = {
-    "skills": ["excel", "accounting"],
-    "education": "bachelor",
-    "text": "accounts assistant accounting excel finance"
+# 🔹 Job Description (manual)
+job = {
+    "role": "Machine Learning Engineer",
+    "responsibilities": "Build ML models using Python",
+    "skills": ["Python", "Machine Learning"],
+    "experience": 3,
+    "education": "B.Tech"
 }
 
-candidates = []
+results = []
 
-for p in profiles:
+# 🔹 Process each candidate
+for profile in profiles:
+    try:
+        scores = {
+            "skill": calculate_skill_score(
+                profile.get("skills", []),
+                job.get("skills", [])
+            ),
+            "experience": calculate_experience_score(
+                profile.get("experience", 0),
+                job.get("experience", 0)
+            ),
+            "education": calculate_education_score(
+                profile.get("education", ""),
+                job.get("education", "")
+            ),
+            # 🔥 semantic = role + responsibilities
+            "semantic": calculate_semantic_score(
+                profile.get("role", "") + " " + profile.get("responsibilities", ""),
+                job.get("role", "") + " " + job.get("responsibilities", "")
+            )
+        }
 
-    candidate = {
-        "skills": normalize_skills(p.get("skills")),
-        "experience": normalize_experience(p.get("experience")),
-        "education": normalize_text(p.get("education")),
-        "text": normalize_text(p.get("role", "") + " " + " ".join(p.get("responsibilities", [])))
-    }
+        final = calculate_final_score(scores, WEIGHTS["default"])
 
-    candidate = remove_bias_fields(candidate)
+        results.append({
+            "id": profile.get("profile_id", "N/A"),  # ✅ FIXED HERE
+            "score": final
+        })
 
-    scores = calculate_scores(candidate, jd)
-    total = final_score(scores)
+    except Exception as e:
+        print(f"Error in profile {profile.get('profile_id', 'N/A')}: {e}")
 
-    candidates.append({
-        "candidate": p.get("profile_id"),
-        "score": total
-    })
-    # 🔹 Ranking Output (already there)
-ranked = sorted(candidates, key=lambda x: x["score"], reverse=True)
+# 🔹 Sort (Ranking)
+results = sorted(results, key=lambda x: x["score"], reverse=True)
 
-with open("ranking_output.txt", "w") as f:
-    for c in ranked:
-        f.write(f"{c['candidate']} - {c['score']}\n")
+# 🔹 Thresholds
+SELECTED_THRESHOLD = 0.4
+REVIEW_THRESHOLD = 0.25
 
+selected, review, rejected = [], [], []
 
-# 🔹 Sequential Output (NEW)
-sequential = sorted(candidates, key=lambda x: x["candidate"])
+for r in results:
+    if r["score"] >= SELECTED_THRESHOLD:
+        selected.append(r)
+    elif r["score"] >= REVIEW_THRESHOLD:
+        review.append(r)
+    else:
+        rejected.append(r)
 
-with open("sequential_output.txt", "w") as f:
-    for c in sequential:
-        f.write(f"{c['candidate']} - {c['score']}\n")
+# 🔹 Output (Terminal)
+print("\n=== TOP CANDIDATES ===")
+for r in results[:5]:
+    print(f"{r['id']} -> {r['score']*100:.2f}%")
 
-# Sort
-candidates = sorted(candidates, key=lambda x: x["score"], reverse=True)
+print("\n=== SELECTED ===")
+for r in selected:
+    print(f"{r['id']} -> {r['score']*100:.2f}%")
 
-# Save output
-with open("final_output.txt", "w") as f:
-    for c in candidates:
-        f.write(f"{c['candidate']} - {c['score']}\n")
+print("\n=== REVIEW ===")
+for r in review:
+    print(f"{r['id']} -> {r['score']*100:.2f}%")
 
-print("Day 15 Completed Successfully!")
+print("\n=== REJECTED ===")
+for r in rejected:
+    print(f"{r['id']} -> {r['score']*100:.2f}%")
+
+# 🔹 Save to file
+with open("final_output.txt", "w", encoding="utf-8") as f:
+    f.write("=== TOP CANDIDATES ===\n")
+    for r in results[:5]:
+        f.write(f"{r['id']} -> {r['score']*100:.2f}%\n")
+
+    f.write("\n=== SELECTED ===\n")
+    for r in selected:
+        f.write(f"{r['id']} -> {r['score']*100:.2f}%\n")
+
+    f.write("\n=== REVIEW ===\n")
+    for r in review:
+        f.write(f"{r['id']} -> {r['score']*100:.2f}%\n")
+
+    f.write("\n=== REJECTED ===\n")
+    for r in rejected:
+        f.write(f"{r['id']} -> {r['score']*100:.2f}%\n")
+
+print("\n✅ Results saved to final_output.txt")

@@ -1,8 +1,8 @@
 WEIGHTS = {
     "default": {
-        "skill": 0.3,
+        "skill": 0.4,
         "experience": 0.2,
         "education": 0.2,
-        "semantic": 0.3
+        "semantic": 0.2
     }
 }
