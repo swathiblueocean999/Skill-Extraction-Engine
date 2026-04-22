@@ -1,13 +1,13 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+def semantic_score(profile):
+    skills = profile.get("skills", [])
+    responsibilities = profile.get("responsibilities", [])
 
+    if not isinstance(skills, list):
+        skills = []
 
-def calculate_semantic_score(text1, text2):
-    if not text1 or not text2:
-        return 0
+    if not isinstance(responsibilities, list):
+        responsibilities = []
 
-    vectorizer = TfidfVectorizer()
-    vectors = vectorizer.fit_transform([text1, text2])
+    score = len(skills) * 6 + len(responsibilities) * 2
 
-    score = cosine_similarity(vectors[0:1], vectors[1:2])[0][0]
-    return float(score)
+    return min(100, score)

@@ -1,7 +1,22 @@
-=== TOP CANDIDATES ===
+=== DAY 14 ATS REPORT ===
 
-=== SELECTED ===
+TOTAL: 89
+SELECTED: 4
+REVIEW: 56
+REJECTED: 29
 
-=== REVIEW ===
-
-=== REJECTED ===
+TOP CANDIDATES:
+51 | Payroll Accountant – | 63.0
+52 | Payroll Manager – | 56.56
+63 | Oracle Financials Consultant – | 56.0
+75 | Public Practice Accountant – | 55.16
+14 | Corporate Accountant – | 54.6
+17 | Financial Accountant – | 54.6
+20 | Project Accountant – | 54.6
+21 | Revenue Accountant – | 54.6
+23 | Fixed Asset Accountant – | 54.6
+24 | Tax Accountant – | 54.6
+25 | Direct Tax Accountant – | 54.6
+29 | Statutory Accountant – | 54.6
+30 | Compliance Accountant – | 54.6
+32 | Trust Accountant – | 54.6

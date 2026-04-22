@@ -1,34 +1,58 @@
-def calculate_skill_score(resume_skills, jd_skills):
-    if not resume_skills or not jd_skills:
-        return 0
+from weights import WEIGHTS
+from semantic import semantic_score
 
-    match = set(resume_skills).intersection(set(jd_skills))
-    return len(match) / len(jd_skills)
+def calculate_score(profile):
 
+    skills = profile.get("skills", [])
+    role = profile.get("role", "")
+    experience = profile.get("experience", "")
 
-def calculate_experience_score(resume_exp, jd_exp):
-    try:
-        resume_exp = int(resume_exp)
-        jd_exp = int(jd_exp)
-    except:
-        return 0
+    if not isinstance(skills, list):
+        skills = []
 
-    if jd_exp == 0:
-        return 1
+    # ---------------- SKILLS (BOOSTED) ----------------
+    skill_score = len(skills) * 12   # was 8 → increased
 
-    if resume_exp >= jd_exp:
-        return 1.0
-    else:
-        return resume_exp / jd_exp
+    # ---------------- EXPERIENCE (FIXED SCALE) ----------------
+    exp_score = 20
 
+    if isinstance(experience, str):
+        if "0" in experience:
+            exp_score = 35
+        elif "1" in experience:
+            exp_score = 50
+        elif "2" in experience:
+            exp_score = 60
+        elif "3" in experience:
+            exp_score = 70
+        elif "5" in experience:
+            exp_score = 85
+        elif "10" in experience:
+            exp_score = 95
 
-def calculate_education_score(resume_edu, jd_edu):
-    return 1.0 if resume_edu == jd_edu else 0.5
+    # ---------------- ROLE BOOST (FIXED) ----------------
+    role_score = 30
+    r = role.lower()
 
+    if "manager" in r or "head" in r or "director" in r or "cfo" in r:
+        role_score += 35
+    elif "accountant" in r:
+        role_score += 25
+    elif "analyst" in r:
+        role_score += 20
 
-def calculate_final_score(scores, weights):
-    final = 0
-    for key in scores:
-        final += scores[key] * weights.get(key, 0)
+    # ---------------- SEMANTIC (BOOSTED) ----------------
+    sem_score = semantic_score(profile)
 
-    return round(final, 4)
+    # ---------------- FINAL SCORE (RESCALED) ----------------
+    final_score = (
+        skill_score * WEIGHTS["skills"] +
+        exp_score * WEIGHTS["experience"] +
+        role_score * WEIGHTS["role"] +
+        sem_score * WEIGHTS["semantic"]
+    )
+
+    # 🚀 FORCE NORMALIZATION TO ATS SCALE
+    final_score = final_score * 1.4
+
+    return round(min(100, final_score), 2)
