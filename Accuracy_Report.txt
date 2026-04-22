@@ -1,10 +1,19 @@
+MATCHING ACCURACY REPORT
 
-    === Day 9: Skill Extraction Engine Report ===
-    Total Accountant Profiles Processed: 89
-    Total Skills Extracted: 237
-    Average Skills per Profile: 2.66
-    
-    Confidence Level: 1.0 (Exact Dictionary Match)
-    Normalization: Deduplication applied to all profiles.
-    ============================================
-    
+Total Resumes: 5  
+Total Job Descriptions: 5  
+Total Comparisons: 25  
+
+Results Summary:
+- Resume1 and Resume3 showed moderate similarity (50–62%)
+- Resume2 showed mixed results (low to moderate)
+- Resume4 showed mostly low similarity
+- Resume5 showed very low similarity (16–25%)
+
+Observations:
+- Relevant accounting resumes scored higher similarity
+- Irrelevant resumes scored significantly lower
+- System successfully differentiates between strong, moderate, and weak matches
+
+Conclusion:
+The semantic matching engine effectively measures similarity between resumes and job descriptions using embeddings. The system demonstrates reliable performance in identifying relevant candidates.
