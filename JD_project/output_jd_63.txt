@@ -1,0 +1,10 @@
+===== JD 63 RESULTS =====
+
+match_1.txt → 58% → WEAK MATCH
+match_3.txt → 58% → WEAK MATCH
+match_2.txt → 58% → WEAK MATCH
+match_4.txt → 57% → WEAK MATCH
+non_match_1.txt → 39% → NOT A MATCH
+non_match_3.txt → 36% → NOT A MATCH
+non_match_2.txt → 35% → NOT A MATCH
+non_match_4.txt → 32% → NOT A MATCH

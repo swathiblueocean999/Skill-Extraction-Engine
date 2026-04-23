@@ -1,0 +1,10 @@
+===== JD 24 RESULTS =====
+
+match_4.txt → 56% → WEAK MATCH
+match_1.txt → 53% → WEAK MATCH
+match_3.txt → 53% → WEAK MATCH
+match_2.txt → 52% → WEAK MATCH
+non_match_3.txt → 30% → NOT A MATCH
+non_match_1.txt → 29% → NOT A MATCH
+non_match_4.txt → 28% → NOT A MATCH
+non_match_2.txt → 28% → NOT A MATCH

@@ -1,0 +1,10 @@
+===== JD 2 RESULTS =====
+
+match_1.txt → 83% → STRONG MATCH
+match_4.txt → 74% → GOOD MATCH
+match_3.txt → 74% → GOOD MATCH
+match_2.txt → 71% → GOOD MATCH
+non_match_3.txt → 35% → NOT A MATCH
+non_match_1.txt → 33% → NOT A MATCH
+non_match_4.txt → 31% → NOT A MATCH
+non_match_2.txt → 30% → NOT A MATCH

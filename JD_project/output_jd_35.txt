@@ -1,0 +1,10 @@
+===== JD 35 RESULTS =====
+
+match_3.txt → 61% → GOOD MATCH
+match_1.txt → 58% → WEAK MATCH
+match_4.txt → 55% → WEAK MATCH
+match_2.txt → 52% → WEAK MATCH
+non_match_1.txt → 35% → NOT A MATCH
+non_match_3.txt → 33% → NOT A MATCH
+non_match_4.txt → 33% → NOT A MATCH
+non_match_2.txt → 24% → NOT A MATCH

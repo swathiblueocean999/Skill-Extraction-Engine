@@ -1,0 +1,10 @@
+===== JD 79 RESULTS =====
+
+match_3.txt → 54% → WEAK MATCH
+match_1.txt → 53% → WEAK MATCH
+match_2.txt → 53% → WEAK MATCH
+match_4.txt → 51% → WEAK MATCH
+non_match_3.txt → 30% → NOT A MATCH
+non_match_4.txt → 23% → NOT A MATCH
+non_match_1.txt → 23% → NOT A MATCH
+non_match_2.txt → 21% → NOT A MATCH

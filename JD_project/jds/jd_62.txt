@@ -1,0 +1,16 @@
+62. SAP FICO Consultant – - Job Description
+
+Responsibilities:
+- Configure SAP FI (GL, AP, AR, Asset Accounting) and CO modules
+- Gather business requirements and design solutions
+- Support SAP implementation, upgrades, and rollouts
+- Troubleshoot system issues and provide user support
+- Prepare functional specifications and documentation
+- Coordinate with technical teams and stakeholders
+
+Skills:
+- Strong SAP FICO configuration knowledge
+- Understanding of accounting and controlling processes
+
+Experience: 3–7 years
+Education: Degree in Accounting, Finance, or IT

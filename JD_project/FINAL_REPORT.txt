@@ -1,0 +1,356 @@
+
+===== JD 1 =====
+🥇 Top 1: match_2.txt → 85%
+🥈 Top 2: match_4.txt → 74%
+
+===== JD 2 =====
+🥇 Top 1: match_1.txt → 83%
+🥈 Top 2: match_4.txt → 74%
+
+===== JD 3 =====
+🥇 Top 1: match_1.txt → 84%
+🥈 Top 2: match_3.txt → 75%
+
+===== JD 4 =====
+🥇 Top 1: match_4.txt → 56%
+🥈 Top 2: match_2.txt → 56%
+
+===== JD 5 =====
+🥇 Top 1: match_2.txt → 53%
+🥈 Top 2: match_1.txt → 52%
+
+===== JD 6 =====
+🥇 Top 1: match_4.txt → 47%
+🥈 Top 2: match_3.txt → 47%
+
+===== JD 7 =====
+🥇 Top 1: match_2.txt → 50%
+🥈 Top 2: match_4.txt → 48%
+
+===== JD 8 =====
+🥇 Top 1: match_2.txt → 50%
+🥈 Top 2: match_3.txt → 49%
+
+===== JD 9 =====
+🥇 Top 1: match_3.txt → 51%
+🥈 Top 2: match_4.txt → 51%
+
+===== JD 10 =====
+🥇 Top 1: match_4.txt → 43%
+🥈 Top 2: match_2.txt → 41%
+
+===== JD 11 =====
+🥇 Top 1: match_4.txt → 50%
+🥈 Top 2: match_3.txt → 49%
+
+===== JD 12 =====
+🥇 Top 1: match_3.txt → 58%
+🥈 Top 2: match_4.txt → 57%
+
+===== JD 13 =====
+🥇 Top 1: match_3.txt → 49%
+🥈 Top 2: match_2.txt → 49%
+
+===== JD 14 =====
+🥇 Top 1: match_3.txt → 52%
+🥈 Top 2: match_1.txt → 52%
+
+===== JD 15 =====
+🥇 Top 1: match_4.txt → 60%
+🥈 Top 2: match_3.txt → 58%
+
+===== JD 16 =====
+🥇 Top 1: match_2.txt → 53%
+🥈 Top 2: match_3.txt → 52%
+
+===== JD 17 =====
+🥇 Top 1: match_1.txt → 60%
+🥈 Top 2: match_4.txt → 57%
+
+===== JD 18 =====
+🥇 Top 1: match_4.txt → 49%
+🥈 Top 2: match_3.txt → 46%
+
+===== JD 19 =====
+🥇 Top 1: match_2.txt → 54%
+🥈 Top 2: match_1.txt → 53%
+
+===== JD 20 =====
+🥇 Top 1: match_2.txt → 46%
+🥈 Top 2: match_3.txt → 44%
+
+===== JD 21 =====
+🥇 Top 1: match_1.txt → 55%
+🥈 Top 2: match_4.txt → 53%
+
+===== JD 22 =====
+🥇 Top 1: match_2.txt → 44%
+🥈 Top 2: match_3.txt → 41%
+
+===== JD 23 =====
+🥇 Top 1: match_3.txt → 50%
+🥈 Top 2: match_2.txt → 49%
+
+===== JD 24 =====
+🥇 Top 1: match_4.txt → 56%
+🥈 Top 2: match_1.txt → 53%
+
+===== JD 25 =====
+🥇 Top 1: match_2.txt → 52%
+🥈 Top 2: match_1.txt → 48%
+
+===== JD 26 =====
+🥇 Top 1: match_4.txt → 55%
+🥈 Top 2: match_1.txt → 54%
+
+===== JD 27 =====
+🥇 Top 1: match_3.txt → 51%
+🥈 Top 2: match_4.txt → 50%
+
+===== JD 28 =====
+🥇 Top 1: match_4.txt → 44%
+🥈 Top 2: match_1.txt → 44%
+
+===== JD 29 =====
+🥇 Top 1: match_4.txt → 49%
+🥈 Top 2: match_2.txt → 49%
+
+===== JD 30 =====
+🥇 Top 1: match_4.txt → 53%
+🥈 Top 2: match_3.txt → 51%
+
+===== JD 31 =====
+🥇 Top 1: match_4.txt → 56%
+🥈 Top 2: match_2.txt → 54%
+
+===== JD 32 =====
+🥇 Top 1: match_3.txt → 54%
+🥈 Top 2: match_1.txt → 52%
+
+===== JD 33 =====
+🥇 Top 1: match_2.txt → 49%
+🥈 Top 2: match_3.txt → 49%
+
+===== JD 34 =====
+🥇 Top 1: match_4.txt → 52%
+🥈 Top 2: match_2.txt → 52%
+
+===== JD 35 =====
+🥇 Top 1: match_3.txt → 61%
+🥈 Top 2: match_1.txt → 58%
+
+===== JD 36 =====
+🥇 Top 1: match_2.txt → 53%
+🥈 Top 2: match_4.txt → 52%
+
+===== JD 37 =====
+🥇 Top 1: match_4.txt → 55%
+🥈 Top 2: match_2.txt → 54%
+
+===== JD 38 =====
+🥇 Top 1: match_2.txt → 49%
+🥈 Top 2: match_1.txt → 48%
+
+===== JD 39 =====
+🥇 Top 1: match_3.txt → 48%
+🥈 Top 2: match_1.txt → 47%
+
+===== JD 40 =====
+🥇 Top 1: non_match_3.txt → 45%
+🥈 Top 2: match_3.txt → 45%
+
+===== JD 41 =====
+🥇 Top 1: match_3.txt → 51%
+🥈 Top 2: match_1.txt → 50%
+
+===== JD 42 =====
+🥇 Top 1: match_3.txt → 46%
+🥈 Top 2: match_1.txt → 44%
+
+===== JD 43 =====
+🥇 Top 1: match_1.txt → 52%
+🥈 Top 2: match_2.txt → 52%
+
+===== JD 44 =====
+🥇 Top 1: match_1.txt → 54%
+🥈 Top 2: match_3.txt → 49%
+
+===== JD 45 =====
+🥇 Top 1: match_3.txt → 54%
+🥈 Top 2: match_2.txt → 53%
+
+===== JD 46 =====
+🥇 Top 1: match_3.txt → 45%
+🥈 Top 2: match_1.txt → 44%
+
+===== JD 47 =====
+🥇 Top 1: match_3.txt → 50%
+🥈 Top 2: match_2.txt → 49%
+
+===== JD 48 =====
+🥇 Top 1: match_4.txt → 42%
+🥈 Top 2: match_1.txt → 41%
+
+===== JD 49 =====
+🥇 Top 1: match_4.txt → 49%
+🥈 Top 2: match_2.txt → 48%
+
+===== JD 50 =====
+🥇 Top 1: match_3.txt → 49%
+🥈 Top 2: match_4.txt → 47%
+
+===== JD 51 =====
+🥇 Top 1: match_2.txt → 52%
+🥈 Top 2: match_1.txt → 50%
+
+===== JD 52 =====
+🥇 Top 1: match_2.txt → 52%
+🥈 Top 2: match_4.txt → 52%
+
+===== JD 53 =====
+🥇 Top 1: match_4.txt → 46%
+🥈 Top 2: match_1.txt → 45%
+
+===== JD 54 =====
+🥇 Top 1: match_3.txt → 52%
+🥈 Top 2: match_4.txt → 48%
+
+===== JD 55 =====
+🥇 Top 1: match_2.txt → 45%
+🥈 Top 2: match_4.txt → 43%
+
+===== JD 56 =====
+🥇 Top 1: match_4.txt → 50%
+🥈 Top 2: match_1.txt → 49%
+
+===== JD 57 =====
+🥇 Top 1: match_2.txt → 45%
+🥈 Top 2: match_3.txt → 45%
+
+===== JD 58 =====
+🥇 Top 1: match_1.txt → 49%
+🥈 Top 2: match_3.txt → 47%
+
+===== JD 59 =====
+🥇 Top 1: match_4.txt → 42%
+🥈 Top 2: match_1.txt → 39%
+
+===== JD 60 =====
+🥇 Top 1: match_4.txt → 50%
+🥈 Top 2: match_1.txt → 49%
+
+===== JD 61 =====
+🥇 Top 1: match_1.txt → 53%
+🥈 Top 2: match_4.txt → 53%
+
+===== JD 62 =====
+🥇 Top 1: match_1.txt → 43%
+🥈 Top 2: match_2.txt → 43%
+
+===== JD 63 =====
+🥇 Top 1: match_1.txt → 58%
+🥈 Top 2: match_3.txt → 58%
+
+===== JD 64 =====
+🥇 Top 1: match_2.txt → 47%
+🥈 Top 2: match_1.txt → 45%
+
+===== JD 65 =====
+🥇 Top 1: match_4.txt → 49%
+🥈 Top 2: match_1.txt → 49%
+
+===== JD 66 =====
+🥇 Top 1: match_3.txt → 54%
+🥈 Top 2: match_4.txt → 53%
+
+===== JD 67 =====
+🥇 Top 1: match_2.txt → 47%
+🥈 Top 2: match_4.txt → 46%
+
+===== JD 68 =====
+🥇 Top 1: match_1.txt → 53%
+🥈 Top 2: match_4.txt → 51%
+
+===== JD 69 =====
+🥇 Top 1: match_2.txt → 55%
+🥈 Top 2: match_4.txt → 55%
+
+===== JD 70 =====
+🥇 Top 1: match_2.txt → 51%
+🥈 Top 2: match_1.txt → 49%
+
+===== JD 71 =====
+🥇 Top 1: match_3.txt → 52%
+🥈 Top 2: match_1.txt → 50%
+
+===== JD 72 =====
+🥇 Top 1: match_2.txt → 45%
+🥈 Top 2: match_1.txt → 44%
+
+===== JD 73 =====
+🥇 Top 1: match_1.txt → 41%
+🥈 Top 2: match_3.txt → 40%
+
+===== JD 74 =====
+🥇 Top 1: match_4.txt → 41%
+🥈 Top 2: match_1.txt → 39%
+
+===== JD 75 =====
+🥇 Top 1: match_1.txt → 55%
+🥈 Top 2: match_2.txt → 51%
+
+===== JD 76 =====
+🥇 Top 1: match_2.txt → 38%
+🥈 Top 2: match_1.txt → 35%
+
+===== JD 77 =====
+🥇 Top 1: match_3.txt → 40%
+🥈 Top 2: non_match_3.txt → 39%
+
+===== JD 78 =====
+🥇 Top 1: match_2.txt → 50%
+🥈 Top 2: match_1.txt → 50%
+
+===== JD 79 =====
+🥇 Top 1: match_3.txt → 54%
+🥈 Top 2: match_1.txt → 53%
+
+===== JD 80 =====
+🥇 Top 1: match_3.txt → 49%
+🥈 Top 2: match_4.txt → 47%
+
+===== JD 81 =====
+🥇 Top 1: match_1.txt → 49%
+🥈 Top 2: match_2.txt → 45%
+
+===== JD 82 =====
+🥇 Top 1: match_2.txt → 41%
+🥈 Top 2: match_4.txt → 40%
+
+===== JD 83 =====
+🥇 Top 1: match_2.txt → 47%
+🥈 Top 2: match_1.txt → 46%
+
+===== JD 84 =====
+🥇 Top 1: match_2.txt → 48%
+🥈 Top 2: match_4.txt → 46%
+
+===== JD 85 =====
+🥇 Top 1: match_2.txt → 58%
+🥈 Top 2: match_3.txt → 57%
+
+===== JD 86 =====
+🥇 Top 1: match_1.txt → 52%
+🥈 Top 2: match_3.txt → 49%
+
+===== JD 87 =====
+🥇 Top 1: match_2.txt → 49%
+🥈 Top 2: match_1.txt → 48%
+
+===== JD 88 =====
+🥇 Top 1: match_2.txt → 50%
+🥈 Top 2: match_4.txt → 50%
+
+===== JD 89 =====
+🥇 Top 1: match_4.txt → 63%
+🥈 Top 2: match_2.txt → 51%

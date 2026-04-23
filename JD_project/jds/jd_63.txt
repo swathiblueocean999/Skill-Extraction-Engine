@@ -1,0 +1,16 @@
+63. Oracle Financials Consultant – - Job Description
+
+Responsibilities:
+- Configure Oracle Financials modules (GL, AP, AR, FA, CM)
+- Analyze business processes and recommend ERP solutions
+- Support system integrations and data migrations
+- Provide functional support and user training
+- Assist in testing, audits, and compliance reporting
+
+Skills:
+- Strong Oracle Financials knowledge
+- Understanding of end-to-end accounting processes
+- ERP implementation and support
+
+Experience: 3–8 years
+Education: Accounting/Finance or IT degree
