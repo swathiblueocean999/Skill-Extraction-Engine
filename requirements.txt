@@ -1,2 +1,5 @@
 fastapi
+uvicornafastapi
 uvicorn
+sentence-transformers
+scikit-learn
