@@ -1,30 +1,12 @@
-=== RUNNING ATS TEST ===
+=== ATS OPTIMIZATION REPORT ===
 
-PROCESSING: profile 13
-profile 13 | Score: 30 | Expected: True | Predicted: True
-PROCESSING: profile 14
-profile 14 | Score: 40 | Expected: True | Predicted: True
-PROCESSING: profile 15
-profile 15 | Score: 5 | Expected: True | Predicted: False
-PROCESSING: profile 4
-profile 4 | Score: 45 | Expected: False | Predicted: True
-PROCESSING: profile 5
-profile 5 | Score: 30 | Expected: True | Predicted: True
-PROCESSING: profile 6
-profile 6 | Score: 0 | Expected: True | Predicted: False
-PROCESSING: profile 16
-profile 16 | Score: 45 | Expected: True | Predicted: True
-PROCESSING: profile 17
-profile 17 | Score: 15 | Expected: True | Predicted: False
-PROCESSING: profile 85
-profile 85 | Score: 35 | Expected: False | Predicted: True
-PROCESSING: profile 86
-profile 86 | Score: 0 | Expected: False | Predicted: False
+Skills: ['financial', 'accounting', 'excel', 'erp', 'tally']
+Experience: ['3 years']
 
-=== FINAL ATS RESULTS ===
-Total Profiles: 10
-TP: 4 FP: 2 TN: 1 FN: 3
-Accuracy: 0.5
-Precision: 0.67
-Recall: 0.57
-F1 Score: 0.62
+--- Performance ---
+Extraction Time : 0.000355 sec
+Cleaning Time   : 0.000307 sec
+Skills Time     : 6e-06 sec
+Experience Time : 8.5e-05 sec
+--------------------------------
+Total Pipeline Time: 0.000753 sec
