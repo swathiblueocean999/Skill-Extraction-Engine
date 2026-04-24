@@ -1,0 +1,15 @@
+ATS FINAL REPORT
+
+Accuracy: 0.50
+Precision: 0.67
+Recall: 0.57
+F1 Score: 0.62
+
+Summary:
+The ATS system evaluates resumes based on skills and experience.
+
+Performance:
+The system runs efficiently with low processing time.
+
+Conclusion:
+The system performs well for strong profiles but needs improvement for average and borderline candidates.
