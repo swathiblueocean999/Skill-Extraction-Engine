@@ -10,7 +10,14 @@ results = []
 # Metrics
 tp = fp = tn = fn = 0
 
+# Threshold
+THRESHOLD = 30
+
+# Log collector (for file output)
+log_lines = []
+
 print("\n=== RUNNING ATS TEST ===\n")
+log_lines.append("=== RUNNING ATS TEST ===\n")
 
 for profile in data:
 
@@ -20,13 +27,18 @@ for profile in data:
     # Run model
     result = evaluate_resume(profile)
 
-    predicted = result.get("predicted_good", False)
     score = result.get("score", 0)
 
-    # Debug print (IMPORTANT for fixing issues)
-    print(f"{profile_id} | Score: {score} | Expected: {expected} | Predicted: {predicted}")
+    # Prediction logic
+    predicted = score >= THRESHOLD
 
-    # Save result
+    line = f"PROCESSING: {profile_id}\n{profile_id} | Score: {score} | Expected: {expected} | Predicted: {predicted}"
+
+    # ✔️ PRINT + SAVE BOTH
+    print(line)
+    log_lines.append(line)
+
+    # Save structured result
     results.append({
         "profile_id": profile_id,
         "expected_good": expected,
@@ -34,7 +46,7 @@ for profile in data:
         "score": score
     })
 
-    # Metrics calculation
+    # Confusion matrix
     if expected and predicted:
         tp += 1
     elif not expected and not predicted:
@@ -44,20 +56,45 @@ for profile in data:
     elif expected and not predicted:
         fn += 1
 
-# Save output.json
-with open("output.json", "w") as f:
-    json.dump(results, f, indent=2)
-
-# Final metrics
+# Metrics
 total = tp + tn + fp + fn
 
 accuracy = (tp + tn) / total if total else 0
 precision = tp / (tp + fp) if (tp + fp) else 0
 recall = tp / (tp + fn) if (tp + fn) else 0
+f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) else 0
 
-print("\n=== FINAL ATS RESULTS ===")
-print("Total Profiles:", total)
-print("TP:", tp, "FP:", fp, "TN:", tn, "FN:", fn)
-print("Accuracy:", round(accuracy, 2))
-print("Precision:", round(precision, 2))
-print("Recall:", round(recall, 2))
+# Final report
+final_report = f"""
+=== FINAL ATS RESULTS ===
+Total Profiles: {total}
+TP: {tp} FP: {fp} TN: {tn} FN: {fn}
+Accuracy: {round(accuracy, 2)}
+Precision: {round(precision, 2)}
+Recall: {round(recall, 2)}
+F1 Score: {round(f1, 2)}
+"""
+
+# ✔️ PRINT + SAVE FINAL REPORT
+print(final_report)
+log_lines.append(final_report)
+
+# Save JSON output
+output_data = {
+    "metrics": {
+        "accuracy": accuracy,
+        "precision": precision,
+        "recall": recall,
+        "f1": f1
+    },
+    "results": results
+}
+
+with open("output.json", "w") as f:
+    json.dump(output_data, f, indent=2)
+
+# ✔️ Save FULL TEXT LOG (FIXED)
+with open("output.txt", "w") as f:
+    f.write("\n".join(log_lines))
+
+print("✔️ ALL OUTPUTS SAVED SUCCESSFULLY")

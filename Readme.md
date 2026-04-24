@@ -1,82 +1,13 @@
- **Education & Certification Parsing Project**
+# ATS System - Day 17 Testing Report
 
-📌 **Overview**
+## 1. Threshold Tuning
+Current system uses a fixed threshold (score >= 30) for classification. Further optimization can improve accuracy.
 
-This project extracts structured Education and Certification details from unstructured text data (converted from PDF profiles).
+## 2. False Negative Reduction
+Some good candidates are misclassified as weak due to strict scoring rules. This can be improved by refining keyword weights.
 
-🎯 **Objective**
+## 3. Borderline Score Handling
+Profiles with scores in the range of 25–40 may behave inconsistently. Better weighting strategy is required for stability.
 
-Parse multiple profiles from a single text file
-
-Extract key academic details
-
-Organize the data into a structured format
-
-📂 **Input**
-
-full\_extracted\_text.txt  
-(Contains 89 profiles converted from PDF)
-
-📊 **Output**
-
-**final\_day11\_full\_output.csv**
-
-Columns included:
-
-* **Profile**  
-    
-* **Degree**  
-    
-* **Field of Study**  
-    
-* **Institution**  
-    
-* **Graduation Year**  
-    
-* **Certifications**  
-    
-* **Normalized Degree**  
-    
-* **Certification Tag**
-
-⚙️ **How It Works**
-
-Split the text into individual profiles
-
-Use keyword-based parsing to extract: 
-
-* **Degree**  
-    
-* **Field**  
-    
-* **Institution**  
-    
-* **Year**  
-    
-* **Certifications**  
-    
-* **Handle missing data using "Not Mentioned"**  
-    
-* **Normalize degree names**  
-    
-* **Tag certifications based on relevance**
-
-▶️ **How to Run**
-
-python your\_script\_name.py 
-
-🧠 Notes
-
-* Not all profiles contain complete education details  
-    
-* Missing values are marked as "Not Mentioned"  
-    
-* Data is extracted using pattern matching and keyword detection
-
-
-✅ **Status**
-
-✔ Task Completed  
-✔ Output Generated  
-✔ Data Structured Successfully
-
+## 4. Score Normalization
+Current scoring system uses raw values (0–100). Converting to a normalized scale (0–1) can improve consistency and model comparison.
