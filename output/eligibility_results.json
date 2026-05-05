@@ -1,0 +1,182 @@
+[
+  {
+    "profile_id": "profile 13",
+    "role": "accounts_assistant",
+    "score": 30,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 13",
+    "role": "junior_accountant",
+    "score": 30,
+    "status": "Review"
+  },
+  {
+    "profile_id": "profile 13",
+    "role": "accounts_executive",
+    "score": 30,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 14",
+    "role": "accounts_assistant",
+    "score": 40,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 14",
+    "role": "junior_accountant",
+    "score": 40,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 14",
+    "role": "accounts_executive",
+    "score": 40,
+    "status": "Review"
+  },
+  {
+    "profile_id": "profile 15",
+    "role": "accounts_assistant",
+    "score": 5,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 15",
+    "role": "junior_accountant",
+    "score": 5,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 15",
+    "role": "accounts_executive",
+    "score": 5,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 4",
+    "role": "accounts_assistant",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 4",
+    "role": "junior_accountant",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 4",
+    "role": "accounts_executive",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 5",
+    "role": "accounts_assistant",
+    "score": 30,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 5",
+    "role": "junior_accountant",
+    "score": 30,
+    "status": "Review"
+  },
+  {
+    "profile_id": "profile 5",
+    "role": "accounts_executive",
+    "score": 30,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 6",
+    "role": "accounts_assistant",
+    "score": 0,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 6",
+    "role": "junior_accountant",
+    "score": 0,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 6",
+    "role": "accounts_executive",
+    "score": 0,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 16",
+    "role": "accounts_assistant",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 16",
+    "role": "junior_accountant",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 16",
+    "role": "accounts_executive",
+    "score": 45,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 17",
+    "role": "accounts_assistant",
+    "score": 15,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 17",
+    "role": "junior_accountant",
+    "score": 15,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 17",
+    "role": "accounts_executive",
+    "score": 15,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 85",
+    "role": "accounts_assistant",
+    "score": 35,
+    "status": "Eligible"
+  },
+  {
+    "profile_id": "profile 85",
+    "role": "junior_accountant",
+    "score": 35,
+    "status": "Review"
+  },
+  {
+    "profile_id": "profile 85",
+    "role": "accounts_executive",
+    "score": 35,
+    "status": "Review"
+  },
+  {
+    "profile_id": "profile 86",
+    "role": "accounts_assistant",
+    "score": 0,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 86",
+    "role": "junior_accountant",
+    "score": 0,
+    "status": "Rejected"
+  },
+  {
+    "profile_id": "profile 86",
+    "role": "accounts_executive",
+    "score": 0,
+    "status": "Rejected"
+  }
+]

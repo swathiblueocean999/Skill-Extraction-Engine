@@ -1,0 +1,20 @@
+{
+  "accounts_assistant": {
+    "min_score": 30,
+    "mandatory_skills": ["accounting", "excel"],
+    "min_experience": 0,
+    "max_experience": 2
+  },
+  "junior_accountant": {
+    "min_score": 40,
+    "mandatory_skills": ["accounting", "tally", "gst"],
+    "min_experience": 0,
+    "max_experience": 2
+  },
+  "accounts_executive": {
+    "min_score": 45,
+    "mandatory_skills": ["accounting", "tally", "excel"],
+    "min_experience": 1,
+    "max_experience": 3
+  }
+}

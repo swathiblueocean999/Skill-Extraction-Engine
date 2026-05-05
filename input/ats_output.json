@@ -1,0 +1,70 @@
+{
+  "metrics": {
+    "accuracy": 0.5,
+    "precision": 0.6666666666666666,
+    "recall": 0.5714285714285714,
+    "f1": 0.6153846153846153
+  },
+  "results": [
+    {
+      "profile_id": "profile 13",
+      "expected_good": true,
+      "predicted_good": true,
+      "score": 30
+    },
+    {
+      "profile_id": "profile 14",
+      "expected_good": true,
+      "predicted_good": true,
+      "score": 40
+    },
+    {
+      "profile_id": "profile 15",
+      "expected_good": true,
+      "predicted_good": false,
+      "score": 5
+    },
+    {
+      "profile_id": "profile 4",
+      "expected_good": false,
+      "predicted_good": true,
+      "score": 45
+    },
+    {
+      "profile_id": "profile 5",
+      "expected_good": true,
+      "predicted_good": true,
+      "score": 30
+    },
+    {
+      "profile_id": "profile 6",
+      "expected_good": true,
+      "predicted_good": false,
+      "score": 0
+    },
+    {
+      "profile_id": "profile 16",
+      "expected_good": true,
+      "predicted_good": true,
+      "score": 45
+    },
+    {
+      "profile_id": "profile 17",
+      "expected_good": true,
+      "predicted_good": false,
+      "score": 15
+    },
+    {
+      "profile_id": "profile 85",
+      "expected_good": false,
+      "predicted_good": true,
+      "score": 35
+    },
+    {
+      "profile_id": "profile 86",
+      "expected_good": false,
+      "predicted_good": false,
+      "score": 0
+    }
+  ]
+}
