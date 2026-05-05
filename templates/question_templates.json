@@ -1,0 +1,5 @@
+{
+  "text": "Please answer: {question}",
+  "number": "Enter a value: {question}",
+  "yes_no": "Answer Yes or No: {question}"
+}
