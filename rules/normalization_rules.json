@@ -1,0 +1,6 @@
+{
+  "lowercase": true,
+  "remove_fillers": ["um", "uh", "like", "you know"],
+  "remove_special_chars": true,
+  "trim_spaces": true
+}

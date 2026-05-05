@@ -1,0 +1,13 @@
+{
+  "candidate_id": "string",
+  "job_id": "string",
+  "conversation": [
+    {
+      "question_id": "int",
+      "question": "string",
+      "answer": "string",
+      "timestamp": "string",
+      "confidence": "float"
+    }
+  ]
+}

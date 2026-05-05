@@ -1,0 +1,58 @@
+[
+  {
+    "candidate_id": "C001",
+    "job_id": "J001",
+    "question_id": 1,
+    "category": "introduction",
+    "question": "Tell me about yourself",
+    "answer": "I am a BCom graduate with experience in accounting and GST filing",
+    "normalized_answer": "i am a bcom graduate with experience in accounting and gst filing",
+    "answer_type": "text",
+    "extracted_experience": null,
+    "timestamp": "2026-04-29T10:00:00",
+    "confidence": 0.95,
+    "is_cleaned": true
+  },
+  {
+    "candidate_id": "C001",
+    "job_id": "J001",
+    "question_id": 5,
+    "category": "experience",
+    "question": "How many years of experience do you have?",
+    "answer": "I have 2 years of experience in accounts",
+    "normalized_answer": "i have 2 years of experience in accounts",
+    "answer_type": "number",
+    "extracted_experience": 2,
+    "timestamp": "2026-04-29T10:02:00",
+    "confidence": 0.93,
+    "is_cleaned": true
+  },
+  {
+    "candidate_id": "C001",
+    "job_id": "J001",
+    "question_id": 8,
+    "category": "skills",
+    "question": "What accounting tools/software do you know?",
+    "answer": "I have worked with Tally ERP and Excel",
+    "normalized_answer": "i have worked with tally erp and excel",
+    "answer_type": "text",
+    "extracted_experience": null,
+    "timestamp": "2026-04-29T10:04:00",
+    "confidence": 0.94,
+    "is_cleaned": true
+  },
+  {
+    "candidate_id": "C002",
+    "job_id": "J001",
+    "question_id": 5,
+    "category": "experience",
+    "question": "How many years of experience do you have?",
+    "answer": "I am a fresher with no work experience",
+    "normalized_answer": "i am a fresher with no work experience",
+    "answer_type": "number",
+    "extracted_experience": 0,
+    "timestamp": "2026-04-29T11:02:00",
+    "confidence": 0.9,
+    "is_cleaned": true
+  }
+]

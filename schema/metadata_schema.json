@@ -1,0 +1,7 @@
+{
+  "candidate_id": "Unique candidate identifier",
+  "job_id": "Job role identifier",
+  "question_id": "Mapped HR question ID",
+  "timestamp": "Time of response",
+  "confidence": "Speech-to-text confidence (0-1)"
+}
