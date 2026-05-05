@@ -1,0 +1,26 @@
+[
+  {
+    "file": "sample1.wav",
+    "raw_text": "hello my name is Swati I have two years of experience in accounting I am skilled in Tally and Excel",
+    "cleaned_text": "Hello my name is swati i have two years of experience in accounting i am skilled in tally and excel.",
+    "confidence": 0.9,
+    "status": "cleaned",
+    "word_count": 20
+  },
+  {
+    "file": "sample2.wav",
+    "raw_text": "hello I am Rahul I have like two years of experience in accounting and familiar with Tally",
+    "cleaned_text": "Hello i am rahul i have two years of experience in accounting and familiar with tally.",
+    "confidence": 0.9,
+    "status": "cleaned",
+    "word_count": 16
+  },
+  {
+    "file": "sample3.wav",
+    "raw_text": "hello I am Deepak I worked in accounting for 3 years I know Excel",
+    "cleaned_text": "Hello i am deepak i worked in accounting for 3 years i know excel.",
+    "confidence": 0.9,
+    "status": "cleaned",
+    "word_count": 14
+  }
+]
