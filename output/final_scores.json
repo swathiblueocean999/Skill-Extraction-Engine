@@ -1,0 +1,57 @@
+[
+  {
+    "candidate_id": "C001",
+    "scores": {
+      "clarity": 10,
+      "relevance": 10,
+      "completeness": 10,
+      "consistency": 10
+    },
+    "total_score": 100.0,
+    "explanation": "Strong and relevant answer."
+  },
+  {
+    "candidate_id": "C002",
+    "scores": {
+      "clarity": 5.0,
+      "relevance": 0,
+      "completeness": 10,
+      "consistency": 10
+    },
+    "total_score": 62.5,
+    "explanation": "Answer is off-topic and not relevant."
+  },
+  {
+    "candidate_id": "C003",
+    "scores": {
+      "clarity": 5.0,
+      "relevance": 10,
+      "completeness": 5.0,
+      "consistency": 10
+    },
+    "total_score": 75.0,
+    "explanation": "Answer has missing or unclear details."
+  },
+  {
+    "candidate_id": "C004",
+    "scores": {
+      "clarity": 5.0,
+      "relevance": 10,
+      "completeness": 10,
+      "consistency": 10
+    },
+    "total_score": 87.5,
+    "explanation": "Strong and relevant answer."
+  },
+  {
+    "candidate_id": "C005",
+    "scores": {
+      "clarity": 5.0,
+      "relevance": 10,
+      "completeness": 5.0,
+      "consistency": 5.0
+    },
+    "total_score": 62.5,
+    "explanation": "Answer has missing or unclear details."
+  }
+]
