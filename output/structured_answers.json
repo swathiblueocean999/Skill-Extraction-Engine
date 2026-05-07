@@ -1,0 +1,91 @@
+[
+  {
+    "candidate_id": "C001",
+    "raw_answer": "I have 2 years of experience in accounting and I know Tally and Excel. Expected salary is 30000 and I can join immediately.",
+    "intents": [
+      "availability",
+      "experience",
+      "salary",
+      "skills"
+    ],
+    "entities": {
+      "experience": "2",
+      "salary": "30000",
+      "skills": [
+        "tally",
+        "excel"
+      ],
+      "availability": "immediate"
+    },
+    "issues": [],
+    "status": "valid"
+  },
+  {
+    "candidate_id": "C002",
+    "raw_answer": "I like cricket and watching movies",
+    "intents": [],
+    "entities": {
+      "experience": null,
+      "salary": null,
+      "skills": [],
+      "availability": null
+    },
+    "issues": [
+      "off_topic"
+    ],
+    "status": "needs_review"
+  },
+  {
+    "candidate_id": "C003",
+    "raw_answer": "I have experience in accounting",
+    "intents": [
+      "experience"
+    ],
+    "entities": {
+      "experience": null,
+      "salary": null,
+      "skills": [],
+      "availability": null
+    },
+    "issues": [
+      "missing_experience"
+    ],
+    "status": "needs_review"
+  },
+  {
+    "candidate_id": "C004",
+    "raw_answer": "I know Excel and Tally",
+    "intents": [
+      "skills"
+    ],
+    "entities": {
+      "experience": null,
+      "salary": null,
+      "skills": [
+        "tally",
+        "excel"
+      ],
+      "availability": null
+    },
+    "issues": [],
+    "status": "valid"
+  },
+  {
+    "candidate_id": "C005",
+    "raw_answer": "I have some experience",
+    "intents": [
+      "experience"
+    ],
+    "entities": {
+      "experience": null,
+      "salary": null,
+      "skills": [],
+      "availability": null
+    },
+    "issues": [
+      "missing_experience",
+      "vague_answer"
+    ],
+    "status": "needs_review"
+  }
+]
