@@ -1,0 +1,12 @@
+[
+  {"candidate_id": "C001", "expected_status": "good"},
+  {"candidate_id": "C002", "expected_status": "reject"},
+  {"candidate_id": "C003", "expected_status": "average"},
+  {"candidate_id": "C004", "expected_status": "good"},
+  {"candidate_id": "C005", "expected_status": "reject"},
+  {"candidate_id": "C006", "expected_status": "reject"},
+  {"candidate_id": "C007", "expected_status": "average"},
+  {"candidate_id": "C008", "expected_status": "good"},
+  {"candidate_id": "C009", "expected_status": "reject"},
+  {"candidate_id": "C010", "expected_status": "reject"}
+]

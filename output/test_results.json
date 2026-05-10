@@ -1,0 +1,62 @@
+[
+  {
+    "candidate_id": "C001",
+    "ai_result": "good",
+    "expected": "good",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C002",
+    "ai_result": "reject",
+    "expected": "reject",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C003",
+    "ai_result": "average",
+    "expected": "average",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C004",
+    "ai_result": "good",
+    "expected": "good",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C005",
+    "ai_result": "reject",
+    "expected": "reject",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C006",
+    "ai_result": "reject",
+    "expected": "reject",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C007",
+    "ai_result": "average",
+    "expected": "average",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C008",
+    "ai_result": "good",
+    "expected": "good",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C009",
+    "ai_result": "reject",
+    "expected": "reject",
+    "status": "match"
+  },
+  {
+    "candidate_id": "C010",
+    "ai_result": "reject",
+    "expected": "reject",
+    "status": "match"
+  }
+]
