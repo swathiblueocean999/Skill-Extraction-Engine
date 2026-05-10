@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q0",
+    "text": "Tell me about yourself"
+  },
+  {
+    "id": "Q1",
+    "text": "Can you describe your work experience?"
+  },
+  {
+    "id": "Q2",
+    "text": "What skills and tools are you proficient in?"
+  },
+  {
+    "id": "Q3",
+    "text": "Can you explain a challenging situation you handled?"
+  },
+  {
+    "id": "Q4",
+    "text": "Why are you interested in this role?"
+  },
+  {
+    "id": "Q5",
+    "text": "What is your expected salary?"
+  },
+  {
+    "id": "Q6",
+    "text": "When can you join?"
+  }
+]

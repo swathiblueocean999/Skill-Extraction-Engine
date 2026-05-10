@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Tell me about yourself",
+    "answer": "I am Swathi, I have 2 years of experience in accounting. I am skilled in Tally and Excel and I am looking for a growth opportunity.",
+    "decision": "valid"
+  },
+  {
+    "question": "Can you describe your work experience?",
+    "answer": "I have 2 years of experience in accounting where I handled financial records, invoice processing, and report preparation. I have hands-on experience with Tally and Excel, and I am comfortable managing day-to-day accounting operations.",
+    "decision": "valid"
+  },
+  {
+    "question": "What skills and tools are you proficient in?",
+    "answer": "I am proficient in accounting and financial record management. I have hands-on experience with Tally for accounting operations and Excel for data analysis, reporting, and maintaining financial records.",
+    "decision": "valid"
+  },
+  {
+    "question": "Can you explain a challenging situation you handled?",
+    "answer": "In my previous role, I faced a challenge during month-end closing when there were discrepancies in financial records. I was responsible for identifying the issue and resolving it. I analyzed the transactions in detail and found some incorrect entries. I corrected them using Tally and verified the data in Excel. As a result, we were able to complete the reports accurately and meet the deadline.",
+    "decision": "valid"
+  },
+  {
+    "question": "Why are you interested in this role?",
+    "answer": "I am interested in this role because it matches my background in accounting and my skills in Tally and Excel. I am looking for a position where I can contribute effectively while also learning and growing in my career.",
+    "decision": "valid"
+  },
+  {
+    "question": "What is your expected salary?",
+    "answer": "Based on my experience and current market standards, I am expecting a salary in the range of 25,000 to 30,000. However, I am open to discussion depending on the role and opportunities for growth.",
+    "decision": "valid"
+  },
+  {
+    "question": "When can you join?",
+    "answer": "I am available to join immediately and can start as soon as required.",
+    "decision": "valid"
+  }
+]
