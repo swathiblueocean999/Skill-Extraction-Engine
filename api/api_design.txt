@@ -1,0 +1,15 @@
+AI SCREENING API DESIGN
+
+INPUT:
+Candidate screening answer
+
+PROCESS FLOW:
+1. Intent & Skill Detection
+2. Experience Detection
+3. Scoring Engine
+4. Confidence Analysis
+5. AI Evaluation
+6. Report Generation
+
+OUTPUT:
+Final AI Screening Report

@@ -1,0 +1,17 @@
+AI SCREENING SYSTEM DOCUMENTATION
+
+SYSTEM MODULES:
+- Intent Understanding
+- Screening Scoring
+- Confidence Analysis
+- AI Report Generation
+- Edge Case Handling
+
+SYSTEM FLOW:
+Input -> Analysis -> Scoring -> Confidence -> Final Report
+
+FEATURES:
+- Automated candidate screening
+- Recruiter-ready reports
+- AI evaluation logic
+- Real-world edge-case handling

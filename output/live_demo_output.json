@@ -1,0 +1,124 @@
+[
+  {
+    "candidate_id": "C001",
+    "analysis": {
+      "skills": [
+        "excel",
+        "tally"
+      ],
+      "experience": true,
+      "availability": true,
+      "off_topic": false,
+      "uncertainty": false,
+      "missing_answer": false
+    },
+    "screening_score": 70,
+    "confidence": "high",
+    "final_status": "good"
+  },
+  {
+    "candidate_id": "C002",
+    "analysis": {
+      "skills": [],
+      "experience": false,
+      "availability": false,
+      "off_topic": true,
+      "uncertainty": false,
+      "missing_answer": false
+    },
+    "screening_score": 0,
+    "confidence": "medium",
+    "final_status": "reject"
+  },
+  {
+    "candidate_id": "C003",
+    "analysis": {
+      "skills": [
+        "excel"
+      ],
+      "experience": false,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": false,
+      "missing_answer": false
+    },
+    "screening_score": 15,
+    "confidence": "medium",
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C004",
+    "analysis": {
+      "skills": [],
+      "experience": true,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": false,
+      "missing_answer": false
+    },
+    "screening_score": 30,
+    "confidence": "high",
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C005",
+    "analysis": {
+      "skills": [],
+      "experience": false,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": true,
+      "missing_answer": false
+    },
+    "screening_score": 0,
+    "confidence": "medium",
+    "final_status": "reject"
+  },
+  {
+    "candidate_id": "C006",
+    "analysis": {
+      "skills": [],
+      "experience": false,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": false,
+      "missing_answer": true
+    },
+    "screening_score": 0,
+    "confidence": "low",
+    "final_status": "reject"
+  },
+  {
+    "candidate_id": "C007",
+    "analysis": {
+      "skills": [
+        "excel",
+        "tally",
+        "gst",
+        "payroll"
+      ],
+      "experience": false,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": false,
+      "missing_answer": false
+    },
+    "screening_score": 60,
+    "confidence": "medium",
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C008",
+    "analysis": {
+      "skills": [],
+      "experience": false,
+      "availability": false,
+      "off_topic": false,
+      "uncertainty": true,
+      "missing_answer": false
+    },
+    "screening_score": 0,
+    "confidence": "low",
+    "final_status": "reject"
+  }
+]
