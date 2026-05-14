@@ -1,5 +1,1 @@
-fastapi
-uvicornafastapi
-uvicorn
-sentence-transformers
-scikit-learn
+No external libraries required

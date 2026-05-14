@@ -1,74 +1,35 @@
-import time
-from optimizer.text_extractor import extract_text
-from optimizer.cleaner import clean_text
-from optimizer.entity_detector import extract_skills, extract_experience
+import json
+from engine.interview_flow import run_interview
 
 
-file_path = "optimizer/utils/data/sample_resume.txt"
+def load_candidates():
+
+    with open("data/sample_candidates.json", "r") as file:
+        return json.load(file)
 
 
-def measure_time(func, *args):
-    start = time.time()
-    result = func(*args)
-    end = time.time()
-    return result, round(end - start, 6)
+def save_output(data):
+
+    with open("output/interview_sessions.json", "w") as file:
+        json.dump(data, file, indent=2)
 
 
-try:
-    print("\n=== ATS OPTIMIZATION PIPELINE STARTED ===\n")
+def main():
 
-    # STEP 1: TEXT EXTRACTION
-    text, t1 = measure_time(extract_text, file_path)
+    candidates = load_candidates()
 
-    # STEP 2: CLEANING
-    cleaned_text, t2 = measure_time(clean_text, text)
+    all_sessions = []
 
-    # STEP 3: SKILLS EXTRACTION
-    skills, t3 = measure_time(extract_skills, cleaned_text)
+    for candidate in candidates:
 
-    # STEP 4: EXPERIENCE EXTRACTION
-    experience, t4 = measure_time(extract_experience, cleaned_text)
+        session = run_interview(candidate)
 
-    # TOTAL TIME
-    total_time = round(t1 + t2 + t3 + t4, 6)
+        all_sessions.append(session)
 
-    # OUTPUT PRINT (TERMINAL)
-    print("Skills:", skills)
-    print("Experience:", experience)
+    save_output(all_sessions)
 
-    print("\n--- PERFORMANCE REPORT ---")
-    print(f"Extraction Time : {t1} sec")
-    print(f"Cleaning Time   : {t2} sec")
-    print(f"Skills Time     : {t3} sec")
-    print(f"Experience Time : {t4} sec")
-    print("--------------------------------")
-    print(f"Total Pipeline Time: {total_time} sec")
+    print("\nInterview sessions saved successfully")
 
-    # WARNINGS
-    if not skills:
-        print("WARNING: No skills detected")
 
-    if not experience:
-        print("WARNING: No experience detected")
-
-    print("\n=== PIPELINE COMPLETED SUCCESSFULLY ===")
-
-    # =========================
-    # SAVE OUTPUT TO FILE
-    # =========================
-    with open("output.txt", "w", encoding="utf-8") as f:
-        f.write("=== ATS OPTIMIZATION REPORT ===\n\n")
-
-        f.write(f"Skills: {skills}\n")
-        f.write(f"Experience: {experience}\n\n")
-
-        f.write("--- Performance ---\n")
-        f.write(f"Extraction Time : {t1} sec\n")
-        f.write(f"Cleaning Time   : {t2} sec\n")
-        f.write(f"Skills Time     : {t3} sec\n")
-        f.write(f"Experience Time : {t4} sec\n")
-        f.write("--------------------------------\n")
-        f.write(f"Total Pipeline Time: {total_time} sec\n")
-
-except Exception as e:
-    print("ERROR OCCURRED:", str(e))
+if __name__ == "__main__":
+    main()
