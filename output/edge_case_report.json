@@ -1,0 +1,72 @@
+[
+  {
+    "candidate_id": "C001",
+    "answer": "Hello I have 2 years of accounting experience and I know Excel",
+    "detected_issue": "normal",
+    "retry_message": "Proceed",
+    "fallback_action": "continue"
+  },
+  {
+    "candidate_id": "C002",
+    "answer": "",
+    "detected_issue": "missing_answer",
+    "retry_message": "Could you please answer the question?",
+    "fallback_action": "skip_question"
+  },
+  {
+    "candidate_id": "C003",
+    "answer": "Hello I know tally",
+    "detected_issue": "normal",
+    "retry_message": "Proceed",
+    "fallback_action": "continue"
+  },
+  {
+    "candidate_id": "C004",
+    "answer": "ummmm background noise hello",
+    "detected_issue": "background_noise",
+    "retry_message": "There seems to be background noise. Please speak clearly.",
+    "fallback_action": "retry"
+  },
+  {
+    "candidate_id": "C005",
+    "answer": "asdfghjkl",
+    "detected_issue": "poor_audio",
+    "retry_message": "Audio quality is unclear. Please repeat your answer.",
+    "fallback_action": "retry"
+  },
+  {
+    "candidate_id": "C006",
+    "answer": "I know Excel Excel Excel",
+    "detected_issue": "repeated_answer",
+    "retry_message": "Your response seems repeated. Please explain clearly.",
+    "fallback_action": "clarify"
+  },
+  {
+    "candidate_id": "C007",
+    "answer": "I don't know maybe",
+    "detected_issue": "uncertain_answer",
+    "retry_message": "Please provide a confident answer if possible.",
+    "fallback_action": "human_review"
+  },
+  {
+    "candidate_id": "C008",
+    "answer": "I worked in many places and actually maybe I think I handled accounts but not fully sure",
+    "detected_issue": "uncertain_answer",
+    "retry_message": "Please provide a confident answer if possible.",
+    "fallback_action": "human_review"
+  },
+  {
+    "candidate_id": "C009",
+    "answer": "...",
+    "detected_issue": "silence",
+    "retry_message": "I could not hear anything. Please respond again.",
+    "fallback_action": "retry"
+  },
+  {
+    "candidate_id": "C010",
+    "answer": "umm hello I know tally and excel",
+    "detected_issue": "background_noise",
+    "retry_message": "There seems to be background noise. Please speak clearly.",
+    "fallback_action": "retry"
+  }
+]
