@@ -1,0 +1,26 @@
+{
+    "C1": {
+        "ai": 80.0,
+        "manual": 80,
+        "diff": 0.0,
+        "status": "OK"
+    },
+    "C2": {
+        "ai": 60.0,
+        "manual": 55,
+        "diff": 5.0,
+        "status": "OK"
+    },
+    "C3": {
+        "ai": 50.0,
+        "manual": 40,
+        "diff": 10.0,
+        "status": "WARNING"
+    },
+    "C4": {
+        "ai": 85.0,
+        "manual": 90,
+        "diff": 5.0,
+        "status": "OK"
+    }
+}

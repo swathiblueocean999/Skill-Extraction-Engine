@@ -1,0 +1,30 @@
+[
+  {
+    "id": "C1",
+    "type": "confident",
+    "experience": 5,
+    "communication": "high",
+    "technical": "medium"
+  },
+  {
+    "id": "C2",
+    "type": "hesitant",
+    "experience": 3,
+    "communication": "low",
+    "technical": "medium"
+  },
+  {
+    "id": "C3",
+    "type": "inexperienced",
+    "experience": 0,
+    "communication": "medium",
+    "technical": "low"
+  },
+  {
+    "id": "C4",
+    "type": "overqualified",
+    "experience": 10,
+    "communication": "high",
+    "technical": "very_high"
+  }
+]

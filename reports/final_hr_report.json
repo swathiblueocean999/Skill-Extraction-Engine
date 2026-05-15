@@ -1,0 +1,14 @@
+{
+  "summary": "HR evaluation system completed successfully",
+  "accuracy": 75,
+  "performance": "Good",
+  "issues": [
+    "One borderline warning case detected",
+    "Minor scoring variation in C3"
+  ],
+  "recommendations": [
+    "Improve NLP-based answer evaluation",
+    "Add confidence scoring layer",
+    "Refine overqualified candidate scoring logic"
+  ]
+}
