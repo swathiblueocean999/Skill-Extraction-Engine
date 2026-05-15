@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Q1",
+    "question": "Tell me about yourself"
+  },
+  {
+    "id": "Q2",
+    "question": "Can you describe your work experience?"
+  },
+  {
+    "id": "Q3",
+    "question": "What technical skills do you have?"
+  },
+  {
+    "id": "Q4",
+    "question": "Describe a challenge you handled"
+  },
+  {
+    "id": "Q5",
+    "question": "How do you work in a team environment?"
+  },
+  {
+    "id": "Q6",
+    "question": "Why are you interested in this role?"
+  },
+  {
+    "id": "Q7",
+    "question": "What are your career goals?"
+  },
+  {
+    "id": "Q8",
+    "question": "When can you join?"
+  }
+]

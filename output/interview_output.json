@@ -1,0 +1,268 @@
+[
+  {
+    "candidate_id": "C001",
+    "results": [
+      {
+        "question_id": "Q1",
+        "question": "Tell me about yourself",
+        "answer": "I completed BCom and I am interested in accounting",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 9
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q2",
+        "question": "Can you describe your work experience?",
+        "answer": "I worked on GST filing and reporting",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 7
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q3",
+        "question": "What technical skills do you have?",
+        "answer": "I know Excel Tally and payroll",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 6
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q4",
+        "question": "Describe a challenge you handled",
+        "answer": "I solved invoice mismatch issues",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": true,
+          "word_count": 5
+        },
+        "decision": "deep_followup",
+        "difficulty": "advanced",
+        "followup": {
+          "type": "deep_probe",
+          "question": "Can you provide a real example?"
+        }
+      },
+      {
+        "question_id": "Q5",
+        "question": "How do you work in a team environment?",
+        "answer": "I communicate well with my team",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 6
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q6",
+        "question": "Why are you interested in this role?",
+        "answer": "I want career growth",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 4
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q7",
+        "question": "What are your career goals?",
+        "answer": "I want to become senior accountant",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 6
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      },
+      {
+        "question_id": "Q8",
+        "question": "When can you join?",
+        "answer": "I can join immediately",
+        "analysis": {
+          "is_vague": false,
+          "is_confident": false,
+          "word_count": 4
+        },
+        "decision": "continue",
+        "difficulty": "medium",
+        "followup": {
+          "type": "none",
+          "question": null
+        }
+      }
+    ]
+  },
+  {
+    "candidate_id": "C002",
+    "results": [
+      {
+        "question_id": "Q1",
+        "question": "Tell me about yourself",
+        "answer": "Myself Rahul",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about Tell me about yourself?"
+        }
+      },
+      {
+        "question_id": "Q2",
+        "question": "Can you describe your work experience?",
+        "answer": "Some experience",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about Can you describe your work experience??"
+        }
+      },
+      {
+        "question_id": "Q3",
+        "question": "What technical skills do you have?",
+        "answer": "Excel",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 1
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about What technical skills do you have??"
+        }
+      },
+      {
+        "question_id": "Q4",
+        "question": "Describe a challenge you handled",
+        "answer": "Nothing much",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about Describe a challenge you handled?"
+        }
+      },
+      {
+        "question_id": "Q5",
+        "question": "How do you work in a team environment?",
+        "answer": "Okay teamwork",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about How do you work in a team environment??"
+        }
+      },
+      {
+        "question_id": "Q6",
+        "question": "Why are you interested in this role?",
+        "answer": "Need job",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about Why are you interested in this role??"
+        }
+      },
+      {
+        "question_id": "Q7",
+        "question": "What are your career goals?",
+        "answer": "Good future",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about What are your career goals??"
+        }
+      },
+      {
+        "question_id": "Q8",
+        "question": "When can you join?",
+        "answer": "Next month",
+        "analysis": {
+          "is_vague": true,
+          "is_confident": false,
+          "word_count": 2
+        },
+        "decision": "clarification_needed",
+        "difficulty": "basic",
+        "followup": {
+          "type": "clarification",
+          "question": "Could you explain more about When can you join??"
+        }
+      }
+    ]
+  }
+]
