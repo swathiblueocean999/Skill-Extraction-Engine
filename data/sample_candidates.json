@@ -1,0 +1,14 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Rahul",
+    "level": "fresher",
+    "role_type": "technical"
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Anjali",
+    "level": "experienced",
+    "role_type": "technical"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "fresher": {
+    "technical": [
+      {
+        "id": "Q1",
+        "category": "self_introduction",
+        "question": "Tell me about yourself"
+      },
+      {
+        "id": "Q2",
+        "category": "skills",
+        "question": "What technical skills do you have?"
+      },
+      {
+        "id": "Q3",
+        "category": "career_goals",
+        "question": "What are your career goals?"
+      }
+    ],
+    "non_technical": [
+      {
+        "id": "Q4",
+        "category": "teamwork",
+        "question": "How do you work in a team?"
+      },
+      {
+        "id": "Q5",
+        "category": "strengths",
+        "question": "What are your strengths and weaknesses?"
+      }
+    ]
+  },
+
+  "experienced": {
+    "technical": [
+      {
+        "id": "Q6",
+        "category": "career_journey",
+        "question": "Can you explain your previous work experience?"
+      },
+      {
+        "id": "Q7",
+        "category": "technical_skills",
+        "question": "What tools and technologies have you worked with?"
+      },
+      {
+        "id": "Q8",
+        "category": "problem_solving",
+        "question": "Describe a technical challenge you handled."
+      }
+    ],
+    "non_technical": [
+      {
+        "id": "Q9",
+        "category": "culture_fit",
+        "question": "How do you handle workplace pressure?"
+      },
+      {
+        "id": "Q10",
+        "category": "availability",
+        "question": "When can you join?"
+      }
+    ]
+  }
+}

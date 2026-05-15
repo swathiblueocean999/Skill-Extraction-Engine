@@ -1,0 +1,36 @@
+[
+  {
+    "candidate_id": "C001",
+    "responses": [
+      {
+        "question_id": "Q1",
+        "response": "I recently completed my BCom degree and I am interested in accounting roles. I know Excel and Tally, and I am eager to learn and grow in my career."
+      },
+      {
+        "question_id": "Q2",
+        "response": "I am proficient in Excel, Tally, GST filing, payroll management, and basic financial reporting. I also have experience handling invoices, maintaining accounting records, and preparing reports accurately and efficiently."
+      },
+      {
+        "question_id": "Q3",
+        "response": "My career goal is to build a strong career in accounting and finance by continuously improving my technical and professional skills. I want to take on more responsibilities, grow into a senior position, and contribute effectively to the organization\u2019s success."
+      }
+    ]
+  },
+  {
+    "candidate_id": "C002",
+    "responses": [
+      {
+        "question_id": "Q6",
+        "response": "I have worked in accounting and finance-related tasks where I handled invoice processing, Excel reporting, GST-related work, and maintaining financial records. I also worked with Tally for data entry and account management, which helped me improve my accuracy, communication, and problem-solving skills."
+      },
+      {
+        "question_id": "Q7",
+        "response": "I have worked with tools and technologies such as Tally, Microsoft Excel, GST filing systems, payroll management software, and basic accounting applications. I am comfortable using Excel formulas, report preparation, data management, and maintaining accurate financial records efficiently."
+      },
+      {
+        "question_id": "Q8",
+        "response": "One technical challenge I handled was correcting mismatched financial records in Excel and Tally during monthly reporting. I carefully verified invoices, cross-checked entries, identified missing transactions, and updated the records accurately before the deadline. This improved my attention to detail and problem-solving skills."
+      }
+    ]
+  }
+]
