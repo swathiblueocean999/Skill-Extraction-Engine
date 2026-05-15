@@ -1,0 +1,1243 @@
+[
+  {
+    "candidate_id": "C001",
+    "question_id": "Q1",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 17
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 18.9,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C002",
+    "question_id": "Q2",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "manage"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 21.6,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C003",
+    "question_id": "Q3",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "teamwork"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 16
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 22.5,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C004",
+    "question_id": "Q4",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "issue",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 16
+      },
+      "structure": {
+        "score": 30,
+        "structure_detected": [
+          "first",
+          "then"
+        ]
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "solve",
+          "efficient",
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 46.35,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C005",
+    "question_id": "Q5",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "prioritize"
+        ]
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "professional"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 15
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "manage"
+        ]
+      },
+      "decision": {
+        "score": 30,
+        "matched_keywords": [
+          "prioritize",
+          "carefully",
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 40.05,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C006",
+    "question_id": "Q6",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "analyze"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "customer",
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "immediately"
+        ]
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "carefully",
+          "immediately"
+        ]
+      }
+    },
+    "aptitude_score": 38.25,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C007",
+    "question_id": "Q7",
+    "analysis": {
+      "reasoning": {
+        "score": 30,
+        "matched_keywords": [
+          "compare",
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "decision",
+          "select"
+        ]
+      }
+    },
+    "aptitude_score": 37.8,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C008",
+    "question_id": "Q8",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "identify"
+        ]
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "issue"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 16
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "immediately"
+        ]
+      },
+      "problem_solving": {
+        "score": 40,
+        "matched_keywords": [
+          "improve",
+          "reduce",
+          "correct",
+          "identify"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "immediately"
+        ]
+      }
+    },
+    "aptitude_score": 45.45,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C009",
+    "question_id": "Q9",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 50,
+        "matched_keywords": [
+          "professional",
+          "calm",
+          "customer",
+          "issue",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 17
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "solve"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 39.6,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C010",
+    "question_id": "Q10",
+    "analysis": {
+      "reasoning": {
+        "score": 30,
+        "matched_keywords": [
+          "analyze",
+          "understand"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 15
+      },
+      "structure": {
+        "score": 30,
+        "structure_detected": [
+          "first",
+          "then"
+        ]
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "decision"
+        ]
+      }
+    },
+    "aptitude_score": 40.5,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C011",
+    "question_id": "Q11",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "support"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "efficient",
+          "manage",
+          "support"
+        ]
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "carefully",
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 33.3,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C012",
+    "question_id": "Q12",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "customer",
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 38.25,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C013",
+    "question_id": "Q13",
+    "analysis": {
+      "reasoning": {
+        "score": 45,
+        "matched_keywords": [
+          "compare",
+          "identify",
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "first"
+        ]
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "identify"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 45.45,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C014",
+    "question_id": "Q14",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 50,
+        "matched_keywords": [
+          "professional",
+          "respectfully",
+          "issue",
+          "resolve",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "solve"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 36.9,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C015",
+    "question_id": "Q15",
+    "analysis": {
+      "reasoning": {
+        "score": 60,
+        "matched_keywords": [
+          "analyze",
+          "compare",
+          "verify",
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 30,
+        "matched_keywords": [
+          "professional",
+          "issue",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 100,
+        "word_count": 44
+      },
+      "structure": {
+        "score": 45,
+        "structure_detected": [
+          "first",
+          "then",
+          "finally"
+        ]
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "solve",
+          "efficient",
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "decision",
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 86.4,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C016",
+    "question_id": "Q16",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "identify"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 40,
+        "matched_keywords": [
+          "fix",
+          "improve",
+          "efficient",
+          "identify"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 36.45,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C017",
+    "question_id": "Q17",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 50,
+        "matched_keywords": [
+          "professional",
+          "calm",
+          "support",
+          "customer",
+          "issue"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 15
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "solve",
+          "manage",
+          "support"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 47.7,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C018",
+    "question_id": "Q18",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "understand"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "issue",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "first"
+        ]
+      },
+      "problem_solving": {
+        "score": 20,
+        "matched_keywords": [
+          "solve",
+          "efficient"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 38.25,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C019",
+    "question_id": "Q19",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "prioritize"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 30,
+        "matched_keywords": [
+          "prioritize",
+          "responsibly",
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 33.75,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C020",
+    "question_id": "Q20",
+    "analysis": {
+      "reasoning": {
+        "score": 75,
+        "matched_keywords": [
+          "analyze",
+          "compare",
+          "identify",
+          "verify",
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "professional",
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 90,
+        "word_count": 39
+      },
+      "structure": {
+        "score": 30,
+        "structure_detected": [
+          "first",
+          "then"
+        ]
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "efficient",
+          "identify",
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 30,
+        "matched_keywords": [
+          "select",
+          "responsibly",
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 86.85,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C021",
+    "question_id": "Q21",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 70,
+        "matched_keywords": [
+          "professional",
+          "respectfully",
+          "support",
+          "customer",
+          "issue",
+          "resolve",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 12
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 20,
+        "matched_keywords": [
+          "solve",
+          "support"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 46.8,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C022",
+    "question_id": "Q22",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "decision"
+        ]
+      }
+    },
+    "aptitude_score": 31.05,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C023",
+    "question_id": "Q23",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "teamwork"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 11
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 20,
+        "matched_keywords": [
+          "improve",
+          "manage"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 27.9,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C024",
+    "question_id": "Q24",
+    "analysis": {
+      "reasoning": {
+        "score": 45,
+        "matched_keywords": [
+          "analyze",
+          "because",
+          "understand"
+        ]
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "issue"
+        ]
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 15
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "because"
+        ]
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "solve"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 50.85,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C025",
+    "question_id": "Q25",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 30,
+        "matched_keywords": [
+          "professional",
+          "calm",
+          "issue"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 10,
+        "matched_keywords": [
+          "solve"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 29.7,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C026",
+    "question_id": "Q26",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "identify"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 12
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "immediately"
+        ]
+      },
+      "problem_solving": {
+        "score": 40,
+        "matched_keywords": [
+          "fix",
+          "improve",
+          "efficient",
+          "identify"
+        ]
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "immediately"
+        ]
+      }
+    },
+    "aptitude_score": 39.15,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C027",
+    "question_id": "Q27",
+    "analysis": {
+      "reasoning": {
+        "score": 30,
+        "matched_keywords": [
+          "compare",
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 20,
+        "matched_keywords": [
+          "professional",
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 12
+      },
+      "structure": {
+        "score": 15,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "select",
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 45.0,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C028",
+    "question_id": "Q28",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 60,
+        "matched_keywords": [
+          "respectfully",
+          "support",
+          "customer",
+          "issue",
+          "resolve",
+          "communicate"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 13
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 20,
+        "matched_keywords": [
+          "solve",
+          "support"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 43.2,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C029",
+    "question_id": "Q29",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "analyze"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 70,
+        "word_count": 15
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 10,
+        "matched_keywords": [
+          "decision"
+        ]
+      }
+    },
+    "aptitude_score": 28.35,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C030",
+    "question_id": "Q30",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 10,
+        "matched_keywords": [
+          "support"
+        ]
+      },
+      "clarity": {
+        "score": 60,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "efficient",
+          "manage",
+          "support"
+        ]
+      },
+      "decision": {
+        "score": 20,
+        "matched_keywords": [
+          "responsibly",
+          "manage"
+        ]
+      }
+    },
+    "aptitude_score": 33.3,
+    "final_status": "weak"
+  }
+]

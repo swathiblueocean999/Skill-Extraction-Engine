@@ -1,0 +1,152 @@
+[
+  {
+    "question_id": "Q1",
+    "type": "reasoning",
+    "question": "If you miss an important deadline, what will you do?"
+  },
+  {
+    "question_id": "Q2",
+    "type": "situational",
+    "question": "How will you handle a difficult client?"
+  },
+  {
+    "question_id": "Q3",
+    "type": "problem_solving",
+    "question": "What steps will you take to solve invoice mismatch issues?"
+  },
+  {
+    "question_id": "Q4",
+    "type": "reasoning",
+    "question": "How do you prioritize multiple urgent tasks?"
+  },
+  {
+    "question_id": "Q5",
+    "type": "situational",
+    "question": "What will you do if your teammate is not cooperating?"
+  },
+  {
+    "question_id": "Q6",
+    "type": "problem_solving",
+    "question": "How would you identify errors in financial reports?"
+  },
+  {
+    "question_id": "Q7",
+    "type": "reasoning",
+    "question": "Why is communication important in teamwork?"
+  },
+  {
+    "question_id": "Q8",
+    "type": "situational",
+    "question": "How will you react if a client becomes angry during a meeting?"
+  },
+  {
+    "question_id": "Q9",
+    "type": "problem_solving",
+    "question": "What will you do if system data is missing?"
+  },
+  {
+    "question_id": "Q10",
+    "type": "reasoning",
+    "question": "How do you make decisions under pressure?"
+  },
+  {
+    "question_id": "Q11",
+    "type": "situational",
+    "question": "How would you handle disagreement with your manager?"
+  },
+  {
+    "question_id": "Q12",
+    "type": "problem_solving",
+    "question": "How will you resolve duplicate invoice entries?"
+  },
+  {
+    "question_id": "Q13",
+    "type": "reasoning",
+    "question": "What is your approach to learning new software tools?"
+  },
+  {
+    "question_id": "Q14",
+    "type": "situational",
+    "question": "What will you do if a customer complains about delayed service?"
+  },
+  {
+    "question_id": "Q15",
+    "type": "problem_solving",
+    "question": "How would you handle a sudden reporting error before submission?"
+  },
+  {
+    "question_id": "Q16",
+    "type": "reasoning",
+    "question": "How do you ensure accuracy in your work?"
+  },
+  {
+    "question_id": "Q17",
+    "type": "situational",
+    "question": "How would you manage stress during heavy workload periods?"
+  },
+  {
+    "question_id": "Q18",
+    "type": "problem_solving",
+    "question": "What would you do if payroll calculations are incorrect?"
+  },
+  {
+    "question_id": "Q19",
+    "type": "reasoning",
+    "question": "Why is problem-solving important in accounting roles?"
+  },
+  {
+    "question_id": "Q20",
+    "type": "situational",
+    "question": "How would you support a new team member?"
+  },
+  {
+    "question_id": "Q21",
+    "type": "problem_solving",
+    "question": "How would you investigate unexpected expense increases?"
+  },
+  {
+    "question_id": "Q22",
+    "type": "reasoning",
+    "question": "How do you handle constructive criticism?"
+  },
+  {
+    "question_id": "Q23",
+    "type": "situational",
+    "question": "What will you do if two managers assign conflicting tasks?"
+  },
+  {
+    "question_id": "Q24",
+    "type": "problem_solving",
+    "question": "How will you solve communication gaps inside a project team?"
+  },
+  {
+    "question_id": "Q25",
+    "type": "reasoning",
+    "question": "How do you stay organized while handling multiple responsibilities?"
+  },
+  {
+    "question_id": "Q26",
+    "type": "situational",
+    "question": "What would you do if a colleague makes repeated mistakes?"
+  },
+  {
+    "question_id": "Q27",
+    "type": "problem_solving",
+    "question": "How will you handle incomplete client information?"
+  },
+  {
+    "question_id": "Q28",
+    "type": "reasoning",
+    "question": "How do you approach difficult decisions?"
+  },
+  {
+    "question_id": "Q29",
+    "type": "situational",
+    "question": "How will you respond if your work is criticized publicly?"
+  },
+  {
+    "question_id": "Q30",
+    "type": "problem_solving",
+    "question": "How would you improve workflow efficiency in your department?"
+  }
+]
