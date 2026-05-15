@@ -1,0 +1,15 @@
+=====================================
+ DAY 39 - HR SUMMARY REPORT
+=====================================
+
+Total Candidates : 30
+Strong Candidates: 15
+Average Candidates: 10
+Weak Candidates  : 5
+
+TOP CANDIDATES:
+- C015 | Score: 45 | STRONG
+- C020 | Score: 30 | STRONG
+- C010 | Score: 25 | STRONG
+- C007 | Score: 20 | STRONG
+- C008 | Score: 20 | STRONG
