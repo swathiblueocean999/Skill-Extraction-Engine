@@ -1,0 +1,62 @@
+[
+  {
+    "candidate_id": "C001",
+    "analysis": {
+      "hesitation_count": 0,
+      "uncertainty": false,
+      "contradiction": false,
+      "stress_detected": false,
+      "sentiment": "positive"
+    },
+    "behavior_score": 100,
+    "confidence_level": "high"
+  },
+  {
+    "candidate_id": "C002",
+    "analysis": {
+      "hesitation_count": 3,
+      "uncertainty": true,
+      "contradiction": false,
+      "stress_detected": false,
+      "sentiment": "neutral"
+    },
+    "behavior_score": 50,
+    "confidence_level": "medium"
+  },
+  {
+    "candidate_id": "C003",
+    "analysis": {
+      "hesitation_count": 1,
+      "uncertainty": true,
+      "contradiction": false,
+      "stress_detected": false,
+      "sentiment": "negative"
+    },
+    "behavior_score": 60,
+    "confidence_level": "medium"
+  },
+  {
+    "candidate_id": "C004",
+    "analysis": {
+      "hesitation_count": 0,
+      "uncertainty": false,
+      "contradiction": false,
+      "stress_detected": false,
+      "sentiment": "neutral"
+    },
+    "behavior_score": 100,
+    "confidence_level": "high"
+  },
+  {
+    "candidate_id": "C005",
+    "analysis": {
+      "hesitation_count": 1,
+      "uncertainty": false,
+      "contradiction": true,
+      "stress_detected": false,
+      "sentiment": "neutral"
+    },
+    "behavior_score": 65,
+    "confidence_level": "medium"
+  }
+]
