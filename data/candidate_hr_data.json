@@ -1,0 +1,26 @@
+[
+  {
+    "candidate_id": "C001",
+    "answer_relevance": 85,
+    "communication_score": 78,
+    "confidence_score": 90,
+    "consistency_score": 80,
+    "question_count": 8
+  },
+  {
+    "candidate_id": "C002",
+    "answer_relevance": 45,
+    "communication_score": 50,
+    "confidence_score": 40,
+    "consistency_score": 55,
+    "question_count": 8
+  },
+  {
+    "candidate_id": "C003",
+    "answer_relevance": 70,
+    "communication_score": 65,
+    "confidence_score": 60,
+    "consistency_score": 75,
+    "question_count": 6
+  }
+]
