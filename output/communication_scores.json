@@ -1,0 +1,114 @@
+[
+  {
+    "candidate_id": "C001",
+    "answer": "I have 2 years of accounting experience and I handled GST filing reporting and Excel management efficiently.",
+    "evaluation": {
+      "fluency_score": 100,
+      "grammar_score": 100,
+      "vocabulary_score": 70,
+      "clarity_score": 50,
+      "structure_score": 90,
+      "filler_count": 0,
+      "communication_score": 74.0,
+      "communication_level": "average"
+    }
+  },
+  {
+    "candidate_id": "C002",
+    "answer": "Umm I know Excel and some accounting little bit.",
+    "evaluation": {
+      "fluency_score": 50,
+      "grammar_score": 80,
+      "vocabulary_score": 50,
+      "clarity_score": 30,
+      "structure_score": 70,
+      "filler_count": 1,
+      "communication_score": 45.0,
+      "communication_level": "average"
+    }
+  },
+  {
+    "candidate_id": "C003",
+    "answer": "I worked on payroll processing invoice verification financial reporting and team coordination.",
+    "evaluation": {
+      "fluency_score": 70,
+      "grammar_score": 100,
+      "vocabulary_score": 75,
+      "clarity_score": 40,
+      "structure_score": 90,
+      "filler_count": 0,
+      "communication_score": 66.75,
+      "communication_level": "average"
+    }
+  },
+  {
+    "candidate_id": "C004",
+    "answer": "Myself Rahul. Basic accounting. Okay communication.",
+    "evaluation": {
+      "fluency_score": 50,
+      "grammar_score": 60,
+      "vocabulary_score": 50,
+      "clarity_score": 30,
+      "structure_score": 60,
+      "filler_count": 0,
+      "communication_score": 44.5,
+      "communication_level": "weak"
+    }
+  },
+  {
+    "candidate_id": "C005",
+    "answer": "I managed accounting operations prepared financial reports coordinated with clients and improved invoice tracking efficiency.",
+    "evaluation": {
+      "fluency_score": 90,
+      "grammar_score": 100,
+      "vocabulary_score": 100,
+      "clarity_score": 80,
+      "structure_score": 90,
+      "filler_count": 0,
+      "communication_score": 82.5,
+      "communication_level": "strong"
+    }
+  },
+  {
+    "candidate_id": "C006",
+    "answer": "Uh actually I worked little bit in office and like handled some reports.",
+    "evaluation": {
+      "fluency_score": 80,
+      "grammar_score": 80,
+      "vocabulary_score": 70,
+      "clarity_score": 50,
+      "structure_score": 90,
+      "filler_count": 3,
+      "communication_score": 51.0,
+      "communication_level": "average"
+    }
+  },
+  {
+    "candidate_id": "C007",
+    "answer": "I have experience using Tally Excel GST filing systems payroll software and reporting tools for daily accounting operations.",
+    "evaluation": {
+      "fluency_score": 90,
+      "grammar_score": 100,
+      "vocabulary_score": 75,
+      "clarity_score": 40,
+      "structure_score": 90,
+      "filler_count": 0,
+      "communication_score": 70.75,
+      "communication_level": "average"
+    }
+  },
+  {
+    "candidate_id": "C008",
+    "answer": "Okay I know accounting.",
+    "evaluation": {
+      "fluency_score": 30,
+      "grammar_score": 100,
+      "vocabulary_score": 30,
+      "clarity_score": 30,
+      "structure_score": 40,
+      "filler_count": 0,
+      "communication_score": 42.5,
+      "communication_level": "weak"
+    }
+  }
+]
