@@ -1,0 +1,29 @@
+{
+    "retention_policy": {
+        "transcript_retention": "180 Days",
+        "report_retention": "365 Days",
+        "audit_log_retention": "730 Days"
+    },
+    "consent_management": {
+        "candidate_consent": true,
+        "consent_status": "Verified"
+    },
+    "secure_storage": {
+        "transcript_storage": "Encrypted",
+        "report_storage": "Encrypted",
+        "storage_status": "Secure"
+    },
+    "access_control": {
+        "admin_access": true,
+        "recruiter_access": true,
+        "candidate_access": false,
+        "security_status": "Restricted Access Enabled"
+    },
+    "governance_check": {
+        "auditability": true,
+        "traceability": true,
+        "explainability": true,
+        "bias_monitoring": true,
+        "governance_status": "Compliant"
+    }
+}

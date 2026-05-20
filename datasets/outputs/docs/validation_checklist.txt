@@ -1,0 +1,11 @@
+VALIDATION CHECKLIST
+
+[✓] ATS Validation
+[✓] Screening Validation
+[✓] HR Validation
+[✓] Technical Validation
+[✓] Machine Test Validation
+[✓] Behavioral Validation
+[✓] Integrity Validation
+[✓] Final Decision Validation
+[✓] Governance Validation
