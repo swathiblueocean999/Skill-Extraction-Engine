@@ -1,0 +1,58 @@
+{
+    "C1": {
+        "Pipeline Status": {
+            "resume_upload": "Completed",
+            "ats_scoring": "Completed",
+            "screening": "Completed",
+            "hr_interview": "Completed",
+            "technical_interview": "Completed",
+            "machine_test": "Completed",
+            "behavioral_analysis": "Completed",
+            "integrity_check": "Completed",
+            "final_decision": "Hold / Review"
+        },
+        "Human Comparison": "AI & Human Decision Match"
+    },
+    "C2": {
+        "Pipeline Status": {
+            "resume_upload": "Completed",
+            "ats_scoring": "Completed",
+            "screening": "Completed",
+            "hr_interview": "Completed",
+            "technical_interview": "Completed",
+            "machine_test": "Completed",
+            "behavioral_analysis": "Completed",
+            "integrity_check": "Completed",
+            "final_decision": "Rejected"
+        },
+        "Human Comparison": "AI & Human Decision Match"
+    },
+    "C3": {
+        "Pipeline Status": {
+            "resume_upload": "Completed",
+            "ats_scoring": "Completed",
+            "screening": "Completed",
+            "hr_interview": "Completed",
+            "technical_interview": "Completed",
+            "machine_test": "Completed",
+            "behavioral_analysis": "Completed",
+            "integrity_check": "Completed",
+            "final_decision": "Hold / Review"
+        },
+        "Human Comparison": "AI & Human Decision Match"
+    },
+    "C4": {
+        "Pipeline Status": {
+            "resume_upload": "Completed",
+            "ats_scoring": "Completed",
+            "screening": "Completed",
+            "hr_interview": "Completed",
+            "technical_interview": "Completed",
+            "machine_test": "Completed",
+            "behavioral_analysis": "Completed",
+            "integrity_check": "Completed",
+            "final_decision": "Selected"
+        },
+        "Human Comparison": "AI & Human Decision Match"
+    }
+}

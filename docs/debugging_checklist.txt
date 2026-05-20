@@ -1,0 +1,9 @@
+DEBUGGING CHECKLIST
+
+[✓] Score validation
+[✓] Pipeline validation
+[✓] Conversation validation
+[✓] Error handling
+[✓] API stabilization
+[✓] Edge case testing
+[✓] Final refinement

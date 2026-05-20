@@ -1,0 +1,30 @@
+{
+    "C1": {
+        "Scoring": "Scoring Stable",
+        "Conversation": "Conversation Logic Stable",
+        "Error Handling": {
+            "status": "Validated"
+        }
+    },
+    "C2": {
+        "Scoring": "Scoring Stable",
+        "Conversation": "Conversation Logic Stable",
+        "Error Handling": {
+            "status": "Validated"
+        }
+    },
+    "C3": {
+        "Scoring": "Scoring Stable",
+        "Conversation": "Conversation Logic Stable",
+        "Error Handling": {
+            "status": "Validated"
+        }
+    },
+    "C4": {
+        "Scoring": "Scoring Stable",
+        "Conversation": "Conversation Logic Stable",
+        "Error Handling": {
+            "status": "Validated"
+        }
+    }
+}
