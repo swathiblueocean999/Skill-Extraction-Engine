@@ -1,0 +1,214 @@
+CROSS-ROUND AGGREGATION ENGINE – AGGREGATION LOGIC
+==================================================
+
+SYSTEM NAME:
+Cross-Round Aggregation Engine
+
+OBJECTIVE:
+The Cross-Round Aggregation Engine combines candidate
+evaluation results from multiple interview stages into
+a single unified hiring intelligence score.
+
+The system ensures:
+
+1. Multi-round score aggregation
+2. Role-based weight calculation
+3. Score normalization
+4. Transparent scoring
+5. Unified hiring fit generation
+
+--------------------------------------------------
+EVALUATION STAGES
+--------------------------------------------------
+
+The aggregation engine combines scores from:
+
+1. ATS Evaluation
+2. Screening Round
+3. HR Interview
+4. Technical Interview
+5. Machine Test
+
+--------------------------------------------------
+INPUT DATASETS
+--------------------------------------------------
+
+The following datasets are used:
+
+1. ats_scores.json
+2. screening_scores.json
+3. hr_scores.json
+4. technical_scores.json
+5. machine_test_scores.json
+
+Each dataset contains candidate-wise evaluation scores.
+
+--------------------------------------------------
+ROLE-BASED WEIGHT SYSTEM
+--------------------------------------------------
+
+Different roles may require different score priorities.
+
+Example:
+Accountant Role Weight Configuration
+
+ATS               = 15%
+Screening         = 15%
+HR Interview      = 20%
+Technical Round   = 20%
+Machine Test      = 30%
+
+Reason:
+Machine test and HR communication are considered
+important for the Accountant role.
+
+--------------------------------------------------
+AGGREGATION FORMULA
+--------------------------------------------------
+
+Final Hiring Score =
+(
+ATS Score × ATS Weight
++
+Screening Score × Screening Weight
++
+HR Score × HR Weight
++
+Technical Score × Technical Weight
++
+Machine Test Score × Machine Test Weight
+)
+
+--------------------------------------------------
+EXAMPLE CALCULATION
+--------------------------------------------------
+
+Candidate:
+C4
+
+Scores:
+
+ATS               = 90
+Screening         = 88
+HR                = 85
+Technical         = 86
+Machine Test      = 87.6
+
+Calculation:
+
+(
+90 × 0.15
++
+88 × 0.15
++
+85 × 0.20
++
+86 × 0.20
++
+87.6 × 0.30
+)
+
+Final Hiring Score = 87.18
+
+--------------------------------------------------
+SCORE NORMALIZATION
+--------------------------------------------------
+
+The system normalizes all scores between 0 and 100.
+
+Normalization Rules:
+
+1. Score > 100
+   → Converted to 100
+
+2. Score < 0
+   → Converted to 0
+
+3. Decimal scores rounded to 2 digits
+
+Purpose:
+Ensures consistent scoring across all candidates.
+
+--------------------------------------------------
+HIRING FIT CLASSIFICATION
+--------------------------------------------------
+
+The final hiring score is mapped into hiring fit
+categories.
+
+Classification Logic:
+
+1. Excellent
+   → Score >= 85
+
+2. Good
+   → Score >= 70
+
+3. Average
+   → Score >= 50
+
+4. Reject
+   → Score < 50
+
+--------------------------------------------------
+TRANSPARENCY FEATURES
+--------------------------------------------------
+
+The aggregation engine exposes:
+
+1. Individual round scores
+2. Weight configuration
+3. Final hiring score
+4. Hiring fit category
+
+Purpose:
+Ensures explainable and auditable AI scoring.
+
+--------------------------------------------------
+OUTPUT FILES
+--------------------------------------------------
+
+1. unified_candidate_scores.json
+   → Candidate-wise final scores
+
+2. hiring_fit_report.json
+   → Selected / Review / Rejected candidates
+
+3. aggregation_summary.json
+   → Aggregation engine execution summary
+
+--------------------------------------------------
+UNIFIED CANDIDATE SCORE OBJECT
+--------------------------------------------------
+
+Each candidate object contains:
+
+- ATS Score
+- Screening Score
+- HR Score
+- Technical Score
+- Machine Test Score
+- Final Hiring Score
+- Hiring Fit
+
+--------------------------------------------------
+SYSTEM BENEFITS
+--------------------------------------------------
+
+1. Unified candidate evaluation
+2. Transparent hiring intelligence
+3. Multi-round score integration
+4. Role-based evaluation flexibility
+5. Explainable AI hiring process
+
+--------------------------------------------------
+SYSTEM STATUS
+--------------------------------------------------
+
+Status: Production Ready
+
+The Cross-Round Aggregation Engine successfully
+combines all interview stages into a unified
+candidate evaluation framework.
+
+==================================================
