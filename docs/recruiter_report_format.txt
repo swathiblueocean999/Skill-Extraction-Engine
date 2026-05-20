@@ -1,0 +1,10 @@
+HIRING INTELLIGENCE REPORT FORMAT
+
+1. ATS Summary
+2. HR Insight
+3. Technical Summary
+4. Behavioral Analysis
+5. Strengths
+6. Weaknesses
+7. Risk Indicators
+8. Final Recommendation

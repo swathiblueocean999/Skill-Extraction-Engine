@@ -1,0 +1,58 @@
+{
+    "C1": {
+        "ats_score": 82,
+        "screening_score": 78,
+        "hr_score": 80,
+        "technical_score": 82,
+        "machine_test_score": 86.6,
+        "final_hiring_score": 82.38,
+        "behavioral_score": 82,
+        "integrity_score": 88,
+        "hiring_fit": "Good",
+        "final_decision": "Hold / Review",
+        "confidence_score": 83.99,
+        "risk_factor": "Low Risk"
+    },
+    "C2": {
+        "ats_score": 70,
+        "screening_score": 65,
+        "hr_score": 60,
+        "technical_score": 58,
+        "machine_test_score": 66.0,
+        "final_hiring_score": 63.65,
+        "behavioral_score": 60,
+        "integrity_score": 55,
+        "hiring_fit": "Average",
+        "final_decision": "Rejected",
+        "confidence_score": 60.33,
+        "risk_factor": "High Integrity Risk"
+    },
+    "C3": {
+        "ats_score": 55,
+        "screening_score": 50,
+        "hr_score": 50,
+        "technical_score": 91,
+        "machine_test_score": 92.0,
+        "final_hiring_score": 71.55,
+        "behavioral_score": 72,
+        "integrity_score": 68,
+        "hiring_fit": "Good",
+        "final_decision": "Hold / Review",
+        "confidence_score": 70.57,
+        "risk_factor": "Low Risk"
+    },
+    "C4": {
+        "ats_score": 90,
+        "screening_score": 88,
+        "hr_score": 85,
+        "technical_score": 86,
+        "machine_test_score": 87.6,
+        "final_hiring_score": 87.18,
+        "behavioral_score": 90,
+        "integrity_score": 92,
+        "hiring_fit": "Excellent",
+        "final_decision": "Selected",
+        "confidence_score": 89.19,
+        "risk_factor": "Low Risk"
+    }
+}
