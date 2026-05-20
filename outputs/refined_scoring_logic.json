@@ -1,0 +1,6 @@
+{
+    "Selected Threshold": ">= 85",
+    "Review Threshold": ">= 70",
+    "Reject Threshold": "< 70",
+    "Integrity Risk Limit": "< 60"
+}

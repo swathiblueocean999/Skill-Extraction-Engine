@@ -1,0 +1,73 @@
+{
+    "C1": {
+        "ATS Summary": "Good ATS profile",
+        "HR Insight": "Strong communication and HR interaction",
+        "Technical Summary": "Good technical understanding",
+        "Behavioral Analysis": "Stable behavioral performance",
+        "Strengths": [
+            "Strong technical performance",
+            "Good communication",
+            "High interview integrity"
+        ],
+        "Weaknesses": [
+            "No major weakness identified"
+        ],
+        "Risk Indicators": [
+            "No major risk detected"
+        ],
+        "Final Recommendation": "Requires recruiter review"
+    },
+    "C2": {
+        "ATS Summary": "Good ATS profile",
+        "HR Insight": "Weak HR interaction",
+        "Technical Summary": "Basic technical capability",
+        "Behavioral Analysis": "Behavioral attention concerns observed",
+        "Strengths": [
+            "No major strength identified"
+        ],
+        "Weaknesses": [
+            "Weak technical capability",
+            "Behavioral concern"
+        ],
+        "Risk Indicators": [
+            "Integrity concern",
+            "Low hiring confidence"
+        ],
+        "Final Recommendation": "Not recommended for hiring"
+    },
+    "C3": {
+        "ATS Summary": "Average ATS profile",
+        "HR Insight": "Weak HR interaction",
+        "Technical Summary": "Advanced technical capability",
+        "Behavioral Analysis": "Stable behavioral performance",
+        "Strengths": [
+            "Strong technical performance"
+        ],
+        "Weaknesses": [
+            "Weak HR interaction"
+        ],
+        "Risk Indicators": [
+            "No major risk detected"
+        ],
+        "Final Recommendation": "Requires recruiter review"
+    },
+    "C4": {
+        "ATS Summary": "Excellent ATS profile",
+        "HR Insight": "Strong communication and HR interaction",
+        "Technical Summary": "Advanced technical capability",
+        "Behavioral Analysis": "Highly focused and engaged",
+        "Strengths": [
+            "Strong technical performance",
+            "Good communication",
+            "Highly focused behavior",
+            "High interview integrity"
+        ],
+        "Weaknesses": [
+            "No major weakness identified"
+        ],
+        "Risk Indicators": [
+            "No major risk detected"
+        ],
+        "Final Recommendation": "Recommended for hiring"
+    }
+}
