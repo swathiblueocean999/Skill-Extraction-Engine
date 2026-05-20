@@ -1,0 +1,7 @@
+{
+    "score_explanation_available": true,
+    "candidate_feedback_enabled": true,
+    "decision_logic": "ATS + Screening + HR weighted scoring",
+    "score_visibility": "HR accessible",
+    "explainability_status": "Enabled"
+}

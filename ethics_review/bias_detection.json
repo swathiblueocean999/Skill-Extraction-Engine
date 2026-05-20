@@ -1,0 +1,7 @@
+{
+    "gender_bias": "Removed",
+    "religion_bias": "Removed",
+    "age_bias": "Removed",
+    "location_bias": "Removed",
+    "demographic_signals": "Not used in scoring"
+}

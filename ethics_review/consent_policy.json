@@ -1,0 +1,7 @@
+{
+    "candidate_consent_required": true,
+    "interview_recording_permission": true,
+    "data_usage_transparency": true,
+    "candidate_data_access": "Restricted",
+    "consent_status": "Mandatory before interview"
+}
