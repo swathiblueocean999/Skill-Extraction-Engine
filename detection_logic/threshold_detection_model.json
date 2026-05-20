@@ -1,0 +1,6 @@
+{
+    "tab_switch_threshold": 5,
+    "focus_loss_threshold_seconds": 15,
+    "external_voice_threshold": 3,
+    "lookaway_threshold": 10
+}

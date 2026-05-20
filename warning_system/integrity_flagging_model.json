@@ -1,0 +1,5 @@
+{
+    "warning_flag": "Minor concern",
+    "risk_flag": "Moderate suspicion",
+    "critical_flag": "High malpractice probability"
+}

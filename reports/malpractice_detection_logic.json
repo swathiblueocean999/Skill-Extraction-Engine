@@ -1,0 +1,6 @@
+{
+    "threshold_detection": "Enabled",
+    "pattern_recognition": "Enabled",
+    "behavior_combination_analysis": "Enabled",
+    "real_time_alerting": "Enabled"
+}

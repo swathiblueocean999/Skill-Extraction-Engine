@@ -1,0 +1,5 @@
+{
+    "warning_limit": 2,
+    "risk_limit": 4,
+    "critical_limit": 6
+}

@@ -1,0 +1,5 @@
+{
+    "low_risk": "Normal interview",
+    "moderate_risk": "Observation required",
+    "high_risk": "Potential malpractice"
+}
