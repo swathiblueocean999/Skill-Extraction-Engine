@@ -1,0 +1,10 @@
+API ARCHITECTURE GUIDE
+
+1. Resume Parsing API
+2. ATS Scoring API
+3. Screening AI API
+4. Interview AI API
+5. Final Decision API
+6. JWT Authentication
+7. Retry & Recovery Logic
+8. Async Queue Processing

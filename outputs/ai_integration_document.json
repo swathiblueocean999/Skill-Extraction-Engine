@@ -1,0 +1,23 @@
+{
+    "api_registry": {
+        "resume_parsing_api": "/api/resume-parser",
+        "ats_scoring_api": "/api/ats-score",
+        "screening_ai_api": "/api/screening",
+        "interview_ai_api": "/api/interview",
+        "decision_ai_api": "/api/final-decision"
+    },
+    "backend_mapping": {
+        "frontend": "Candidate Portal",
+        "backend": "FastAPI Service",
+        "ai_modules": "AI Processing Engine",
+        "database": "PostgreSQL",
+        "storage": "Cloud Object Storage"
+    },
+    "processing_modes": {
+        "resume_processing": "Async",
+        "ats_scoring": "Async",
+        "real_time_interview": "Sync",
+        "live_behavioral_analysis": "Sync",
+        "final_decision": "Async"
+    }
+}
