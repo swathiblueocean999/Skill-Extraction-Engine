@@ -1,0 +1,30 @@
+{
+    "C1": {
+        "False Decision Analysis": "No Major Issue",
+        "Threshold Optimization": "Balanced Threshold",
+        "Consistency Status": "Highly Consistent",
+        "Intent Analysis": "Positive Intent Detected",
+        "Scoring Confidence": "High Confidence Scoring"
+    },
+    "C2": {
+        "False Decision Analysis": "No Major Issue",
+        "Threshold Optimization": "Needs Threshold Improvement",
+        "Consistency Status": "Highly Consistent",
+        "Intent Analysis": "Negative Intent Detected",
+        "Scoring Confidence": "Low Confidence Scoring"
+    },
+    "C3": {
+        "False Decision Analysis": "No Major Issue",
+        "Threshold Optimization": "Balanced Threshold",
+        "Consistency Status": "Inconsistent Performance",
+        "Intent Analysis": "Neutral Intent",
+        "Scoring Confidence": "Moderate Confidence Scoring"
+    },
+    "C4": {
+        "False Decision Analysis": "No Major Issue",
+        "Threshold Optimization": "Excellent Threshold",
+        "Consistency Status": "Highly Consistent",
+        "Intent Analysis": "Positive Intent Detected",
+        "Scoring Confidence": "High Confidence Scoring"
+    }
+}

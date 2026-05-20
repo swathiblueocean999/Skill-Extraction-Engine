@@ -1,0 +1,22 @@
+{
+    "C1": {
+        "candidate_id": "C1",
+        "decision": "Hold / Review",
+        "audit_status": "Recorded"
+    },
+    "C2": {
+        "candidate_id": "C2",
+        "decision": "Rejected",
+        "audit_status": "Recorded"
+    },
+    "C3": {
+        "candidate_id": "C3",
+        "decision": "Hold / Review",
+        "audit_status": "Recorded"
+    },
+    "C4": {
+        "candidate_id": "C4",
+        "decision": "Selected",
+        "audit_status": "Recorded"
+    }
+}
