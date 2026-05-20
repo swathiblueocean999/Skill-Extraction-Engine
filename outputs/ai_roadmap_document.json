@@ -1,0 +1,27 @@
+{
+    "future_features": {
+        "ai_video_analysis": true,
+        "emotion_detection": true,
+        "real_time_feedback": true,
+        "ai_interview_analytics": true
+    },
+    "emotion_ai": {
+        "emotion_tracking": true,
+        "stress_detection": true,
+        "engagement_monitoring": true,
+        "emotion_ai_status": "Planned"
+    },
+    "realtime_feedback": {
+        "live_feedback": true,
+        "instant_candidate_guidance": true,
+        "interview_progress_tracking": true,
+        "feedback_engine": "Planned"
+    },
+    "scaling_roadmap": {
+        "multi_company_support": true,
+        "cloud_scaling": true,
+        "real_time_ai_processing": true,
+        "multi_language_support": true,
+        "global_ai_expansion": "Planned"
+    }
+}
