@@ -1,0 +1,8 @@
+{
+    "score_explanation": {
+        "accuracy_reason": "Answer technically correct",
+        "depth_reason": "Detailed explanation provided",
+        "logic_reason": "Logical reasoning demonstrated",
+        "real_world_reason": "Practical implementation discussed"
+    }
+}

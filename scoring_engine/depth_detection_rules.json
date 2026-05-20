@@ -1,0 +1,17 @@
+{
+    "shallow_answer": {
+        "characteristics": [
+            "Short explanation",
+            "No reasoning",
+            "No examples"
+        ]
+    },
+    "deep_answer": {
+        "characteristics": [
+            "Detailed explanation",
+            "Step-by-step reasoning",
+            "Real-world examples",
+            "Tradeoff discussion"
+        ]
+    }
+}

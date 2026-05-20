@@ -1,0 +1,11 @@
+{
+    "surface_level": {
+        "score_range": "0-40"
+    },
+    "moderate_depth": {
+        "score_range": "41-70"
+    },
+    "deep_technical": {
+        "score_range": "71-100"
+    }
+}

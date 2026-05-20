@@ -1,0 +1,7 @@
+{
+    "technical_scoring_engine": "Validated",
+    "question_type_scoring": "Stable",
+    "score_normalization": "Working",
+    "deep_answer_detection": "Working",
+    "multi_candidate_evaluation": "Validated"
+}

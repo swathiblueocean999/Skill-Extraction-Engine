@@ -1,0 +1,18 @@
+{
+    "C1": {
+        "question_type": "coding",
+        "answer": "Used optimized hashmap approach with O(n) complexity"
+    },
+    "C2": {
+        "question_type": "conceptual",
+        "answer": "Explained REST API basics and HTTP methods"
+    },
+    "C3": {
+        "question_type": "system_design",
+        "answer": "Designed scalable microservice architecture with load balancing"
+    },
+    "C4": {
+        "question_type": "scenario_based",
+        "answer": "Resolved production server downtime using rollback and monitoring strategy"
+    }
+}

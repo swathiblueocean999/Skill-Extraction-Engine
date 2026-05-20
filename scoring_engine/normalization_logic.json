@@ -1,0 +1,11 @@
+{
+    "basic_questions": {
+        "difficulty_multiplier": 1.0
+    },
+    "intermediate_questions": {
+        "difficulty_multiplier": 1.2
+    },
+    "advanced_questions": {
+        "difficulty_multiplier": 1.5
+    }
+}

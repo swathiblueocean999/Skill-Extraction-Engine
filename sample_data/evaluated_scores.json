@@ -1,0 +1,18 @@
+{
+    "C1": {
+        "technical_score": 82,
+        "depth_level": "Deep Technical"
+    },
+    "C2": {
+        "technical_score": 58,
+        "depth_level": "Moderate"
+    },
+    "C3": {
+        "technical_score": 91,
+        "depth_level": "Advanced Technical"
+    },
+    "C4": {
+        "technical_score": 86,
+        "depth_level": "Deep Technical"
+    }
+}

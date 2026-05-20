@@ -1,0 +1,30 @@
+{
+    "conceptual_questions": {
+        "focus": [
+            "Understanding",
+            "Clarity",
+            "Accuracy"
+        ]
+    },
+    "coding_questions": {
+        "focus": [
+            "Logic",
+            "Optimization",
+            "Correctness"
+        ]
+    },
+    "scenario_questions": {
+        "focus": [
+            "Problem Solving",
+            "Real-world Thinking",
+            "Decision Making"
+        ]
+    },
+    "system_design_questions": {
+        "focus": [
+            "Scalability",
+            "Architecture",
+            "Tradeoffs"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "technical_scoring_engine": "Completed",
+    "candidate_evaluations": {
+        "C1": {
+            "technical_score": 82,
+            "depth_level": "Deep Technical",
+            "question_type": "Coding"
+        },
+        "C2": {
+            "technical_score": 58,
+            "depth_level": "Moderate",
+            "question_type": "Conceptual"
+        },
+        "C3": {
+            "technical_score": 91,
+            "depth_level": "Advanced Technical",
+            "question_type": "System Design"
+        },
+        "C4": {
+            "technical_score": 86,
+            "depth_level": "Deep Technical",
+            "question_type": "Scenario Based"
+        }
+    },
+    "scoring_features": {
+        "accuracy_analysis": true,
+        "depth_detection": true,
+        "logical_reasoning_analysis": true,
+        "real_world_applicability": true,
+        "difficulty_normalization": true,
+        "explainable_scoring": true
+    },
+    "system_status": "Validated"
+}
