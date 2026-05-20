@@ -1,0 +1,14 @@
+{
+    "get_candidate_score": {
+        "method": "GET",
+        "endpoint": "/api/candidate/score"
+    },
+    "submit_interview": {
+        "method": "POST",
+        "endpoint": "/api/interview/submit"
+    },
+    "get_hiring_report": {
+        "method": "GET",
+        "endpoint": "/api/report/final"
+    }
+}

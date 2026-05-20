@@ -1,0 +1,6 @@
+{
+    "authentication_required": true,
+    "recommended_method": "Token-based Authentication",
+    "hr_access_control": "Restricted",
+    "api_security_status": "Enabled"
+}

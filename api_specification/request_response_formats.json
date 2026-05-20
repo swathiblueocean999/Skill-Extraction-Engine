@@ -1,0 +1,10 @@
+{
+    "submit_interview_request": {
+        "candidate_id": "C1",
+        "transcript": "Interview transcript text"
+    },
+    "submit_interview_response": {
+        "status": "Success",
+        "score_generated": true
+    }
+}

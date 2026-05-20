@@ -1,0 +1,7 @@
+{
+    "step_1": "Clone repository",
+    "step_2": "Install Python dependencies",
+    "step_3": "Configure input JSON files",
+    "step_4": "Run main.py",
+    "step_5": "Access generated reports"
+}

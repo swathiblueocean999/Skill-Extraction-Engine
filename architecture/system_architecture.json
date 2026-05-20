@@ -1,0 +1,12 @@
+{
+    "system_name": "AI Accountant Hiring System",
+    "modules": [
+        "ATS Scoring Engine",
+        "HR Interview Simulation",
+        "Unified Scoring Engine",
+        "Optimization Engine",
+        "Ethics & Compliance Layer"
+    ],
+    "architecture_type": "Modular AI Recruitment Pipeline",
+    "deployment_ready": true
+}

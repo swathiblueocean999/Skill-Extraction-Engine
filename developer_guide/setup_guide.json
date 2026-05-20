@@ -1,0 +1,13 @@
+{
+    "python_version": "3.10+",
+    "required_libraries": [
+        "json",
+        "os",
+        "re"
+    ],
+    "execution_command": "python main.py",
+    "platform_support": [
+        "Windows",
+        "Linux"
+    ]
+}

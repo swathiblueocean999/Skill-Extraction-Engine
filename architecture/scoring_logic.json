@@ -1,0 +1,7 @@
+{
+    "ats_weight": 30,
+    "screening_weight": 40,
+    "hr_weight": 30,
+    "final_formula": "(ATS * 0.30) + (Screening * 0.40) + (HR * 0.30)",
+    "role_type": "Accountant"
+}

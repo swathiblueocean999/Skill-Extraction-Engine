@@ -1,0 +1,6 @@
+{
+    "file_not_found_error": "Check input_data folder paths",
+    "json_decode_error": "Validate JSON formatting",
+    "import_error": "Verify Python module names",
+    "missing_output": "Ensure output directories exist"
+}
