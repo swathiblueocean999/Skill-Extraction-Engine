@@ -1,0 +1,6 @@
+{
+    "privacy_safe_analysis": true,
+    "no_biometric_storage": true,
+    "behavior_only_analysis": true,
+    "non_discriminatory_scoring": true
+}
