@@ -1,0 +1,30 @@
+{
+    "C1": {
+        "ats_score": 82,
+        "screening_score": 78,
+        "hr_score": 80,
+        "final_score": 79.8,
+        "hiring_fit": "Good"
+    },
+    "C2": {
+        "ats_score": 70,
+        "screening_score": 65,
+        "hr_score": 60,
+        "final_score": 65.0,
+        "hiring_fit": "Average"
+    },
+    "C3": {
+        "ats_score": 55,
+        "screening_score": 50,
+        "hr_score": 50,
+        "final_score": 51.5,
+        "hiring_fit": "Average"
+    },
+    "C4": {
+        "ats_score": 90,
+        "screening_score": 88,
+        "hr_score": 85,
+        "final_score": 87.7,
+        "hiring_fit": "Excellent"
+    }
+}

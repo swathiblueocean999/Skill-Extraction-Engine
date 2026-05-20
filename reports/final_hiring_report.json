@@ -1,0 +1,17 @@
+{
+    "summary": "Accountant hiring evaluation completed successfully",
+    "top_candidates": [
+        "C1",
+        "C4"
+    ],
+    "needs_review": [
+        "C2",
+        "C3"
+    ],
+    "rejected_candidates": [],
+    "recommendations": [
+        "Proceed with financial verification for top candidates",
+        "Validate accounting software proficiency before onboarding",
+        "Provide additional evaluation for average-performing candidates"
+    ]
+}

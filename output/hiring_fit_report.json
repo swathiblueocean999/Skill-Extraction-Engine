@@ -1,0 +1,11 @@
+{
+    "recommended_for_hire": [
+        "C1",
+        "C4"
+    ],
+    "needs_review": [
+        "C2",
+        "C3"
+    ],
+    "reject": []
+}
