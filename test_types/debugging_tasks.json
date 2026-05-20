@@ -1,0 +1,5 @@
+{
+    "syntax_error": 30,
+    "logic_error": 70,
+    "runtime_error": 90
+}

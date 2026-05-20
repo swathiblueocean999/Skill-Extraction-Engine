@@ -1,0 +1,5 @@
+{
+    "json_processing": 80,
+    "csv_handling": 70,
+    "log_parsing": 90
+}

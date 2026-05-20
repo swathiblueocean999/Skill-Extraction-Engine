@@ -1,0 +1,46 @@
+{
+    "C1": {
+        "machine_test_score": 86.6,
+        "status": "Strong",
+        "metrics": {
+            "correctness": 90,
+            "efficiency": 85,
+            "code_quality": 88,
+            "problem_solving": 80,
+            "time_score": 90
+        }
+    },
+    "C2": {
+        "machine_test_score": 66.0,
+        "status": "Average",
+        "metrics": {
+            "correctness": 70,
+            "efficiency": 60,
+            "code_quality": 65,
+            "problem_solving": 70,
+            "time_score": 60
+        }
+    },
+    "C3": {
+        "machine_test_score": 92.0,
+        "status": "Strong",
+        "metrics": {
+            "correctness": 95,
+            "efficiency": 92,
+            "code_quality": 90,
+            "problem_solving": 88,
+            "time_score": 95
+        }
+    },
+    "C4": {
+        "machine_test_score": 87.6,
+        "status": "Strong",
+        "metrics": {
+            "correctness": 88,
+            "efficiency": 87,
+            "code_quality": 85,
+            "problem_solving": 90,
+            "time_score": 88
+        }
+    }
+}

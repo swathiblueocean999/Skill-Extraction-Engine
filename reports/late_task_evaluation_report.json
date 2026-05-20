@@ -1,0 +1,10 @@
+{
+    "evaluation_type": "Machine Test Late Task Analysis",
+    "status": "Completed",
+    "checks": {
+        "execution": "OK",
+        "accuracy": "OK",
+        "efficiency": "OK",
+        "stability": "OK"
+    }
+}
