@@ -1,0 +1,45 @@
+{
+    "architecture": {
+        "system_architecture": "Microservice Based AI Architecture",
+        "frontend": "React Dashboard",
+        "backend": "FastAPI Services",
+        "database": "PostgreSQL",
+        "ai_engine": "Modular AI Processing Pipeline",
+        "architecture_status": "Documented"
+    },
+    "apis": {
+        "resume_parser_api": "/api/resume-parser",
+        "ats_scoring_api": "/api/ats-score",
+        "screening_api": "/api/screening",
+        "interview_api": "/api/interview",
+        "decision_api": "/api/final-decision",
+        "api_documentation": "Completed"
+    },
+    "scoring_logic": {
+        "ats_weight": "20%",
+        "screening_weight": "15%",
+        "hr_weight": "20%",
+        "technical_weight": "25%",
+        "machine_test_weight": "20%",
+        "scoring_logic_status": "Documented"
+    },
+    "data_models": {
+        "candidate_model": true,
+        "score_model": true,
+        "decision_model": true,
+        "behavioral_model": true,
+        "data_model_status": "Structured"
+    },
+    "workflow": {
+        "workflow": [
+            "Resume Upload",
+            "ATS Scoring",
+            "Screening AI",
+            "HR Interview",
+            "Technical Evaluation",
+            "Behavioral Analysis",
+            "Final Recommendation"
+        ],
+        "workflow_status": "Documented"
+    }
+}

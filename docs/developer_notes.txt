@@ -1,0 +1,8 @@
+DEVELOPER NOTES
+
+1. Follow modular architecture
+2. Use centralized logging
+3. Validate API schemas
+4. Maintain observability
+5. Follow governance rules
+6. Ensure deployment consistency

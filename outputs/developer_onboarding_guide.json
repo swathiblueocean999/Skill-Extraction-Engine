@@ -1,0 +1,7 @@
+{
+    "developer_setup": true,
+    "environment_setup": true,
+    "api_configuration": true,
+    "database_setup": true,
+    "onboarding_status": "Prepared"
+}

@@ -1,0 +1,17 @@
+{
+    "load_balancing": {
+        "load_balancer": "NGINX",
+        "traffic_distribution": true,
+        "auto_scaling": true,
+        "load_balancing_status": "Enabled"
+    },
+    "microservice_scaling": {
+        "microservice_architecture": true,
+        "container_scaling": true,
+        "kubernetes_support": true,
+        "scaling_status": "Enterprise Ready"
+    },
+    "horizontal_scaling": true,
+    "cloud_scaling": true,
+    "enterprise_scalability": "Enabled"
+}

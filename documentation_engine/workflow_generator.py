@@ -1,0 +1,26 @@
+def workflow_documentation():
+
+    return {
+
+        "workflow": [
+
+            "Resume Upload",
+
+            "ATS Scoring",
+
+            "Screening AI",
+
+            "HR Interview",
+
+            "Technical Evaluation",
+
+            "Behavioral Analysis",
+
+            "Final Recommendation"
+
+        ],
+
+        "workflow_status":
+        "Documented"
+
+    }
