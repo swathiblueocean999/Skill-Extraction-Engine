@@ -1,0 +1,25 @@
+{
+    "MERN Developer": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js"
+    ],
+    "Java Developer": [
+        "Java",
+        "Spring Boot",
+        "Microservices"
+    ],
+    "DevOps Engineer": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+    ],
+    "Accountant Tech Analyst": [
+        "Excel",
+        "ERP",
+        "SQL",
+        "Financial Reporting"
+    ]
+}

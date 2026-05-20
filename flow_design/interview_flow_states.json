@@ -1,0 +1,8 @@
+{
+    "START": "Interview Initialized",
+    "INTRODUCTION": "Candidate Introduction",
+    "TECHNICAL_QUESTIONS": "Technical Evaluation",
+    "SCENARIO_ROUND": "Scenario Problem Solving",
+    "FINAL_EVALUATION": "AI Technical Scoring",
+    "END": "Interview Completed"
+}

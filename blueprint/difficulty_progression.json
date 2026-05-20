@@ -1,0 +1,26 @@
+{
+    "0_2_years": {
+        "difficulty": "Basic",
+        "focus": [
+            "Fundamentals",
+            "Syntax",
+            "Basic Problem Solving"
+        ]
+    },
+    "3_5_years": {
+        "difficulty": "Intermediate",
+        "focus": [
+            "Architecture",
+            "Optimization",
+            "Debugging"
+        ]
+    },
+    "5_plus_years": {
+        "difficulty": "Advanced",
+        "focus": [
+            "System Design",
+            "Scalability",
+            "Leadership"
+        ]
+    }
+}

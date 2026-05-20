@@ -1,0 +1,16 @@
+{
+    "system_name": "AI Technical Interview System",
+    "supported_roles": [
+        "MERN Developer",
+        "Java Developer",
+        "DevOps Engineer",
+        "Accountant Tech Analyst"
+    ],
+    "interview_modes": [
+        "Conceptual",
+        "Scenario Based",
+        "Experience Based",
+        "System Design"
+    ],
+    "scalable_architecture": true
+}

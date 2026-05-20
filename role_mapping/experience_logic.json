@@ -1,0 +1,14 @@
+{
+    "basic_level": {
+        "experience_range": "0-2",
+        "question_style": "Fundamental"
+    },
+    "intermediate_level": {
+        "experience_range": "3-5",
+        "question_style": "Scenario Based"
+    },
+    "advanced_level": {
+        "experience_range": "5+",
+        "question_style": "System Design"
+    }
+}
