@@ -1,0 +1,7 @@
+{
+    "candidate_processing_dashboard": true,
+    "interview_success_dashboard": true,
+    "api_health_dashboard": true,
+    "real_time_monitoring": true,
+    "dashboard_status": "Designed"
+}

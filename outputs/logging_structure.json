@@ -1,0 +1,7 @@
+{
+    "api_logs": true,
+    "model_logs": true,
+    "error_logs": true,
+    "audit_logs": true,
+    "logging_framework": "Centralized"
+}

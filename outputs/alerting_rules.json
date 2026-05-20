@@ -1,0 +1,7 @@
+{
+    "high_failure_rate_alert": true,
+    "slow_response_alert": true,
+    "pipeline_failure_alert": true,
+    "security_alerts": true,
+    "alerting_status": "Configured"
+}
