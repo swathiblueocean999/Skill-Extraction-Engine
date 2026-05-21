@@ -1,0 +1,9 @@
+{
+    "module": "HR Interview",
+    "accuracy_score": 91,
+    "performance": "Excellent",
+    "issues_found": [
+        "Behavioral analysis needs enhancement"
+    ],
+    "recommendation": "Add emotion intelligence scoring"
+}

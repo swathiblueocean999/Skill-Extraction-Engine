@@ -1,0 +1,7 @@
+Improvement Strategy
+
+1. Improve AI semantic understanding
+2. Enhance candidate emotion analysis
+3. Improve technical depth scoring
+4. Add explainable AI outputs
+5. Optimize processing speed

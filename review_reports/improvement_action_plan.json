@@ -1,0 +1,15 @@
+{
+    "priority_improvements": [
+        "Improve semantic resume analysis",
+        "Enhance HR emotion detection",
+        "Optimize technical scoring",
+        "Improve AI explainability",
+        "Add dashboard analytics"
+    ],
+    "future_features": [
+        "Real-time interview analysis",
+        "AI voice interview integration",
+        "Automated candidate ranking"
+    ],
+    "status": "Planned"
+}

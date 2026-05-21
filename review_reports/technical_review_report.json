@@ -1,0 +1,9 @@
+{
+    "module": "Technical Interview",
+    "accuracy_score": 90,
+    "performance": "Very Good",
+    "issues_found": [
+        "Technical depth evaluation can improve"
+    ],
+    "recommendation": "Add advanced technical scoring"
+}

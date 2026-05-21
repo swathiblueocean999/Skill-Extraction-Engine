@@ -1,0 +1,10 @@
+{
+    "module": "ATS",
+    "accuracy_score": 92,
+    "performance": "Excellent",
+    "issues_found": [
+        "Minor keyword mismatch",
+        "Resume ranking can improve"
+    ],
+    "recommendation": "Improve semantic matching logic"
+}

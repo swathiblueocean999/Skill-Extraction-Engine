@@ -1,0 +1,9 @@
+{
+    "module": "Screening",
+    "accuracy_score": 89,
+    "performance": "Good",
+    "issues_found": [
+        "Some screening responses repetitive"
+    ],
+    "recommendation": "Improve response diversity"
+}
