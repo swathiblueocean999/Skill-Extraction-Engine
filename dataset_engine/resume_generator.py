@@ -1,0 +1,55 @@
+import json
+
+resumes = [
+
+    {
+        "candidate_id": "C101",
+        "name": "Rahul Menon",
+        "applied_role": "Senior Accountant",
+        "experience": "6 Years",
+        "skills": [
+            "Financial Reporting",
+            "GST",
+            "Taxation",
+            "SAP FICO",
+            "ERP Systems",
+            "Advanced Excel"
+        ],
+        "education": "M.Com",
+        "candidate_strength": "Strong"
+    },
+
+    {
+        "candidate_id": "C201",
+        "name": "Anjali Nair",
+        "applied_role": "Accounts Executive",
+        "experience": "2 Years",
+        "skills": [
+            "Accounting",
+            "Invoices",
+            "Ledger Management",
+            "Tally ERP",
+            "MS Excel"
+        ],
+        "education": "B.Com",
+        "candidate_strength": "Average"
+    },
+
+    {
+        "candidate_id": "C301",
+        "name": "Arun Kumar",
+        "applied_role": "Trainee Accountant",
+        "experience": "Fresher",
+        "skills": [
+            "Basic Accounting",
+            "MS Excel"
+        ],
+        "education": "B.Com",
+        "candidate_strength": "Weak"
+    }
+]
+
+with open("datasets/demo_resumes.json", "w") as f:
+    json.dump(resumes, f, indent=4)
+
+print("Resume Dataset Generated")

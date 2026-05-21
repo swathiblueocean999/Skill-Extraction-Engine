@@ -1,0 +1,38 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Arjun Menon",
+        "final_pipeline_score": 91.0,
+        "final_result": "Selected"
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Neha Raj",
+        "final_pipeline_score": 91.0,
+        "final_result": "Selected"
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Rahul Das",
+        "final_pipeline_score": 56.5,
+        "final_result": "Rejected"
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Anjali Nair",
+        "final_pipeline_score": 75.5,
+        "final_result": "On Hold"
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Vishnu Kumar",
+        "final_pipeline_score": 56.5,
+        "final_result": "Rejected"
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Meera S",
+        "final_pipeline_score": 56.5,
+        "final_result": "Rejected"
+    }
+]

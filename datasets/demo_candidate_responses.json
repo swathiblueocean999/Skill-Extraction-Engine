@@ -1,0 +1,23 @@
+[
+    {
+        "candidate_id": "C101",
+        "communication": "Excellent",
+        "technical_response": "Advanced",
+        "confidence": "High",
+        "behavior": "Professional"
+    },
+    {
+        "candidate_id": "C201",
+        "communication": "Good",
+        "technical_response": "Intermediate",
+        "confidence": "Moderate",
+        "behavior": "Stable"
+    },
+    {
+        "candidate_id": "C301",
+        "communication": "Basic",
+        "technical_response": "Beginner",
+        "confidence": "Low",
+        "behavior": "Nervous"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "candidate_id": "C101",
+        "question": "Tell me about yourself",
+        "answer": "I have 6 years of accounting experience specializing in taxation, GST filing, ERP accounting, and financial reporting."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "Why should we hire you?",
+        "answer": "I bring strong accounting expertise, compliance knowledge, and leadership experience in finance operations."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "What accounting software do you know?",
+        "answer": "I have experience with SAP FICO, Tally ERP, Zoho Books, and Oracle Financials."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "How do you manage deadlines?",
+        "answer": "I prioritize tasks based on urgency and ensure proper reporting timelines are maintained."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "Describe your leadership experience",
+        "answer": "I have guided junior accountants and coordinated month-end financial closing activities."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "How do you handle pressure?",
+        "answer": "I stay organized and focus on financial accuracy even during high workload periods."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "What are your strengths?",
+        "answer": "My strengths are financial analysis, taxation, ERP systems, and compliance management."
+    },
+    {
+        "candidate_id": "C101",
+        "question": "Where do you see yourself in five years?",
+        "answer": "I aim to grow into a Finance Manager role and lead strategic financial operations."
+    },
+
+    {
+        "candidate_id": "C201",
+        "question": "Tell me about yourself",
+        "answer": "I have 2 years of experience handling invoices, ledger management, and accounts reconciliation."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "Why do you want this role?",
+        "answer": "I want to improve my accounting career and gain more exposure in finance operations."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "What accounting tools do you know?",
+        "answer": "I have worked with Tally ERP and MS Excel."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "How do you ensure accuracy?",
+        "answer": "I double-check accounting entries and verify invoices carefully."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "What are your strengths?",
+        "answer": "My strengths are discipline, communication, and attention to detail."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "What are your weaknesses?",
+        "answer": "I sometimes take extra time to verify financial records for accuracy."
+    },
+    {
+        "candidate_id": "C201",
+        "question": "Can you work under pressure?",
+        "answer": "Yes, I can manage deadlines and complete accounting tasks efficiently."
+    },
+
+    {
+        "candidate_id": "C301",
+        "question": "Tell me about yourself",
+        "answer": "I recently completed my B.Com degree and I am looking for an opportunity to start my accounting career."
+    },
+    {
+        "candidate_id": "C301",
+        "question": "Why should we hire you?",
+        "answer": "I am eager to learn accounting processes and improve my professional skills."
+    },
+    {
+        "candidate_id": "C301",
+        "question": "What accounting skills do you have?",
+        "answer": "I have basic accounting knowledge and MS Excel skills."
+    },
+    {
+        "candidate_id": "C301",
+        "question": "How do you handle mistakes?",
+        "answer": "I try to learn from mistakes and improve accuracy in future tasks."
+    },
+    {
+        "candidate_id": "C301",
+        "question": "What are your strengths?",
+        "answer": "I am hardworking, punctual, and willing to learn."
+    },
+    {
+        "candidate_id": "C301",
+        "question": "Can you work in a team?",
+        "answer": "Yes, I am comfortable working with teams and learning from seniors."
+    }
+]

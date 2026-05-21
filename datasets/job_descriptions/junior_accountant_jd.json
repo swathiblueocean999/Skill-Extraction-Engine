@@ -1,0 +1,35 @@
+{
+    "job_id": "JD201",
+    "job_role": "Junior Accountant",
+    "department": "Finance & Accounts",
+    "employment_type": "Full Time",
+    "experience_required": "0-2 Years",
+    "education": [
+        "B.Com",
+        "Commerce Graduate"
+    ],
+    "required_skills": [
+        "Basic Accounting",
+        "Invoices",
+        "Ledger Management",
+        "Excel",
+        "Bookkeeping",
+        "Data Entry"
+    ],
+    "responsibilities": [
+        "Maintain accounting records",
+        "Process invoices",
+        "Support senior accountants",
+        "Update ledger entries",
+        "Prepare basic reports",
+        "Assist in reconciliation"
+    ],
+    "tools": [
+        "MS Excel",
+        "Tally ERP"
+    ],
+    "salary_range": "2.5 LPA - 4 LPA",
+    "job_location": "Trivandrum",
+    "candidate_level": "Entry Level",
+    "status": "Active"
+}

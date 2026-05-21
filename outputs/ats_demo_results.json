@@ -1,0 +1,38 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Arjun Menon",
+        "ats_score": 97,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Neha Raj",
+        "ats_score": 86,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Rahul Das",
+        "ats_score": 64,
+        "status": "Review"
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Anjali Nair",
+        "ats_score": 70,
+        "status": "Review"
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Vishnu Kumar",
+        "ats_score": 38,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Meera S",
+        "ats_score": 55,
+        "status": "Rejected"
+    }
+]

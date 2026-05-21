@@ -1,0 +1,111 @@
+Zecpath AI – Demo Dataset Notes
+================================
+
+Project:
+AI Hiring & Evaluation System
+
+Purpose:
+--------
+This dataset is created to simulate a complete AI-based hiring pipeline for accountant-related job roles.
+
+Dataset Includes:
+-----------------
+1. Job Descriptions
+2. Candidate Responses
+3. ATS Scores
+4. Screening Results
+5. HR Interview Answers
+6. Technical Interview Answers
+7. Final Candidate Scores
+
+Folder Structure:
+-----------------
+
+datasets/
+│
+├── candidate_responses/
+│   ├── hr_answers.json
+│   ├── screening_answers.json
+│   └── technical_answers.json
+│
+├── job_descriptions/
+│   ├── accountant_jd.json
+│   ├── junior_accountant_jd.json
+│   └── senior_accountant_jd.json
+│
+├── responses/
+│   ├── strong_candidates.json
+│   ├── average_candidates.json
+│   └── weak_candidates.json
+│
+└── unified_candidate_scores.json
+
+Candidate Categories:
+---------------------
+1. Strong Candidates
+   - High ATS score
+   - Strong accounting knowledge
+   - Good communication
+   - High technical accuracy
+
+2. Average Candidates
+   - Moderate accounting skills
+   - Basic technical understanding
+   - Average communication
+
+3. Weak Candidates
+   - Low ATS score
+   - Missing technical skills
+   - Poor accounting fundamentals
+
+Supported Accounting Domains:
+------------------------------
+• General Accounting
+• Accounts Payable
+• Accounts Receivable
+• Taxation
+• GST
+• Payroll
+• Financial Reporting
+• Audit
+• MIS Reporting
+• ERP Accounting
+
+Simulation Goals:
+-----------------
+• Validate AI hiring pipeline
+• Test ATS scoring consistency
+• Evaluate screening AI
+• Simulate HR interviews
+• Simulate technical interviews
+• Compare candidate quality
+• Generate hiring recommendations
+
+Dataset Rules:
+---------------
+• All candidate IDs are unique
+• Scores are normalized to 100
+• Strong candidates score above 80
+• Average candidates score between 55–79
+• Weak candidates score below 55
+
+Scoring Components:
+-------------------
+• ATS Score
+• Screening Score
+• HR Score
+• Technical Score
+• Communication Score
+• Final Recommendation Score
+
+Environment:
+-------------
+Designed for:
+• Demo Simulation
+• AI Testing
+• Pipeline Validation
+• Recruitment Workflow Analysis
+
+Status:
+-------
+Dataset Ready for End-to-End AI Simulation

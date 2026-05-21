@@ -1,0 +1,62 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Arjun Menon",
+        "email": "arjunmenon@gmail.com",
+        "skills": ["Python", "SQL", "Machine Learning"],
+        "experience": 5,
+        "education": "B.Tech Computer Science",
+        "candidate_strength": "Strong",
+        "final_score": 91
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Neha Raj",
+        "email": "neharaj@gmail.com",
+        "skills": ["Accounting", "Excel", "Tally"],
+        "experience": 4,
+        "education": "B.Com Finance",
+        "candidate_strength": "Strong",
+        "final_score": 87
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Rahul Das",
+        "email": "rahuldas@gmail.com",
+        "skills": ["Java", "Spring Boot", "MySQL"],
+        "experience": 3,
+        "education": "B.Tech IT",
+        "candidate_strength": "Average",
+        "final_score": 74
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Anjali Nair",
+        "email": "anjalinair@gmail.com",
+        "skills": ["Communication", "Recruitment"],
+        "experience": 2,
+        "education": "MBA HR",
+        "candidate_strength": "Average",
+        "final_score": 69
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Vishnu Kumar",
+        "email": "vishnukumar@gmail.com",
+        "skills": ["HTML", "CSS"],
+        "experience": 1,
+        "education": "BCA",
+        "candidate_strength": "Weak",
+        "final_score": 48
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Meera S",
+        "email": "meeras@gmail.com",
+        "skills": ["Testing"],
+        "experience": 1,
+        "education": "BSc Computer Science",
+        "candidate_strength": "Weak",
+        "final_score": 44
+    }
+]

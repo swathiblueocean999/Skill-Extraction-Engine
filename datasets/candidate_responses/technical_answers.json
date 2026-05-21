@@ -1,0 +1,76 @@
+[
+    {
+        "candidate_id": "C101",
+        "technical_question": "How do you prepare financial statements?",
+        "answer": "I prepare balance sheet, P&L, and cash flow statements using ERP accounting systems.",
+        "technical_score": 96
+    },
+    {
+        "candidate_id": "C101",
+        "technical_question": "Explain ERP accounting systems",
+        "answer": "ERP systems integrate finance, inventory, payroll, and reporting into a centralized platform.",
+        "technical_score": 95
+    },
+    {
+        "candidate_id": "C101",
+        "technical_question": "How do you manage GST filing?",
+        "answer": "I reconcile invoices, validate GST input credits, and file GST returns accurately.",
+        "technical_score": 97
+    },
+    {
+        "candidate_id": "C101",
+        "technical_question": "Explain financial compliance",
+        "answer": "Financial compliance ensures accounting operations follow taxation and regulatory standards.",
+        "technical_score": 94
+    },
+    {
+        "candidate_id": "C101",
+        "technical_question": "How do you handle audits?",
+        "answer": "I prepare supporting documents, reconciliations, and compliance reports for auditors.",
+        "technical_score": 93
+    },
+
+    {
+        "candidate_id": "C201",
+        "technical_question": "How do you process invoices?",
+        "answer": "I verify invoices, match records, and update accounting entries.",
+        "technical_score": 74
+    },
+    {
+        "candidate_id": "C201",
+        "technical_question": "What is reconciliation?",
+        "answer": "Reconciliation compares accounting records with actual balances.",
+        "technical_score": 72
+    },
+    {
+        "candidate_id": "C201",
+        "technical_question": "Explain accounts receivable",
+        "answer": "Accounts receivable tracks customer outstanding payments.",
+        "technical_score": 73
+    },
+    {
+        "candidate_id": "C201",
+        "technical_question": "What is Tally ERP?",
+        "answer": "Tally ERP is accounting software used for bookkeeping and reporting.",
+        "technical_score": 75
+    },
+
+    {
+        "candidate_id": "C301",
+        "technical_question": "What is debit and credit?",
+        "answer": "Debit and credit are accounting entries used in bookkeeping.",
+        "technical_score": 45
+    },
+    {
+        "candidate_id": "C301",
+        "technical_question": "What is journal entry?",
+        "answer": "Journal entry records accounting transactions.",
+        "technical_score": 47
+    },
+    {
+        "candidate_id": "C301",
+        "technical_question": "What is balance sheet?",
+        "answer": "Balance sheet shows company assets and liabilities.",
+        "technical_score": 49
+    }
+]

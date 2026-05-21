@@ -1,0 +1,44 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Arjun Menon",
+        "screening_score": 90,
+        "interview_score": 92,
+        "final_result": "Selected"
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Neha Raj",
+        "screening_score": 90,
+        "interview_score": 92,
+        "final_result": "Selected"
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Rahul Das",
+        "screening_score": 55,
+        "interview_score": 58,
+        "final_result": "Rejected"
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Anjali Nair",
+        "screening_score": 75,
+        "interview_score": 76,
+        "final_result": "On Hold"
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Vishnu Kumar",
+        "screening_score": 55,
+        "interview_score": 58,
+        "final_result": "Rejected"
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Meera S",
+        "screening_score": 55,
+        "interview_score": 58,
+        "final_result": "Rejected"
+    }
+]

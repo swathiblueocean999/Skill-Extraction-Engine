@@ -1,0 +1,76 @@
+[
+    {
+        "candidate_id": "C101",
+        "question": "What is journal entry?",
+        "answer": "Journal entry is the first step of accounting where transactions are recorded.",
+        "score": 95
+    },
+    {
+        "candidate_id": "C101",
+        "question": "Explain bank reconciliation",
+        "answer": "Bank reconciliation compares company records with bank statements to identify mismatches.",
+        "score": 94
+    },
+    {
+        "candidate_id": "C101",
+        "question": "What is GST?",
+        "answer": "GST is an indirect tax applied on supply of goods and services.",
+        "score": 96
+    },
+    {
+        "candidate_id": "C101",
+        "question": "What is depreciation?",
+        "answer": "Depreciation is reduction in asset value over time.",
+        "score": 93
+    },
+    {
+        "candidate_id": "C101",
+        "question": "What is accounts payable?",
+        "answer": "Accounts payable represents company liabilities towards vendors.",
+        "score": 92
+    },
+
+    {
+        "candidate_id": "C201",
+        "question": "What is ledger?",
+        "answer": "Ledger stores all accounting transactions by account category.",
+        "score": 75
+    },
+    {
+        "candidate_id": "C201",
+        "question": "What is invoice processing?",
+        "answer": "Invoice processing verifies and records invoices for payment.",
+        "score": 74
+    },
+    {
+        "candidate_id": "C201",
+        "question": "What is TDS?",
+        "answer": "TDS is tax deducted at source during payments.",
+        "score": 70
+    },
+    {
+        "candidate_id": "C201",
+        "question": "Explain trial balance",
+        "answer": "Trial balance summarizes debit and credit balances.",
+        "score": 73
+    },
+
+    {
+        "candidate_id": "C301",
+        "question": "What is accounting?",
+        "answer": "Accounting records financial transactions.",
+        "score": 48
+    },
+    {
+        "candidate_id": "C301",
+        "question": "What is Excel used for?",
+        "answer": "Excel is used for calculations and data management.",
+        "score": 52
+    },
+    {
+        "candidate_id": "C301",
+        "question": "What is bookkeeping?",
+        "answer": "Bookkeeping records financial transactions.",
+        "score": 45
+    }
+]

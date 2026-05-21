@@ -1,0 +1,24 @@
+[
+    {
+        "candidate_id": "C001",
+        "candidate_strength": "Strong",
+        "skills": [
+            "Accounting",
+            "GST",
+            "Tally",
+            "Excel"
+        ],
+        "experience": "5 Years"
+    },
+
+    {
+        "candidate_id": "C002",
+        "candidate_strength": "Strong",
+        "skills": [
+            "SAP FICO",
+            "Financial Reporting",
+            "Taxation"
+        ],
+        "experience": "6 Years"
+    }
+]

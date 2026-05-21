@@ -1,0 +1,178 @@
+Zecpath AI – Pipeline Workflow
+================================
+
+COMPLETE AI HIRING FLOW
+========================
+
+STEP 1 — Resume Upload
+-----------------------
+Input:
+• Candidate Resume
+• Candidate Metadata
+
+Process:
+• Resume parsing
+• Skill extraction
+• Education extraction
+• Experience extraction
+
+Output:
+• Structured candidate profile
+
+====================================
+
+STEP 2 — ATS Scoring
+---------------------
+Input:
+• Parsed Resume
+• Job Description
+
+Process:
+• Keyword matching
+• Skill matching
+• Experience validation
+• Education validation
+
+Output:
+• ATS Score
+• ATS Recommendation
+
+====================================
+
+STEP 3 — Screening AI
+----------------------
+Input:
+• Candidate Profile
+• Screening Questions
+
+Process:
+• Communication analysis
+• Confidence analysis
+• Domain relevance check
+
+Output:
+• Screening Score
+• Screening Recommendation
+
+====================================
+
+STEP 4 — HR Interview AI
+-------------------------
+Input:
+• HR Answers
+
+Process:
+• Behavioral analysis
+• Communication evaluation
+• Stability prediction
+• Team compatibility check
+
+Output:
+• HR Score
+• HR Evaluation Report
+
+====================================
+
+STEP 5 — Technical Interview AI
+--------------------------------
+Input:
+• Technical Answers
+
+Process:
+• Accounting knowledge validation
+• GST understanding
+• Taxation concepts
+• ERP knowledge
+• Financial analysis capability
+
+Output:
+• Technical Score
+• Technical Recommendation
+
+====================================
+
+STEP 6 — Unified AI Evaluation
+-------------------------------
+Input:
+• ATS Score
+• Screening Score
+• HR Score
+• Technical Score
+
+Process:
+• Score normalization
+• Weighted evaluation
+• Candidate ranking
+• Risk analysis
+
+Output:
+• Final Candidate Score
+• Hiring Recommendation
+
+====================================
+
+STEP 7 — Final Decision Engine
+--------------------------------
+Decision Categories:
+• Selected
+• Hold
+• Rejected
+
+Selection Logic:
+• Strong Candidate → Selected
+• Average Candidate → Hold
+• Weak Candidate → Rejected
+
+====================================
+
+PIPELINE COMPONENTS
+====================
+
+Frontend:
+---------
+• React Dashboard
+
+Backend:
+--------
+• FastAPI Services
+
+Database:
+---------
+• PostgreSQL
+
+AI Engine:
+----------
+• Modular AI Processing Pipeline
+
+====================================
+
+AI MODULES
+===========
+
+1. Resume Parser
+2. ATS Engine
+3. Screening AI
+4. HR AI
+5. Technical AI
+6. Recommendation AI
+7. Governance AI
+
+====================================
+
+OBSERVABILITY
+==============
+
+Monitoring Includes:
+• API Logs
+• Response Tracking
+• Error Tracking
+• AI Decision Logs
+• Accuracy Monitoring
+
+====================================
+
+SYSTEM STATUS
+==============
+Pipeline Status: Stable
+Simulation Status: Ready
+Production Readiness: Enabled
