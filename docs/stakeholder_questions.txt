@@ -1,0 +1,7 @@
+Possible Stakeholder Questions
+
+1. How accurate is the AI system?
+2. Can the system reduce recruiter workload?
+3. Is the system scalable?
+4. How does ATS scoring work?
+5. How is bias reduced?

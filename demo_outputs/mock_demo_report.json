@@ -1,0 +1,11 @@
+{
+    "demo_status": "Completed",
+    "system_flow": [
+        "ATS",
+        "Screening",
+        "HR",
+        "Technical",
+        "Decision"
+    ],
+    "demo_quality": "Professional"
+}

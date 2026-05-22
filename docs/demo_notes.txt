@@ -1,0 +1,10 @@
+Zecpath AI Hiring System Mock Demo Notes
+
+1. Explain hiring problem
+2. Explain AI solution
+3. Show ATS simulation
+4. Show screening process
+5. Show HR evaluation
+6. Show technical evaluation
+7. Show final hiring decision
+8. Explain business impact
