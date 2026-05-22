@@ -1,0 +1,17 @@
+====================================================
+SECTION DETECTION ACCURACY REPORT
+====================================================
+
+Total profiles processed: 89 (expected range: 1-89)
+
+Sections successfully identified (count and accuracy %):
+----------------------------------------------------
+Job Title            : 89 / 89  (100.0%)
+Experience Level     : 89 / 89  (100.0%)
+Skills               : 89 / 89  (100.0%)
+Education            : 89 / 89  (100.0%)
+Certificates         : 89 / 89  (100.0%)
+Projects             : 89 / 89  (100.0%)
+----------------------------------------------------
+Summary: All sections successfully segmented for 89/89 profiles.
+====================================================
