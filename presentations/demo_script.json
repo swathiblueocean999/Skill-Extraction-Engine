@@ -1,0 +1,12 @@
+{
+    "intro": "Welcome to the Zecpath AI Hiring System demo.",
+    "demo_flow": [
+        "Resume Upload",
+        "ATS Evaluation",
+        "Candidate Screening",
+        "HR Analysis",
+        "Technical Evaluation",
+        "Hiring Recommendation"
+    ],
+    "closing": "The AI system automates enterprise hiring workflows."
+}

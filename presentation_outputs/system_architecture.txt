@@ -1,0 +1,22 @@
+
+Zecpath AI Hiring System Architecture
+
+Candidate Resume
+        |
+        v
+ATS Simulator
+        |
+        v
+Screening Simulator
+        |
+        v
+HR Interview Simulator
+        |
+        v
+Technical Interview Simulator
+        |
+        v
+Decision Engine
+        |
+        v
+Final Hiring Report

@@ -1,0 +1,6 @@
+AI Modules:
+1. ATS Engine
+2. Screening Engine
+3. HR Analyzer
+4. Technical Evaluator
+5. Decision Engine

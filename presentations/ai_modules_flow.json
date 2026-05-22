@@ -1,0 +1,27 @@
+{
+    "system_name": "Zecpath AI Hiring System",
+    "ai_modules": [
+        {
+            "module_name": "ATS Simulator",
+            "purpose": "Resume filtering and ATS score generation"
+        },
+        {
+            "module_name": "Screening Simulator",
+            "purpose": "Candidate screening evaluation"
+        },
+        {
+            "module_name": "HR Interview Simulator",
+            "purpose": "HR communication and behavioral assessment"
+        },
+        {
+            "module_name": "Technical Interview Simulator",
+            "purpose": "Technical skill evaluation"
+        },
+        {
+            "module_name": "Decision Engine",
+            "purpose": "Final hiring recommendation generation"
+        }
+    ],
+    "pipeline_status": "Operational",
+    "system_quality": "Enterprise Grade"
+}
