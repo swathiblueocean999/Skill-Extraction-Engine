@@ -1,0 +1,41 @@
+{
+
+ "job_description_schema": {
+
+ "job_role": "string",
+
+ "company_details": {
+
+ "company_name": "string",
+
+ "location": "string",
+
+ "work_mode": "string (Remote/Hybrid/On-site)"
+
+ },
+
+ "requirements": {
+
+ "minimum_education": "string",
+
+ "required_experience": "number (in years)",
+
+ "mandatory_skills": "array",
+
+ "optional_skills": "array"
+
+ },
+
+ "salary_range": {
+
+ "min_salary": "number",
+
+ "max_salary": "number",
+
+ "currency": "string"
+
+ }
+
+ }
+
+}

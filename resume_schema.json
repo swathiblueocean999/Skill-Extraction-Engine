@@ -1,0 +1,61 @@
+{
+
+"resume_schema": {
+
+"candidate_details": {
+
+"name": "string",
+
+"email": "string",
+
+"phone": "number",
+
+ "links": "array"
+
+},
+
+ "education_qualifications": [
+
+{
+
+ "degree": "string",
+
+"institution": "string",
+
+"passing_year": "integer",
+
+ "grade": "string"
+
+}
+
+ ],
+
+ "professional_experience": [
+
+ {
+
+ "role": "string",
+
+"company": "string",
+
+ "duration_months": "integer",
+
+"responsibilities": "list"
+
+ }
+
+ ],
+
+"skills_set": {
+
+"technical": "array",
+
+ "soft_skills": "array"
+
+ },
+
+ "certifications": "array"
+
+ }
+
+}
