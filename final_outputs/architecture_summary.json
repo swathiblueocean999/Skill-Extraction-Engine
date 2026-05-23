@@ -1,0 +1,13 @@
+{
+    "frontend": "Recruiter Dashboard",
+    "backend": "Python AI Engine",
+    "database": "JSON Structured Storage",
+    "pipeline": [
+        "Resume Parsing",
+        "ATS",
+        "Screening",
+        "Interview",
+        "Decision"
+    ],
+    "deployment": "Production Ready"
+}

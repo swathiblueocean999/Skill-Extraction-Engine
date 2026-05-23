@@ -1,0 +1,7 @@
+{
+    "resume_parser": "NLP Based Extraction",
+    "ats_engine": "Keyword Matching AI",
+    "screening_engine": "Rule-Based Filtering",
+    "interview_engine": "Behavioral Scoring AI",
+    "decision_engine": "Final Candidate Ranking"
+}

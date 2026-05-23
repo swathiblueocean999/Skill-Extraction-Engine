@@ -1,0 +1,11 @@
+{
+    "modules_explained": [
+        "Resume Parser",
+        "ATS Engine",
+        "Screening Engine",
+        "Interview Engine",
+        "Decision Engine"
+    ],
+    "logic_flow": "Explained Successfully",
+    "code_quality": "Production Level"
+}
