@@ -1,24 +1,14 @@
 [
     {
-        "candidate_id": "C001",
-        "candidate_strength": "Strong",
+        "candidate_id": "S001",
+        "name": "Anand",
         "skills": [
             "Accounting",
             "GST",
-            "Tally",
-            "Excel"
+            "Excel",
+            "Tally"
         ],
-        "experience": "5 Years"
-    },
-
-    {
-        "candidate_id": "C002",
-        "candidate_strength": "Strong",
-        "skills": [
-            "SAP FICO",
-            "Financial Reporting",
-            "Taxation"
-        ],
-        "experience": "6 Years"
+        "experience": 6,
+        "score": 95
     }
 ]

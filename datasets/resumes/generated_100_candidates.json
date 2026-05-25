@@ -1,0 +1,1202 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Candidate_1",
+        "skills": [
+            "Leadership",
+            "Tally",
+            "Python",
+            "Communication"
+        ],
+        "experience": 10,
+        "score": 96
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Candidate_2",
+        "skills": [
+            "Problem Solving",
+            "Excel",
+            "Accounting",
+            "Tally"
+        ],
+        "experience": 8,
+        "score": 42
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Candidate_3",
+        "skills": [
+            "SQL",
+            "Recruitment",
+            "Tally",
+            "Python"
+        ],
+        "experience": 3,
+        "score": 53
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Candidate_4",
+        "skills": [
+            "GST",
+            "Excel",
+            "Python",
+            "Leadership"
+        ],
+        "experience": 1,
+        "score": 44
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Candidate_5",
+        "skills": [
+            "GST",
+            "Problem Solving",
+            "Tally",
+            "Communication"
+        ],
+        "experience": 2,
+        "score": 66
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Candidate_6",
+        "skills": [
+            "Tally",
+            "Recruitment",
+            "Python",
+            "Problem Solving"
+        ],
+        "experience": 5,
+        "score": 64
+    },
+    {
+        "candidate_id": "C007",
+        "name": "Candidate_7",
+        "skills": [
+            "Tally",
+            "Excel",
+            "Communication",
+            "Python"
+        ],
+        "experience": 10,
+        "score": 85
+    },
+    {
+        "candidate_id": "C008",
+        "name": "Candidate_8",
+        "skills": [
+            "GST",
+            "Communication",
+            "Tally",
+            "Accounting"
+        ],
+        "experience": 5,
+        "score": 91
+    },
+    {
+        "candidate_id": "C009",
+        "name": "Candidate_9",
+        "skills": [
+            "Python",
+            "Tally",
+            "Accounting",
+            "GST"
+        ],
+        "experience": 1,
+        "score": 68
+    },
+    {
+        "candidate_id": "C010",
+        "name": "Candidate_10",
+        "skills": [
+            "GST",
+            "Problem Solving",
+            "SQL",
+            "Accounting"
+        ],
+        "experience": 0,
+        "score": 54
+    },
+    {
+        "candidate_id": "C011",
+        "name": "Candidate_11",
+        "skills": [
+            "Recruitment",
+            "Communication",
+            "Leadership",
+            "Tally"
+        ],
+        "experience": 4,
+        "score": 85
+    },
+    {
+        "candidate_id": "C012",
+        "name": "Candidate_12",
+        "skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving",
+            "Excel"
+        ],
+        "experience": 1,
+        "score": 43
+    },
+    {
+        "candidate_id": "C013",
+        "name": "Candidate_13",
+        "skills": [
+            "Tally",
+            "Python",
+            "Recruitment",
+            "Excel"
+        ],
+        "experience": 9,
+        "score": 60
+    },
+    {
+        "candidate_id": "C014",
+        "name": "Candidate_14",
+        "skills": [
+            "Excel",
+            "Leadership",
+            "SQL",
+            "Recruitment"
+        ],
+        "experience": 4,
+        "score": 57
+    },
+    {
+        "candidate_id": "C015",
+        "name": "Candidate_15",
+        "skills": [
+            "Recruitment",
+            "Accounting",
+            "Excel",
+            "GST"
+        ],
+        "experience": 8,
+        "score": 74
+    },
+    {
+        "candidate_id": "C016",
+        "name": "Candidate_16",
+        "skills": [
+            "Leadership",
+            "Excel",
+            "Tally",
+            "Accounting"
+        ],
+        "experience": 1,
+        "score": 72
+    },
+    {
+        "candidate_id": "C017",
+        "name": "Candidate_17",
+        "skills": [
+            "Problem Solving",
+            "GST",
+            "Leadership",
+            "SQL"
+        ],
+        "experience": 4,
+        "score": 75
+    },
+    {
+        "candidate_id": "C018",
+        "name": "Candidate_18",
+        "skills": [
+            "Tally",
+            "Recruitment",
+            "Accounting",
+            "Python"
+        ],
+        "experience": 9,
+        "score": 52
+    },
+    {
+        "candidate_id": "C019",
+        "name": "Candidate_19",
+        "skills": [
+            "Accounting",
+            "Leadership",
+            "SQL",
+            "Python"
+        ],
+        "experience": 9,
+        "score": 89
+    },
+    {
+        "candidate_id": "C020",
+        "name": "Candidate_20",
+        "skills": [
+            "Python",
+            "GST",
+            "Leadership",
+            "Accounting"
+        ],
+        "experience": 1,
+        "score": 43
+    },
+    {
+        "candidate_id": "C021",
+        "name": "Candidate_21",
+        "skills": [
+            "Python",
+            "Tally",
+            "Excel",
+            "Communication"
+        ],
+        "experience": 6,
+        "score": 73
+    },
+    {
+        "candidate_id": "C022",
+        "name": "Candidate_22",
+        "skills": [
+            "Problem Solving",
+            "Excel",
+            "GST",
+            "Communication"
+        ],
+        "experience": 8,
+        "score": 97
+    },
+    {
+        "candidate_id": "C023",
+        "name": "Candidate_23",
+        "skills": [
+            "GST",
+            "Leadership",
+            "Excel",
+            "Recruitment"
+        ],
+        "experience": 10,
+        "score": 82
+    },
+    {
+        "candidate_id": "C024",
+        "name": "Candidate_24",
+        "skills": [
+            "Tally",
+            "Problem Solving",
+            "Excel",
+            "Leadership"
+        ],
+        "experience": 3,
+        "score": 82
+    },
+    {
+        "candidate_id": "C025",
+        "name": "Candidate_25",
+        "skills": [
+            "SQL",
+            "Excel",
+            "Leadership",
+            "Problem Solving"
+        ],
+        "experience": 10,
+        "score": 80
+    },
+    {
+        "candidate_id": "C026",
+        "name": "Candidate_26",
+        "skills": [
+            "Accounting",
+            "Problem Solving",
+            "Communication",
+            "Leadership"
+        ],
+        "experience": 6,
+        "score": 65
+    },
+    {
+        "candidate_id": "C027",
+        "name": "Candidate_27",
+        "skills": [
+            "Leadership",
+            "SQL",
+            "Tally",
+            "Communication"
+        ],
+        "experience": 4,
+        "score": 87
+    },
+    {
+        "candidate_id": "C028",
+        "name": "Candidate_28",
+        "skills": [
+            "Recruitment",
+            "GST",
+            "Problem Solving",
+            "Excel"
+        ],
+        "experience": 4,
+        "score": 81
+    },
+    {
+        "candidate_id": "C029",
+        "name": "Candidate_29",
+        "skills": [
+            "Accounting",
+            "Problem Solving",
+            "GST",
+            "Python"
+        ],
+        "experience": 2,
+        "score": 81
+    },
+    {
+        "candidate_id": "C030",
+        "name": "Candidate_30",
+        "skills": [
+            "SQL",
+            "Excel",
+            "Communication",
+            "GST"
+        ],
+        "experience": 0,
+        "score": 67
+    },
+    {
+        "candidate_id": "C031",
+        "name": "Candidate_31",
+        "skills": [
+            "GST",
+            "Python",
+            "Excel",
+            "Tally"
+        ],
+        "experience": 0,
+        "score": 67
+    },
+    {
+        "candidate_id": "C032",
+        "name": "Candidate_32",
+        "skills": [
+            "Tally",
+            "GST",
+            "SQL",
+            "Accounting"
+        ],
+        "experience": 1,
+        "score": 98
+    },
+    {
+        "candidate_id": "C033",
+        "name": "Candidate_33",
+        "skills": [
+            "Communication",
+            "Python",
+            "Leadership",
+            "GST"
+        ],
+        "experience": 5,
+        "score": 53
+    },
+    {
+        "candidate_id": "C034",
+        "name": "Candidate_34",
+        "skills": [
+            "Communication",
+            "SQL",
+            "Problem Solving",
+            "Python"
+        ],
+        "experience": 1,
+        "score": 89
+    },
+    {
+        "candidate_id": "C035",
+        "name": "Candidate_35",
+        "skills": [
+            "Accounting",
+            "Excel",
+            "Tally",
+            "Communication"
+        ],
+        "experience": 5,
+        "score": 85
+    },
+    {
+        "candidate_id": "C036",
+        "name": "Candidate_36",
+        "skills": [
+            "Communication",
+            "Leadership",
+            "Tally",
+            "Recruitment"
+        ],
+        "experience": 5,
+        "score": 42
+    },
+    {
+        "candidate_id": "C037",
+        "name": "Candidate_37",
+        "skills": [
+            "Tally",
+            "Problem Solving",
+            "Accounting",
+            "Communication"
+        ],
+        "experience": 1,
+        "score": 54
+    },
+    {
+        "candidate_id": "C038",
+        "name": "Candidate_38",
+        "skills": [
+            "Recruitment",
+            "Communication",
+            "Tally",
+            "Problem Solving"
+        ],
+        "experience": 6,
+        "score": 58
+    },
+    {
+        "candidate_id": "C039",
+        "name": "Candidate_39",
+        "skills": [
+            "Python",
+            "Communication",
+            "Problem Solving",
+            "GST"
+        ],
+        "experience": 0,
+        "score": 95
+    },
+    {
+        "candidate_id": "C040",
+        "name": "Candidate_40",
+        "skills": [
+            "Communication",
+            "Accounting",
+            "Tally",
+            "Excel"
+        ],
+        "experience": 4,
+        "score": 74
+    },
+    {
+        "candidate_id": "C041",
+        "name": "Candidate_41",
+        "skills": [
+            "Tally",
+            "Accounting",
+            "GST",
+            "Python"
+        ],
+        "experience": 8,
+        "score": 89
+    },
+    {
+        "candidate_id": "C042",
+        "name": "Candidate_42",
+        "skills": [
+            "SQL",
+            "Leadership",
+            "Excel",
+            "Recruitment"
+        ],
+        "experience": 10,
+        "score": 51
+    },
+    {
+        "candidate_id": "C043",
+        "name": "Candidate_43",
+        "skills": [
+            "Accounting",
+            "GST",
+            "Recruitment",
+            "Problem Solving"
+        ],
+        "experience": 8,
+        "score": 92
+    },
+    {
+        "candidate_id": "C044",
+        "name": "Candidate_44",
+        "skills": [
+            "Recruitment",
+            "Python",
+            "Tally",
+            "Problem Solving"
+        ],
+        "experience": 8,
+        "score": 60
+    },
+    {
+        "candidate_id": "C045",
+        "name": "Candidate_45",
+        "skills": [
+            "Python",
+            "Communication",
+            "GST",
+            "Excel"
+        ],
+        "experience": 4,
+        "score": 48
+    },
+    {
+        "candidate_id": "C046",
+        "name": "Candidate_46",
+        "skills": [
+            "Accounting",
+            "SQL",
+            "Communication",
+            "Leadership"
+        ],
+        "experience": 2,
+        "score": 59
+    },
+    {
+        "candidate_id": "C047",
+        "name": "Candidate_47",
+        "skills": [
+            "SQL",
+            "Communication",
+            "Leadership",
+            "Recruitment"
+        ],
+        "experience": 6,
+        "score": 80
+    },
+    {
+        "candidate_id": "C048",
+        "name": "Candidate_48",
+        "skills": [
+            "SQL",
+            "Problem Solving",
+            "GST",
+            "Communication"
+        ],
+        "experience": 5,
+        "score": 55
+    },
+    {
+        "candidate_id": "C049",
+        "name": "Candidate_49",
+        "skills": [
+            "Excel",
+            "GST",
+            "Python",
+            "SQL"
+        ],
+        "experience": 8,
+        "score": 56
+    },
+    {
+        "candidate_id": "C050",
+        "name": "Candidate_50",
+        "skills": [
+            "Recruitment",
+            "Communication",
+            "Accounting",
+            "Problem Solving"
+        ],
+        "experience": 6,
+        "score": 86
+    },
+    {
+        "candidate_id": "C051",
+        "name": "Candidate_51",
+        "skills": [
+            "Problem Solving",
+            "Accounting",
+            "Communication",
+            "Tally"
+        ],
+        "experience": 3,
+        "score": 55
+    },
+    {
+        "candidate_id": "C052",
+        "name": "Candidate_52",
+        "skills": [
+            "Leadership",
+            "SQL",
+            "Recruitment",
+            "Problem Solving"
+        ],
+        "experience": 3,
+        "score": 94
+    },
+    {
+        "candidate_id": "C053",
+        "name": "Candidate_53",
+        "skills": [
+            "Python",
+            "Excel",
+            "Leadership",
+            "Problem Solving"
+        ],
+        "experience": 9,
+        "score": 83
+    },
+    {
+        "candidate_id": "C054",
+        "name": "Candidate_54",
+        "skills": [
+            "Excel",
+            "GST",
+            "SQL",
+            "Problem Solving"
+        ],
+        "experience": 10,
+        "score": 60
+    },
+    {
+        "candidate_id": "C055",
+        "name": "Candidate_55",
+        "skills": [
+            "Communication",
+            "SQL",
+            "GST",
+            "Leadership"
+        ],
+        "experience": 7,
+        "score": 45
+    },
+    {
+        "candidate_id": "C056",
+        "name": "Candidate_56",
+        "skills": [
+            "Tally",
+            "GST",
+            "Excel",
+            "Communication"
+        ],
+        "experience": 4,
+        "score": 55
+    },
+    {
+        "candidate_id": "C057",
+        "name": "Candidate_57",
+        "skills": [
+            "Accounting",
+            "Communication",
+            "Problem Solving",
+            "Python"
+        ],
+        "experience": 8,
+        "score": 48
+    },
+    {
+        "candidate_id": "C058",
+        "name": "Candidate_58",
+        "skills": [
+            "Excel",
+            "Tally",
+            "GST",
+            "Problem Solving"
+        ],
+        "experience": 2,
+        "score": 92
+    },
+    {
+        "candidate_id": "C059",
+        "name": "Candidate_59",
+        "skills": [
+            "Recruitment",
+            "Tally",
+            "Leadership",
+            "Python"
+        ],
+        "experience": 0,
+        "score": 90
+    },
+    {
+        "candidate_id": "C060",
+        "name": "Candidate_60",
+        "skills": [
+            "GST",
+            "Excel",
+            "SQL",
+            "Tally"
+        ],
+        "experience": 5,
+        "score": 80
+    },
+    {
+        "candidate_id": "C061",
+        "name": "Candidate_61",
+        "skills": [
+            "Accounting",
+            "Recruitment",
+            "GST",
+            "Leadership"
+        ],
+        "experience": 1,
+        "score": 58
+    },
+    {
+        "candidate_id": "C062",
+        "name": "Candidate_62",
+        "skills": [
+            "SQL",
+            "Excel",
+            "Accounting",
+            "Python"
+        ],
+        "experience": 6,
+        "score": 79
+    },
+    {
+        "candidate_id": "C063",
+        "name": "Candidate_63",
+        "skills": [
+            "Leadership",
+            "Problem Solving",
+            "Communication",
+            "SQL"
+        ],
+        "experience": 2,
+        "score": 52
+    },
+    {
+        "candidate_id": "C064",
+        "name": "Candidate_64",
+        "skills": [
+            "Accounting",
+            "Excel",
+            "Tally",
+            "Problem Solving"
+        ],
+        "experience": 9,
+        "score": 94
+    },
+    {
+        "candidate_id": "C065",
+        "name": "Candidate_65",
+        "skills": [
+            "Python",
+            "Recruitment",
+            "Problem Solving",
+            "Excel"
+        ],
+        "experience": 9,
+        "score": 88
+    },
+    {
+        "candidate_id": "C066",
+        "name": "Candidate_66",
+        "skills": [
+            "Tally",
+            "Communication",
+            "Recruitment",
+            "Problem Solving"
+        ],
+        "experience": 0,
+        "score": 54
+    },
+    {
+        "candidate_id": "C067",
+        "name": "Candidate_67",
+        "skills": [
+            "Python",
+            "Recruitment",
+            "Tally",
+            "Accounting"
+        ],
+        "experience": 5,
+        "score": 75
+    },
+    {
+        "candidate_id": "C068",
+        "name": "Candidate_68",
+        "skills": [
+            "Accounting",
+            "SQL",
+            "Leadership",
+            "Excel"
+        ],
+        "experience": 3,
+        "score": 40
+    },
+    {
+        "candidate_id": "C069",
+        "name": "Candidate_69",
+        "skills": [
+            "SQL",
+            "Recruitment",
+            "Leadership",
+            "GST"
+        ],
+        "experience": 0,
+        "score": 60
+    },
+    {
+        "candidate_id": "C070",
+        "name": "Candidate_70",
+        "skills": [
+            "Leadership",
+            "Excel",
+            "Recruitment",
+            "Accounting"
+        ],
+        "experience": 9,
+        "score": 63
+    },
+    {
+        "candidate_id": "C071",
+        "name": "Candidate_71",
+        "skills": [
+            "GST",
+            "Problem Solving",
+            "Recruitment",
+            "Leadership"
+        ],
+        "experience": 6,
+        "score": 92
+    },
+    {
+        "candidate_id": "C072",
+        "name": "Candidate_72",
+        "skills": [
+            "Leadership",
+            "Excel",
+            "Problem Solving",
+            "Accounting"
+        ],
+        "experience": 10,
+        "score": 44
+    },
+    {
+        "candidate_id": "C073",
+        "name": "Candidate_73",
+        "skills": [
+            "SQL",
+            "Accounting",
+            "GST",
+            "Excel"
+        ],
+        "experience": 5,
+        "score": 74
+    },
+    {
+        "candidate_id": "C074",
+        "name": "Candidate_74",
+        "skills": [
+            "Tally",
+            "Problem Solving",
+            "SQL",
+            "Accounting"
+        ],
+        "experience": 7,
+        "score": 66
+    },
+    {
+        "candidate_id": "C075",
+        "name": "Candidate_75",
+        "skills": [
+            "GST",
+            "Tally",
+            "Excel",
+            "Communication"
+        ],
+        "experience": 4,
+        "score": 87
+    },
+    {
+        "candidate_id": "C076",
+        "name": "Candidate_76",
+        "skills": [
+            "Accounting",
+            "Recruitment",
+            "SQL",
+            "Python"
+        ],
+        "experience": 4,
+        "score": 54
+    },
+    {
+        "candidate_id": "C077",
+        "name": "Candidate_77",
+        "skills": [
+            "Tally",
+            "Communication",
+            "Leadership",
+            "Python"
+        ],
+        "experience": 0,
+        "score": 91
+    },
+    {
+        "candidate_id": "C078",
+        "name": "Candidate_78",
+        "skills": [
+            "SQL",
+            "Problem Solving",
+            "Recruitment",
+            "Excel"
+        ],
+        "experience": 2,
+        "score": 55
+    },
+    {
+        "candidate_id": "C079",
+        "name": "Candidate_79",
+        "skills": [
+            "Communication",
+            "Recruitment",
+            "Excel",
+            "SQL"
+        ],
+        "experience": 0,
+        "score": 63
+    },
+    {
+        "candidate_id": "C080",
+        "name": "Candidate_80",
+        "skills": [
+            "Tally",
+            "GST",
+            "Problem Solving",
+            "Communication"
+        ],
+        "experience": 8,
+        "score": 89
+    },
+    {
+        "candidate_id": "C081",
+        "name": "Candidate_81",
+        "skills": [
+            "Problem Solving",
+            "GST",
+            "Tally",
+            "Leadership"
+        ],
+        "experience": 6,
+        "score": 79
+    },
+    {
+        "candidate_id": "C082",
+        "name": "Candidate_82",
+        "skills": [
+            "GST",
+            "Python",
+            "Problem Solving",
+            "Leadership"
+        ],
+        "experience": 4,
+        "score": 95
+    },
+    {
+        "candidate_id": "C083",
+        "name": "Candidate_83",
+        "skills": [
+            "Problem Solving",
+            "Excel",
+            "Communication",
+            "Python"
+        ],
+        "experience": 3,
+        "score": 55
+    },
+    {
+        "candidate_id": "C084",
+        "name": "Candidate_84",
+        "skills": [
+            "Excel",
+            "Recruitment",
+            "Python",
+            "Accounting"
+        ],
+        "experience": 9,
+        "score": 74
+    },
+    {
+        "candidate_id": "C085",
+        "name": "Candidate_85",
+        "skills": [
+            "GST",
+            "Communication",
+            "Python",
+            "Problem Solving"
+        ],
+        "experience": 10,
+        "score": 43
+    },
+    {
+        "candidate_id": "C086",
+        "name": "Candidate_86",
+        "skills": [
+            "SQL",
+            "Problem Solving",
+            "Excel",
+            "Recruitment"
+        ],
+        "experience": 5,
+        "score": 45
+    },
+    {
+        "candidate_id": "C087",
+        "name": "Candidate_87",
+        "skills": [
+            "Problem Solving",
+            "Communication",
+            "SQL",
+            "Accounting"
+        ],
+        "experience": 6,
+        "score": 79
+    },
+    {
+        "candidate_id": "C088",
+        "name": "Candidate_88",
+        "skills": [
+            "Problem Solving",
+            "SQL",
+            "Python",
+            "GST"
+        ],
+        "experience": 10,
+        "score": 60
+    },
+    {
+        "candidate_id": "C089",
+        "name": "Candidate_89",
+        "skills": [
+            "Leadership",
+            "SQL",
+            "Accounting",
+            "Recruitment"
+        ],
+        "experience": 7,
+        "score": 92
+    },
+    {
+        "candidate_id": "C090",
+        "name": "Candidate_90",
+        "skills": [
+            "Problem Solving",
+            "Tally",
+            "Python",
+            "GST"
+        ],
+        "experience": 9,
+        "score": 52
+    },
+    {
+        "candidate_id": "C091",
+        "name": "Candidate_91",
+        "skills": [
+            "Leadership",
+            "Excel",
+            "Communication",
+            "GST"
+        ],
+        "experience": 4,
+        "score": 61
+    },
+    {
+        "candidate_id": "C092",
+        "name": "Candidate_92",
+        "skills": [
+            "SQL",
+            "Accounting",
+            "Leadership",
+            "Communication"
+        ],
+        "experience": 3,
+        "score": 81
+    },
+    {
+        "candidate_id": "C093",
+        "name": "Candidate_93",
+        "skills": [
+            "Communication",
+            "GST",
+            "Tally",
+            "Accounting"
+        ],
+        "experience": 1,
+        "score": 49
+    },
+    {
+        "candidate_id": "C094",
+        "name": "Candidate_94",
+        "skills": [
+            "GST",
+            "Tally",
+            "Recruitment",
+            "Communication"
+        ],
+        "experience": 2,
+        "score": 97
+    },
+    {
+        "candidate_id": "C095",
+        "name": "Candidate_95",
+        "skills": [
+            "Accounting",
+            "Leadership",
+            "Recruitment",
+            "Excel"
+        ],
+        "experience": 5,
+        "score": 63
+    },
+    {
+        "candidate_id": "C096",
+        "name": "Candidate_96",
+        "skills": [
+            "Leadership",
+            "SQL",
+            "Communication",
+            "Problem Solving"
+        ],
+        "experience": 9,
+        "score": 45
+    },
+    {
+        "candidate_id": "C097",
+        "name": "Candidate_97",
+        "skills": [
+            "Communication",
+            "Leadership",
+            "Recruitment",
+            "GST"
+        ],
+        "experience": 0,
+        "score": 77
+    },
+    {
+        "candidate_id": "C098",
+        "name": "Candidate_98",
+        "skills": [
+            "GST",
+            "Leadership",
+            "SQL",
+            "Communication"
+        ],
+        "experience": 2,
+        "score": 71
+    },
+    {
+        "candidate_id": "C099",
+        "name": "Candidate_99",
+        "skills": [
+            "Tally",
+            "Excel",
+            "Accounting",
+            "Recruitment"
+        ],
+        "experience": 6,
+        "score": 93
+    },
+    {
+        "candidate_id": "C100",
+        "name": "Candidate_100",
+        "skills": [
+            "Tally",
+            "Accounting",
+            "Problem Solving",
+            "Recruitment"
+        ],
+        "experience": 0,
+        "score": 58
+    }
+]

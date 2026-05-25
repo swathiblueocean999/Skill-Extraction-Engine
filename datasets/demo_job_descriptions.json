@@ -1,34 +1,32 @@
 [
     {
-        "job_id": "JD101",
-        "role": "Senior Accountant",
-        "required_skills": [
-            "Financial Reporting",
-            "GST",
-            "Taxation",
-            "SAP FICO",
-            "ERP Systems"
-        ],
-        "experience_required": "4-8 Years"
-    },
-    {
-        "job_id": "JD201",
-        "role": "Accounts Executive",
+        "job_id": "JD001",
+        "role": "Accountant",
         "required_skills": [
             "Accounting",
-            "Invoices",
-            "Ledger Management",
-            "Tally ERP"
+            "Excel",
+            "GST",
+            "Tally"
         ],
-        "experience_required": "1-3 Years"
+        "experience_required": 2
     },
     {
-        "job_id": "JD301",
-        "role": "Trainee Accountant",
+        "job_id": "JD002",
+        "role": "Junior Accountant",
         "required_skills": [
-            "Basic Accounting",
-            "MS Excel"
+            "Excel",
+            "Communication"
         ],
-        "experience_required": "Fresher"
+        "experience_required": 1
+    },
+    {
+        "job_id": "JD003",
+        "role": "Senior Accountant",
+        "required_skills": [
+            "Accounting",
+            "Leadership",
+            "GST"
+        ],
+        "experience_required": 5
     }
 ]

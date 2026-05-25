@@ -1,44 +1,402 @@
 [
     {
         "candidate_id": "C001",
-        "name": "Arjun Menon",
-        "screening_score": 90,
-        "interview_score": 92,
-        "final_result": "Selected"
+        "interview_score": 82
     },
     {
         "candidate_id": "C002",
-        "name": "Neha Raj",
-        "screening_score": 90,
-        "interview_score": 92,
-        "final_result": "Selected"
+        "interview_score": 59
     },
     {
         "candidate_id": "C003",
-        "name": "Rahul Das",
-        "screening_score": 55,
-        "interview_score": 58,
-        "final_result": "Rejected"
+        "interview_score": 57
     },
     {
         "candidate_id": "C004",
-        "name": "Anjali Nair",
-        "screening_score": 75,
-        "interview_score": 76,
-        "final_result": "On Hold"
+        "interview_score": 43
     },
     {
         "candidate_id": "C005",
-        "name": "Vishnu Kumar",
-        "screening_score": 55,
-        "interview_score": 58,
-        "final_result": "Rejected"
+        "interview_score": 45
     },
     {
         "candidate_id": "C006",
-        "name": "Meera S",
-        "screening_score": 55,
-        "interview_score": 58,
-        "final_result": "Rejected"
+        "interview_score": 56
+    },
+    {
+        "candidate_id": "C007",
+        "interview_score": 70
+    },
+    {
+        "candidate_id": "C008",
+        "interview_score": 81
+    },
+    {
+        "candidate_id": "C009",
+        "interview_score": 49
+    },
+    {
+        "candidate_id": "C010",
+        "interview_score": 49
+    },
+    {
+        "candidate_id": "C011",
+        "interview_score": 68
+    },
+    {
+        "candidate_id": "C012",
+        "interview_score": 45
+    },
+    {
+        "candidate_id": "C013",
+        "interview_score": 49
+    },
+    {
+        "candidate_id": "C014",
+        "interview_score": 40
+    },
+    {
+        "candidate_id": "C015",
+        "interview_score": 75
+    },
+    {
+        "candidate_id": "C016",
+        "interview_score": 95
+    },
+    {
+        "candidate_id": "C017",
+        "interview_score": 75
+    },
+    {
+        "candidate_id": "C018",
+        "interview_score": 41
+    },
+    {
+        "candidate_id": "C019",
+        "interview_score": 73
+    },
+    {
+        "candidate_id": "C020",
+        "interview_score": 40
+    },
+    {
+        "candidate_id": "C021",
+        "interview_score": 79
+    },
+    {
+        "candidate_id": "C022",
+        "interview_score": 94
+    },
+    {
+        "candidate_id": "C023",
+        "interview_score": 67
+    },
+    {
+        "candidate_id": "C024",
+        "interview_score": 94
+    },
+    {
+        "candidate_id": "C025",
+        "interview_score": 70
+    },
+    {
+        "candidate_id": "C026",
+        "interview_score": 43
+    },
+    {
+        "candidate_id": "C027",
+        "interview_score": 99
+    },
+    {
+        "candidate_id": "C028",
+        "interview_score": 62
+    },
+    {
+        "candidate_id": "C029",
+        "interview_score": 95
+    },
+    {
+        "candidate_id": "C030",
+        "interview_score": 54
+    },
+    {
+        "candidate_id": "C031",
+        "interview_score": 47
+    },
+    {
+        "candidate_id": "C032",
+        "interview_score": 86
+    },
+    {
+        "candidate_id": "C033",
+        "interview_score": 42
+    },
+    {
+        "candidate_id": "C034",
+        "interview_score": 90
+    },
+    {
+        "candidate_id": "C035",
+        "interview_score": 87
+    },
+    {
+        "candidate_id": "C036",
+        "interview_score": 53
+    },
+    {
+        "candidate_id": "C037",
+        "interview_score": 59
+    },
+    {
+        "candidate_id": "C038",
+        "interview_score": 52
+    },
+    {
+        "candidate_id": "C039",
+        "interview_score": 93
+    },
+    {
+        "candidate_id": "C040",
+        "interview_score": 89
+    },
+    {
+        "candidate_id": "C041",
+        "interview_score": 82
+    },
+    {
+        "candidate_id": "C042",
+        "interview_score": 52
+    },
+    {
+        "candidate_id": "C043",
+        "interview_score": 97
+    },
+    {
+        "candidate_id": "C044",
+        "interview_score": 53
+    },
+    {
+        "candidate_id": "C045",
+        "interview_score": 59
+    },
+    {
+        "candidate_id": "C046",
+        "interview_score": 52
+    },
+    {
+        "candidate_id": "C047",
+        "interview_score": 94
+    },
+    {
+        "candidate_id": "C048",
+        "interview_score": 44
+    },
+    {
+        "candidate_id": "C049",
+        "interview_score": 43
+    },
+    {
+        "candidate_id": "C050",
+        "interview_score": 69
+    },
+    {
+        "candidate_id": "C051",
+        "interview_score": 52
+    },
+    {
+        "candidate_id": "C052",
+        "interview_score": 90
+    },
+    {
+        "candidate_id": "C053",
+        "interview_score": 73
+    },
+    {
+        "candidate_id": "C054",
+        "interview_score": 50
+    },
+    {
+        "candidate_id": "C055",
+        "interview_score": 54
+    },
+    {
+        "candidate_id": "C056",
+        "interview_score": 51
+    },
+    {
+        "candidate_id": "C057",
+        "interview_score": 55
+    },
+    {
+        "candidate_id": "C058",
+        "interview_score": 98
+    },
+    {
+        "candidate_id": "C059",
+        "interview_score": 74
+    },
+    {
+        "candidate_id": "C060",
+        "interview_score": 64
+    },
+    {
+        "candidate_id": "C061",
+        "interview_score": 59
+    },
+    {
+        "candidate_id": "C062",
+        "interview_score": 68
+    },
+    {
+        "candidate_id": "C063",
+        "interview_score": 48
+    },
+    {
+        "candidate_id": "C064",
+        "interview_score": 67
+    },
+    {
+        "candidate_id": "C065",
+        "interview_score": 63
+    },
+    {
+        "candidate_id": "C066",
+        "interview_score": 58
+    },
+    {
+        "candidate_id": "C067",
+        "interview_score": 94
+    },
+    {
+        "candidate_id": "C068",
+        "interview_score": 50
+    },
+    {
+        "candidate_id": "C069",
+        "interview_score": 40
+    },
+    {
+        "candidate_id": "C070",
+        "interview_score": 50
+    },
+    {
+        "candidate_id": "C071",
+        "interview_score": 88
+    },
+    {
+        "candidate_id": "C072",
+        "interview_score": 44
+    },
+    {
+        "candidate_id": "C073",
+        "interview_score": 68
+    },
+    {
+        "candidate_id": "C074",
+        "interview_score": 46
+    },
+    {
+        "candidate_id": "C075",
+        "interview_score": 92
+    },
+    {
+        "candidate_id": "C076",
+        "interview_score": 54
+    },
+    {
+        "candidate_id": "C077",
+        "interview_score": 93
+    },
+    {
+        "candidate_id": "C078",
+        "interview_score": 53
+    },
+    {
+        "candidate_id": "C079",
+        "interview_score": 48
+    },
+    {
+        "candidate_id": "C080",
+        "interview_score": 71
+    },
+    {
+        "candidate_id": "C081",
+        "interview_score": 93
+    },
+    {
+        "candidate_id": "C082",
+        "interview_score": 98
+    },
+    {
+        "candidate_id": "C083",
+        "interview_score": 44
+    },
+    {
+        "candidate_id": "C084",
+        "interview_score": 68
+    },
+    {
+        "candidate_id": "C085",
+        "interview_score": 51
+    },
+    {
+        "candidate_id": "C086",
+        "interview_score": 43
+    },
+    {
+        "candidate_id": "C087",
+        "interview_score": 87
+    },
+    {
+        "candidate_id": "C088",
+        "interview_score": 51
+    },
+    {
+        "candidate_id": "C089",
+        "interview_score": 90
+    },
+    {
+        "candidate_id": "C090",
+        "interview_score": 50
+    },
+    {
+        "candidate_id": "C091",
+        "interview_score": 41
+    },
+    {
+        "candidate_id": "C092",
+        "interview_score": 70
+    },
+    {
+        "candidate_id": "C093",
+        "interview_score": 41
+    },
+    {
+        "candidate_id": "C094",
+        "interview_score": 83
+    },
+    {
+        "candidate_id": "C095",
+        "interview_score": 57
+    },
+    {
+        "candidate_id": "C096",
+        "interview_score": 41
+    },
+    {
+        "candidate_id": "C097",
+        "interview_score": 83
+    },
+    {
+        "candidate_id": "C098",
+        "interview_score": 64
+    },
+    {
+        "candidate_id": "C099",
+        "interview_score": 89
+    },
+    {
+        "candidate_id": "C100",
+        "interview_score": 59
     }
 ]

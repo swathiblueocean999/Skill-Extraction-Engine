@@ -1,104 +1,66 @@
+# AI-Powered Multi-Domain Recruitment & ATS Automation System
 
-# Zecpath AI Hiring System
+## Project Overview
 
-## Final AI Internship Project
+This project is a complete AI-powered recruitment automation system developed during the Zecpath AI Internship Program.
 
-An enterprise-style AI-powered hiring automation system developed as part of the AI Internship Program.
+The system automates the entire hiring workflow:
 
----
+Resume → ATS Screening → Candidate Ranking → AI Interview Evaluation → Final Hiring Decision
 
-# Project Overview
-
-The Zecpath AI Hiring System automates:
-
-- Resume screening
-- ATS evaluation
-- Candidate filtering
-- HR evaluation
-- Technical interview analysis
-- Hiring decision pipeline
-- AI-based reporting
-- Presentation & demo preparation
+The platform supports multiple hiring domains and demonstrates real-world AI recruitment pipeline implementation.
 
 ---
 
-# Core Features
+# Internship Information
 
-- AI Hiring Pipeline
-- ATS Simulation
-- Screening Automation
+- Internship Program: Zecpath AI Internship
+- Project Type: Real-World AI Recruitment Automation System
+- Duration: Day 1 – Day 70
+- Final Submission Status: COMPLETED
+
+---
+
+# Key Features
+
+## AI Recruitment Pipeline
+- Resume Parsing
+- ATS Score Calculation
+- Candidate Screening
+- AI Interview Evaluation
+- Final Hiring Decision
+- Candidate Ranking System
+
+## Multi-Domain Hiring Support
+The system supports multiple job domains:
+
+- Accountant
+- Python Developer
+- Data Analyst
+- HR Executive
+
+## Automation Features
+- Automated Candidate Generation
+- AI-Based Candidate Ranking
 - Interview Simulation
-- Performance Optimization
-- Enterprise Reporting
-- Demo Presentation System
-- Final Validation Framework
+- Hiring Recommendation Engine
+- Final Evaluation Reports
 
 ---
 
-# Project Structure
+# System Workflow
 
-- dataset_engine/
-- review_engine/
-- enhancement_engine/
-- presentation_engine/
-- demo_engine/
-- optimization_engine/
-
----
-
-# Technologies Used
-
-- Python
-- JSON
-- AI Workflow Simulation
-- Modular Architecture
-
----
-
-# Setup Instructions
-
-## Clone Repository
-
-```bash
-git clone <https://github.com/swathiblueocean999/Skill-Extraction-Engine>
-````
-
-## Navigate to Project
-
-```bash
-cd Zecpath_AI_Hiring_System
-```
-
-## Run Main System
-
-```bash
-python main.py
-```
-
----
-
-# Final Project Status
-
-* Production Ready
-* Enterprise Grade
-* Fully Optimized
-* Release Approved
-
----
-
-# Internship Deliverables
-
-* AI Hiring System
-* Technical Documentation
-* AI Roadmap
-* Optimization Reports
-* Demo Presentation
-* Internship Portfolio
-
----
-
-# Author
-
-Swathi TP
-AI Internship Project
-
+```text
+Resume Upload
+      ↓
+ATS Screening
+      ↓
+AI Candidate Evaluation
+      ↓
+Interview Simulation
+      ↓
+Final Scoring
+      ↓
+Candidate Ranking
+      ↓
+Hiring Decision

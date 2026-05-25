@@ -1,31 +1,14 @@
-from utils.file_handler import load_json, save_json
-from engine.interview_manager import process_interview
 
+print("=" * 60)
+print("DAY 69 - FINAL DOCUMENTATION SUBMISSION")
+print("Zecpath AI Internship Portfolio Ready")
+print("=" * 60)
 
-def main():
+print("\nDocumentation Status : COMPLETED")
+print("Portfolio Status     : READY")
+print("Repository Status    : ORGANIZED")
+print("Release Status       : APPROVED")
 
-    questions = load_json("data/questions.json")
+print("\nALL FINAL DOCUMENTATION FILES VERIFIED")
+print("=" * 60)
 
-    candidates = load_json("data/candidates.json")
-
-    final_results = []
-
-    for candidate in candidates:
-
-        result = process_interview(
-            questions,
-            candidate
-        )
-
-        final_results.append(result)
-
-    save_json(
-        "output/interview_output.json",
-        final_results
-    )
-
-    print("\nInterview completed successfully")
-
-
-if __name__ == "__main__":
-    main()

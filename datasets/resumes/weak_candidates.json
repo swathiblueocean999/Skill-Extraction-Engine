@@ -1,10 +1,11 @@
 [
     {
-        "candidate_id": "C201",
-        "candidate_strength": "Weak",
+        "candidate_id": "W001",
+        "name": "Rahul",
         "skills": [
-            "Basic Excel"
+            "Communication"
         ],
-        "experience": "Fresher"
+        "experience": 0,
+        "score": 40
     }
 ]

@@ -1,44 +1,9 @@
 {
-    "job_id": "JD301",
-    "job_role": "Senior Accountant",
-    "department": "Finance Leadership",
-    "employment_type": "Full Time",
-    "experience_required": "4-8 Years",
-    "education": [
-        "B.Com",
-        "M.Com",
-        "CA",
-        "CMA"
-    ],
+    "role": "Senior Accountant",
     "required_skills": [
-        "Advanced Accounting",
-        "Financial Analysis",
-        "GST Compliance",
-        "Financial Reporting",
-        "SAP FICO",
-        "ERP Systems",
-        "Audit Management",
-        "Taxation",
-        "Leadership"
+        "Accounting",
+        "Leadership",
+        "GST"
     ],
-    "responsibilities": [
-        "Review financial statements",
-        "Manage compliance reporting",
-        "Lead accounting operations",
-        "Handle audits and taxation",
-        "Supervise junior accountants",
-        "Manage ERP financial systems",
-        "Prepare management reports",
-        "Ensure financial accuracy"
-    ],
-    "tools": [
-        "SAP FICO",
-        "Oracle Financials",
-        "Advanced Excel",
-        "Power BI"
-    ],
-    "salary_range": "8 LPA - 14 LPA",
-    "job_location": "Bangalore",
-    "candidate_level": "Senior Level",
-    "status": "Active"
+    "minimum_experience": 5
 }

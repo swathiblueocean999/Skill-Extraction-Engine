@@ -1,11 +1,12 @@
 [
     {
-        "candidate_id": "C101",
-        "candidate_strength": "Average",
+        "candidate_id": "A001",
+        "name": "Kiran",
         "skills": [
-            "Accounting",
-            "Excel"
+            "Excel",
+            "Communication"
         ],
-        "experience": "2 Years"
+        "experience": 2,
+        "score": 72
     }
 ]

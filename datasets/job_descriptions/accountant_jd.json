@@ -1,41 +1,10 @@
 {
-    "job_id": "JD101",
-    "job_role": "Accountant",
-    "department": "Finance & Accounts",
-    "employment_type": "Full Time",
-    "experience_required": "2-5 Years",
-    "education": [
-        "B.Com",
-        "M.Com",
-        "Finance or Accounting Degree"
-    ],
+    "role": "Accountant",
     "required_skills": [
         "Accounting",
-        "Financial Reporting",
+        "Excel",
         "GST",
-        "TDS",
-        "Bank Reconciliation",
-        "MS Excel",
-        "ERP Systems",
-        "Taxation"
+        "Tally"
     ],
-    "responsibilities": [
-        "Maintain financial records",
-        "Prepare financial statements",
-        "Handle GST and TDS filing",
-        "Perform bank reconciliation",
-        "Manage accounts payable and receivable",
-        "Support audit activities",
-        "Maintain accounting compliance"
-    ],
-    "tools": [
-        "Tally ERP",
-        "SAP FICO",
-        "Zoho Books",
-        "MS Excel"
-    ],
-    "salary_range": "4 LPA - 7 LPA",
-    "job_location": "Kochi",
-    "candidate_level": "Mid Level",
-    "status": "Active"
+    "minimum_experience": 2
 }

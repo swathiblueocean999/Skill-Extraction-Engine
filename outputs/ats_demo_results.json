@@ -1,38 +1,502 @@
 [
     {
         "candidate_id": "C001",
-        "name": "Arjun Menon",
-        "ats_score": 97,
+        "ats_score": 96,
         "status": "Selected"
     },
     {
         "candidate_id": "C002",
-        "name": "Neha Raj",
-        "ats_score": 86,
-        "status": "Selected"
+        "ats_score": 42,
+        "status": "Rejected"
     },
     {
         "candidate_id": "C003",
-        "name": "Rahul Das",
-        "ats_score": 64,
-        "status": "Review"
+        "ats_score": 53,
+        "status": "Rejected"
     },
     {
         "candidate_id": "C004",
-        "name": "Anjali Nair",
-        "ats_score": 70,
-        "status": "Review"
+        "ats_score": 44,
+        "status": "Rejected"
     },
     {
         "candidate_id": "C005",
-        "name": "Vishnu Kumar",
-        "ats_score": 38,
+        "ats_score": 66,
         "status": "Rejected"
     },
     {
         "candidate_id": "C006",
-        "name": "Meera S",
+        "ats_score": 64,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C007",
+        "ats_score": 85,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C008",
+        "ats_score": 91,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C009",
+        "ats_score": 68,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C010",
+        "ats_score": 54,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C011",
+        "ats_score": 85,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C012",
+        "ats_score": 43,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C013",
+        "ats_score": 60,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C014",
+        "ats_score": 57,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C015",
+        "ats_score": 74,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C016",
+        "ats_score": 72,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C017",
+        "ats_score": 75,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C018",
+        "ats_score": 52,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C019",
+        "ats_score": 89,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C020",
+        "ats_score": 43,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C021",
+        "ats_score": 73,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C022",
+        "ats_score": 97,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C023",
+        "ats_score": 82,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C024",
+        "ats_score": 82,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C025",
+        "ats_score": 80,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C026",
+        "ats_score": 65,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C027",
+        "ats_score": 87,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C028",
+        "ats_score": 81,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C029",
+        "ats_score": 81,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C030",
+        "ats_score": 67,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C031",
+        "ats_score": 67,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C032",
+        "ats_score": 98,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C033",
+        "ats_score": 53,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C034",
+        "ats_score": 89,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C035",
+        "ats_score": 85,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C036",
+        "ats_score": 42,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C037",
+        "ats_score": 54,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C038",
+        "ats_score": 58,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C039",
+        "ats_score": 95,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C040",
+        "ats_score": 74,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C041",
+        "ats_score": 89,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C042",
+        "ats_score": 51,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C043",
+        "ats_score": 92,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C044",
+        "ats_score": 60,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C045",
+        "ats_score": 48,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C046",
+        "ats_score": 59,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C047",
+        "ats_score": 80,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C048",
         "ats_score": 55,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C049",
+        "ats_score": 56,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C050",
+        "ats_score": 86,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C051",
+        "ats_score": 55,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C052",
+        "ats_score": 94,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C053",
+        "ats_score": 83,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C054",
+        "ats_score": 60,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C055",
+        "ats_score": 45,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C056",
+        "ats_score": 55,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C057",
+        "ats_score": 48,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C058",
+        "ats_score": 92,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C059",
+        "ats_score": 90,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C060",
+        "ats_score": 80,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C061",
+        "ats_score": 58,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C062",
+        "ats_score": 79,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C063",
+        "ats_score": 52,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C064",
+        "ats_score": 94,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C065",
+        "ats_score": 88,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C066",
+        "ats_score": 54,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C067",
+        "ats_score": 75,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C068",
+        "ats_score": 40,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C069",
+        "ats_score": 60,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C070",
+        "ats_score": 63,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C071",
+        "ats_score": 92,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C072",
+        "ats_score": 44,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C073",
+        "ats_score": 74,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C074",
+        "ats_score": 66,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C075",
+        "ats_score": 87,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C076",
+        "ats_score": 54,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C077",
+        "ats_score": 91,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C078",
+        "ats_score": 55,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C079",
+        "ats_score": 63,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C080",
+        "ats_score": 89,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C081",
+        "ats_score": 79,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C082",
+        "ats_score": 95,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C083",
+        "ats_score": 55,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C084",
+        "ats_score": 74,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C085",
+        "ats_score": 43,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C086",
+        "ats_score": 45,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C087",
+        "ats_score": 79,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C088",
+        "ats_score": 60,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C089",
+        "ats_score": 92,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C090",
+        "ats_score": 52,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C091",
+        "ats_score": 61,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C092",
+        "ats_score": 81,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C093",
+        "ats_score": 49,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C094",
+        "ats_score": 97,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C095",
+        "ats_score": 63,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C096",
+        "ats_score": 45,
+        "status": "Rejected"
+    },
+    {
+        "candidate_id": "C097",
+        "ats_score": 77,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C098",
+        "ats_score": 71,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C099",
+        "ats_score": 93,
+        "status": "Selected"
+    },
+    {
+        "candidate_id": "C100",
+        "ats_score": 58,
         "status": "Rejected"
     }
 ]
