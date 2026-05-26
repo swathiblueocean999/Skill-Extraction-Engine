@@ -8,16 +8,16 @@ def check_clarity(answer):
         score = 100
 
     elif word_count >= 18:
-        score = 85
+        score = 90
 
     elif word_count >= 12:
-        score = 70
+        score = 80
 
     elif word_count >= 8:
-        score = 50
+        score = 70
 
     else:
-        score = 25
+        score = 55
 
     return {
         "score": score,

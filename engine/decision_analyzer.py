@@ -7,16 +7,22 @@ def analyze_decision(answer):
         "prioritize",
         "responsibly",
         "immediately",
-        "manage"
+        "manage",
+        "compare",
+        "consider",
+        "evaluate"
     ]
 
     matched = []
 
+    answer_lower = answer.lower()
+
     for word in keywords:
-        if word.lower() in answer.lower():
+
+        if word in answer_lower:
             matched.append(word)
 
-    score = min(len(matched) * 20, 100)
+    score = min(len(matched) * 12, 100)
 
     return {
         "score": score,

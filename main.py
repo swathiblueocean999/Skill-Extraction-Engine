@@ -1,14 +1,14 @@
+from engine.aptitude_engine import run_aptitude_engine
 
-print("=" * 60)
-print("DAY 69 - FINAL DOCUMENTATION SUBMISSION")
-print("Zecpath AI Internship Portfolio Ready")
-print("=" * 60)
 
-print("\nDocumentation Status : COMPLETED")
-print("Portfolio Status     : READY")
-print("Repository Status    : ORGANIZED")
-print("Release Status       : APPROVED")
+def main():
 
-print("\nALL FINAL DOCUMENTATION FILES VERIFIED")
-print("=" * 60)
+    print("\n=== DAY 38 - APTITUDE AI ENGINE ===\n")
 
+    run_aptitude_engine()
+
+    print("\nSystem completed successfully.\n")
+
+
+if __name__ == "__main__":
+    main()

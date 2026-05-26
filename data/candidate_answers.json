@@ -1,49 +1,152 @@
 [
   {
     "candidate_id": "C001",
-    "answer":
-    "I have 2 years of accounting experience and I handled GST filing reporting and Excel management efficiently."
+    "question_id": "Q1",
+    "answer": "If I miss an important deadline, I will immediately inform the manager, explain the reason honestly, and create a recovery plan to complete the task quickly and avoid future delays."
   },
-
   {
     "candidate_id": "C002",
-    "answer":
-    "Umm I know Excel and some accounting little bit."
+    "question_id": "Q2",
+    "answer": "I will remain calm, listen carefully to the client’s concerns, communicate respectfully, and provide the best possible solution professionally."
   },
-
   {
     "candidate_id": "C003",
-    "answer":
-    "I worked on payroll processing invoice verification financial reporting and team coordination."
+    "question_id": "Q3",
+    "answer": "I would verify invoice records, compare financial entries, identify mismatched values, and correct the issue after proper validation."
   },
-
   {
     "candidate_id": "C004",
-    "answer":
-    "Myself Rahul. Basic accounting. Okay communication."
+    "question_id": "Q4",
+    "answer": "I prioritize urgent tasks based on deadlines, business impact, and importance while managing time efficiently."
   },
-
   {
     "candidate_id": "C005",
-    "answer":
-    "I managed accounting operations prepared financial reports coordinated with clients and improved invoice tracking efficiency."
+    "question_id": "Q5",
+    "answer": "I would communicate openly with my teammate, understand the issue, and work together professionally to improve cooperation."
   },
-
   {
     "candidate_id": "C006",
-    "answer":
-    "Uh actually I worked little bit in office and like handled some reports."
+    "question_id": "Q6",
+    "answer": "I would carefully review financial statements, verify calculations, compare reports, and identify inconsistencies or missing values."
   },
-
   {
     "candidate_id": "C007",
-    "answer":
-    "I have experience using Tally Excel GST filing systems payroll software and reporting tools for daily accounting operations."
+    "question_id": "Q7",
+    "answer": "Communication is important in teamwork because it improves coordination, reduces misunderstandings, and helps achieve goals efficiently."
   },
-
   {
     "candidate_id": "C008",
-    "answer":
-    "Okay I know accounting."
+    "question_id": "Q8",
+    "answer": "I would stay calm, listen carefully to the client, understand their concern, and respond professionally to resolve the situation."
+  },
+  {
+    "candidate_id": "C009",
+    "question_id": "Q9",
+    "answer": "I would first verify backup records, check system logs, and coordinate with the technical team to recover missing data."
+  },
+  {
+    "candidate_id": "C010",
+    "question_id": "Q10",
+    "answer": "I analyze the situation carefully, evaluate risks, prioritize important factors, and make responsible decisions under pressure."
+  },
+  {
+    "candidate_id": "C011",
+    "question_id": "Q11",
+    "answer": "I would respectfully discuss the disagreement with my manager, understand their perspective, and work toward a professional solution."
+  },
+  {
+    "candidate_id": "C012",
+    "question_id": "Q12",
+    "answer": "I would identify duplicate entries, compare transaction records, remove incorrect duplicates, and verify the final report accuracy."
+  },
+  {
+    "candidate_id": "C013",
+    "question_id": "Q13",
+    "answer": "I learn new software tools through practice, online tutorials, documentation, and continuous hands-on experience."
+  },
+  {
+    "candidate_id": "C014",
+    "question_id": "Q14",
+    "answer": "I would apologize to the customer, explain the delay honestly, and provide the fastest possible resolution professionally."
+  },
+  {
+    "candidate_id": "C015",
+    "question_id": "Q15",
+    "answer": "I would identify the reporting error quickly, verify the correct data, coordinate with the team, and submit the corrected report on time."
+  },
+  {
+    "candidate_id": "C016",
+    "question_id": "Q16",
+    "answer": "I ensure accuracy by reviewing my work carefully, verifying calculations, and following proper quality-check procedures."
+  },
+  {
+    "candidate_id": "C017",
+    "question_id": "Q17",
+    "answer": "I manage stress by organizing tasks properly, prioritizing work, staying focused, and maintaining professional communication."
+  },
+  {
+    "candidate_id": "C018",
+    "question_id": "Q18",
+    "answer": "I would verify payroll records, check salary calculations carefully, identify the issue, and correct the payroll data immediately."
+  },
+  {
+    "candidate_id": "C019",
+    "question_id": "Q19",
+    "answer": "Problem-solving is important in accounting because it helps identify financial issues, reduce errors, and improve business accuracy."
+  },
+  {
+    "candidate_id": "C020",
+    "question_id": "Q20",
+    "answer": "I would guide the new team member, explain workflows clearly, provide support, and help them adapt to the team environment."
+  },
+  {
+    "candidate_id": "C021",
+    "question_id": "Q21",
+    "answer": "I would analyze expense records, compare previous reports, identify unusual changes, and investigate the root cause carefully."
+  },
+  {
+    "candidate_id": "C022",
+    "question_id": "Q22",
+    "answer": "I handle constructive criticism positively by learning from feedback and improving my performance professionally."
+  },
+  {
+    "candidate_id": "C023",
+    "question_id": "Q23",
+    "answer": "I would discuss priorities with both managers, clarify deadlines, and organize tasks based on business importance."
+  },
+  {
+    "candidate_id": "C024",
+    "question_id": "Q24",
+    "answer": "I would improve communication through regular meetings, clear task assignments, and better collaboration within the team."
+  },
+  {
+    "candidate_id": "C025",
+    "question_id": "Q25",
+    "answer": "I stay organized by planning tasks, setting priorities, maintaining schedules, and tracking progress regularly."
+  },
+  {
+    "candidate_id": "C026",
+    "question_id": "Q26",
+    "answer": "I would support my colleague respectfully, explain the mistakes clearly, and help improve their performance professionally."
+  },
+  {
+    "candidate_id": "C027",
+    "question_id": "Q27",
+    "answer": "I would contact the client, request the missing information clearly, and verify all required details before proceeding."
+  },
+  {
+    "candidate_id": "C028",
+    "question_id": "Q28",
+    "answer": "I approach difficult decisions by analyzing facts carefully, evaluating risks, and selecting the most effective solution."
+  },
+  {
+    "candidate_id": "C029",
+    "question_id": "Q29",
+    "answer": "I would remain professional, listen carefully to the feedback, and improve my work based on constructive suggestions."
+  },
+  {
+    "candidate_id": "C030",
+    "question_id": "Q30",
+    "answer": "I would improve workflow efficiency by reducing unnecessary steps, automating repetitive tasks, and improving team coordination."
   }
 ]

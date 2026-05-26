@@ -4,32 +4,41 @@
     "question_id": "Q1",
     "analysis": {
       "reasoning": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 30,
+        "matched_keywords": [
+          "reason",
+          "explain"
+        ]
       },
       "scenario": {
         "score": 0,
         "matched_keywords": []
       },
       "clarity": {
-        "score": 70,
-        "word_count": 17
+        "score": 100,
+        "word_count": 30
       },
       "structure": {
-        "score": 0,
-        "structure_detected": []
+        "score": 12,
+        "structure_detected": [
+          "immediately"
+        ]
       },
       "problem_solving": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "manage"
+        ]
       },
       "decision": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "manage"
+        ]
       }
     },
-    "aptitude_score": 18.9,
-    "final_status": "weak"
+    "aptitude_score": 69.74,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C002",
@@ -40,66 +49,82 @@
         "matched_keywords": []
       },
       "scenario": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 60,
+        "matched_keywords": [
+          "professional",
+          "calm",
+          "respectfully",
+          "solution",
+          "communicate"
+        ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 14
+        "score": 90,
+        "word_count": 19
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
-        "matched_keywords": [
-          "manage"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "decision": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
-          "manage"
+          "carefully"
         ]
       }
     },
-    "aptitude_score": 21.6,
-    "final_status": "weak"
+    "aptitude_score": 70.95,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C003",
     "question_id": "Q3",
     "analysis": {
       "reasoning": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 45,
+        "matched_keywords": [
+          "compare",
+          "identify",
+          "verify"
+        ]
       },
       "scenario": {
-        "score": 10,
+        "score": 12,
         "matched_keywords": [
-          "teamwork"
+          "issue"
         ]
       },
       "clarity": {
-        "score": 70,
-        "word_count": 16
+        "score": 90,
+        "word_count": 18
       },
       "structure": {
-        "score": 0,
-        "structure_detected": []
+        "score": 12,
+        "structure_detected": [
+          "after"
+        ]
       },
       "problem_solving": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 45,
+        "matched_keywords": [
+          "correct",
+          "identify",
+          "verify"
+        ]
       },
       "decision": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "compare"
+        ]
       }
     },
-    "aptitude_score": 22.5,
-    "final_status": "weak"
+    "aptitude_score": 87.12,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C004",
@@ -108,41 +133,35 @@
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "verify"
+          "prioritize"
         ]
       },
       "scenario": {
-        "score": 20,
-        "matched_keywords": [
-          "issue",
-          "communicate"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "clarity": {
-        "score": 70,
-        "word_count": 16
+        "score": 90,
+        "word_count": 15
       },
       "structure": {
-        "score": 30,
-        "structure_detected": [
-          "first",
-          "then"
-        ]
+        "score": 0,
+        "structure_detected": []
       },
       "problem_solving": {
-        "score": 30,
+        "score": 15,
         "matched_keywords": [
-          "solve",
-          "efficient",
-          "verify"
+          "efficient"
         ]
       },
       "decision": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "prioritize"
+        ]
       }
     },
-    "aptitude_score": 46.35,
+    "aptitude_score": 56.1,
     "final_status": "average"
   },
   {
@@ -152,82 +171,80 @@
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "prioritize"
+          "understand"
         ]
       },
       "scenario": {
-        "score": 10,
+        "score": 36,
         "matched_keywords": [
-          "professional"
+          "professional",
+          "issue",
+          "communicate"
         ]
       },
       "clarity": {
-        "score": 70,
-        "word_count": 15
+        "score": 90,
+        "word_count": 17
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
-          "manage"
+          "improve"
         ]
       },
       "decision": {
-        "score": 30,
-        "matched_keywords": [
-          "prioritize",
-          "carefully",
-          "manage"
-        ]
+        "score": 0,
+        "matched_keywords": []
       }
     },
-    "aptitude_score": 40.05,
-    "final_status": "average"
+    "aptitude_score": 66.99,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C006",
     "question_id": "Q6",
     "analysis": {
       "reasoning": {
-        "score": 15,
+        "score": 45,
         "matched_keywords": [
-          "analyze"
+          "compare",
+          "identify",
+          "verify"
         ]
       },
       "scenario": {
-        "score": 20,
-        "matched_keywords": [
-          "customer",
-          "solution"
-        ]
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 13
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "immediately"
-        ]
-      },
-      "problem_solving": {
         "score": 0,
         "matched_keywords": []
       },
+      "clarity": {
+        "score": 90,
+        "word_count": 16
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 30,
+        "matched_keywords": [
+          "identify",
+          "verify"
+        ]
+      },
       "decision": {
-        "score": 20,
+        "score": 30,
         "matched_keywords": [
           "carefully",
-          "immediately"
+          "compare"
         ]
       }
     },
-    "aptitude_score": 38.25,
-    "final_status": "weak"
+    "aptitude_score": 79.2,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C007",
@@ -236,38 +253,41 @@
       "reasoning": {
         "score": 30,
         "matched_keywords": [
-          "compare",
-          "approach"
+          "because",
+          "understand"
         ]
       },
       "scenario": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 12,
+        "matched_keywords": [
+          "teamwork"
+        ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 14
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
-        "score": 15,
+        "score": 12,
         "structure_detected": [
-          "before"
+          "because"
         ]
       },
       "problem_solving": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 45,
+        "matched_keywords": [
+          "improve",
+          "reduce",
+          "efficient"
+        ]
       },
       "decision": {
-        "score": 20,
-        "matched_keywords": [
-          "decision",
-          "select"
-        ]
+        "score": 0,
+        "matched_keywords": []
       }
     },
-    "aptitude_score": 37.8,
-    "final_status": "weak"
+    "aptitude_score": 75.57,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C008",
@@ -276,74 +296,69 @@
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "identify"
+          "understand"
         ]
       },
       "scenario": {
-        "score": 10,
-        "matched_keywords": [
-          "issue"
-        ]
-      },
-      "clarity": {
-        "score": 70,
-        "word_count": 16
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "immediately"
-        ]
-      },
-      "problem_solving": {
-        "score": 40,
-        "matched_keywords": [
-          "improve",
-          "reduce",
-          "correct",
-          "identify"
-        ]
-      },
-      "decision": {
-        "score": 10,
-        "matched_keywords": [
-          "immediately"
-        ]
-      }
-    },
-    "aptitude_score": 45.45,
-    "final_status": "average"
-  },
-  {
-    "candidate_id": "C009",
-    "question_id": "Q9",
-    "analysis": {
-      "reasoning": {
-        "score": 0,
-        "matched_keywords": []
-      },
-      "scenario": {
-        "score": 50,
+        "score": 36,
         "matched_keywords": [
           "professional",
           "calm",
-          "customer",
-          "issue",
-          "communicate"
+          "resolve"
         ]
       },
       "clarity": {
-        "score": 70,
-        "word_count": 17
+        "score": 90,
+        "word_count": 19
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
           "solve"
+        ]
+      },
+      "decision": {
+        "score": 15,
+        "matched_keywords": [
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 71.94,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C009",
+    "question_id": "Q9",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 90,
+        "word_count": 19
+      },
+      "structure": {
+        "score": 12,
+        "structure_detected": [
+          "first"
+        ]
+      },
+      "problem_solving": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
         ]
       },
       "decision": {
@@ -351,8 +366,8 @@
         "matched_keywords": []
       }
     },
-    "aptitude_score": 39.6,
-    "final_status": "weak"
+    "aptitude_score": 53.79,
+    "final_status": "average"
   },
   {
     "candidate_id": "C010",
@@ -362,7 +377,7 @@
         "score": 30,
         "matched_keywords": [
           "analyze",
-          "understand"
+          "prioritize"
         ]
       },
       "scenario": {
@@ -370,186 +385,212 @@
         "matched_keywords": []
       },
       "clarity": {
-        "score": 70,
-        "word_count": 15
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
-        "score": 30,
-        "structure_detected": [
-          "first",
-          "then"
-        ]
+        "score": 0,
+        "structure_detected": []
       },
       "problem_solving": {
         "score": 0,
         "matched_keywords": []
       },
       "decision": {
-        "score": 10,
+        "score": 45,
         "matched_keywords": [
-          "decision"
+          "decision",
+          "prioritize",
+          "carefully"
         ]
       }
     },
-    "aptitude_score": 40.5,
-    "final_status": "average"
+    "aptitude_score": 67.65,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C011",
     "question_id": "Q11",
     "analysis": {
       "reasoning": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "understand"
+        ]
       },
       "scenario": {
-        "score": 10,
+        "score": 36,
         "matched_keywords": [
-          "support"
+          "professional",
+          "respectfully",
+          "solution"
         ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 14
+        "score": 90,
+        "word_count": 18
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 30,
+        "score": 15,
         "matched_keywords": [
-          "efficient",
-          "manage",
-          "support"
+          "manage"
         ]
       },
       "decision": {
-        "score": 20,
+        "score": 15,
         "matched_keywords": [
-          "carefully",
           "manage"
         ]
       }
     },
-    "aptitude_score": 33.3,
-    "final_status": "weak"
+    "aptitude_score": 71.94,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C012",
     "question_id": "Q12",
     "analysis": {
       "reasoning": {
-        "score": 15,
-        "matched_keywords": [
-          "verify"
-        ]
-      },
-      "scenario": {
-        "score": 20,
-        "matched_keywords": [
-          "customer",
-          "solution"
-        ]
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 14
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "before"
-        ]
-      },
-      "problem_solving": {
-        "score": 10,
-        "matched_keywords": [
-          "verify"
-        ]
-      },
-      "decision": {
-        "score": 10,
-        "matched_keywords": [
-          "carefully"
-        ]
-      }
-    },
-    "aptitude_score": 38.25,
-    "final_status": "weak"
-  },
-  {
-    "candidate_id": "C013",
-    "question_id": "Q13",
-    "analysis": {
-      "reasoning": {
         "score": 45,
         "matched_keywords": [
           "compare",
           "identify",
-          "approach"
+          "verify"
         ]
       },
       "scenario": {
-        "score": 10,
-        "matched_keywords": [
-          "solution"
-        ]
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 14
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "first"
-        ]
-      },
-      "problem_solving": {
-        "score": 10,
-        "matched_keywords": [
-          "identify"
-        ]
-      },
-      "decision": {
-        "score": 0,
-        "matched_keywords": []
-      }
-    },
-    "aptitude_score": 45.45,
-    "final_status": "average"
-  },
-  {
-    "candidate_id": "C014",
-    "question_id": "Q14",
-    "analysis": {
-      "reasoning": {
         "score": 0,
         "matched_keywords": []
       },
-      "scenario": {
-        "score": 50,
-        "matched_keywords": [
-          "professional",
-          "respectfully",
-          "issue",
-          "resolve",
-          "communicate"
-        ]
-      },
       "clarity": {
-        "score": 60,
-        "word_count": 13
+        "score": 90,
+        "word_count": 17
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
+        "score": 45,
         "matched_keywords": [
-          "solve"
+          "correct",
+          "identify",
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 15,
+        "matched_keywords": [
+          "compare"
+        ]
+      }
+    },
+    "aptitude_score": 79.2,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C013",
+    "question_id": "Q13",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 80,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 35.2,
+    "final_status": "weak"
+  },
+  {
+    "candidate_id": "C014",
+    "question_id": "Q14",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "explain"
+        ]
+      },
+      "scenario": {
+        "score": 36,
+        "matched_keywords": [
+          "professional",
+          "customer",
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 90,
+        "word_count": 17
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 62.04,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C015",
+    "question_id": "Q15",
+    "analysis": {
+      "reasoning": {
+        "score": 30,
+        "matched_keywords": [
+          "identify",
+          "verify"
+        ]
+      },
+      "scenario": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "clarity": {
+        "score": 100,
+        "word_count": 22
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 45,
+        "matched_keywords": [
+          "correct",
+          "identify",
+          "verify"
         ]
       },
       "decision": {
@@ -557,59 +598,7 @@
         "matched_keywords": []
       }
     },
-    "aptitude_score": 36.9,
-    "final_status": "weak"
-  },
-  {
-    "candidate_id": "C015",
-    "question_id": "Q15",
-    "analysis": {
-      "reasoning": {
-        "score": 60,
-        "matched_keywords": [
-          "analyze",
-          "compare",
-          "verify",
-          "approach"
-        ]
-      },
-      "scenario": {
-        "score": 30,
-        "matched_keywords": [
-          "professional",
-          "issue",
-          "communicate"
-        ]
-      },
-      "clarity": {
-        "score": 100,
-        "word_count": 44
-      },
-      "structure": {
-        "score": 45,
-        "structure_detected": [
-          "first",
-          "then",
-          "finally"
-        ]
-      },
-      "problem_solving": {
-        "score": 30,
-        "matched_keywords": [
-          "solve",
-          "efficient",
-          "verify"
-        ]
-      },
-      "decision": {
-        "score": 20,
-        "matched_keywords": [
-          "decision",
-          "carefully"
-        ]
-      }
-    },
-    "aptitude_score": 86.4,
+    "aptitude_score": 72.05,
     "final_status": "strong"
   },
   {
@@ -619,7 +608,7 @@
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "identify"
+          "verify"
         ]
       },
       "scenario": {
@@ -627,31 +616,28 @@
         "matched_keywords": []
       },
       "clarity": {
-        "score": 60,
-        "word_count": 13
+        "score": 90,
+        "word_count": 15
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 40,
+        "score": 15,
         "matched_keywords": [
-          "fix",
-          "improve",
-          "efficient",
-          "identify"
+          "verify"
         ]
       },
       "decision": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
           "carefully"
         ]
       }
     },
-    "aptitude_score": 36.45,
-    "final_status": "weak"
+    "aptitude_score": 56.1,
+    "final_status": "average"
   },
   {
     "candidate_id": "C017",
@@ -662,17 +648,13 @@
         "matched_keywords": []
       },
       "scenario": {
-        "score": 50,
+        "score": 12,
         "matched_keywords": [
-          "professional",
-          "calm",
-          "support",
-          "customer",
-          "issue"
+          "professional"
         ]
       },
       "clarity": {
-        "score": 70,
+        "score": 90,
         "word_count": 15
       },
       "structure": {
@@ -680,21 +662,19 @@
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 30,
+        "score": 15,
         "matched_keywords": [
-          "solve",
-          "manage",
-          "support"
+          "manage"
         ]
       },
       "decision": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
           "manage"
         ]
       }
     },
-    "aptitude_score": 47.7,
+    "aptitude_score": 54.78,
     "final_status": "average"
   },
   {
@@ -702,167 +682,116 @@
     "question_id": "Q18",
     "analysis": {
       "reasoning": {
-        "score": 15,
+        "score": 30,
         "matched_keywords": [
-          "understand"
+          "identify",
+          "verify"
         ]
       },
       "scenario": {
-        "score": 20,
+        "score": 12,
         "matched_keywords": [
-          "issue",
-          "communicate"
+          "issue"
         ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 14
+        "score": 90,
+        "word_count": 18
       },
       "structure": {
-        "score": 15,
+        "score": 12,
         "structure_detected": [
-          "first"
+          "immediately"
         ]
       },
       "problem_solving": {
-        "score": 20,
+        "score": 45,
         "matched_keywords": [
-          "solve",
-          "efficient"
+          "correct",
+          "identify",
+          "verify"
         ]
       },
       "decision": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 15,
+        "matched_keywords": [
+          "carefully"
+        ]
       }
     },
-    "aptitude_score": 38.25,
-    "final_status": "weak"
+    "aptitude_score": 80.52,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C019",
     "question_id": "Q19",
     "analysis": {
       "reasoning": {
-        "score": 15,
+        "score": 30,
         "matched_keywords": [
-          "prioritize"
+          "because",
+          "identify"
         ]
       },
       "scenario": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 12,
+        "matched_keywords": [
+          "issue"
+        ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 13
+        "score": 90,
+        "word_count": 17
       },
       "structure": {
-        "score": 15,
+        "score": 12,
         "structure_detected": [
-          "before"
+          "because"
         ]
       },
       "problem_solving": {
-        "score": 0,
-        "matched_keywords": []
+        "score": 45,
+        "matched_keywords": [
+          "improve",
+          "reduce",
+          "identify"
+        ]
       },
       "decision": {
-        "score": 30,
-        "matched_keywords": [
-          "prioritize",
-          "responsibly",
-          "carefully"
-        ]
+        "score": 0,
+        "matched_keywords": []
       }
     },
-    "aptitude_score": 33.75,
-    "final_status": "weak"
+    "aptitude_score": 75.57,
+    "final_status": "strong"
   },
   {
     "candidate_id": "C020",
     "question_id": "Q20",
     "analysis": {
       "reasoning": {
-        "score": 75,
+        "score": 15,
         "matched_keywords": [
-          "analyze",
-          "compare",
-          "identify",
-          "verify",
-          "approach"
+          "explain"
         ]
       },
       "scenario": {
-        "score": 20,
+        "score": 12,
         "matched_keywords": [
-          "professional",
-          "solution"
+          "support"
         ]
       },
       "clarity": {
-        "score": 90,
-        "word_count": 39
-      },
-      "structure": {
-        "score": 30,
-        "structure_detected": [
-          "first",
-          "then"
-        ]
-      },
-      "problem_solving": {
-        "score": 30,
-        "matched_keywords": [
-          "efficient",
-          "identify",
-          "verify"
-        ]
-      },
-      "decision": {
-        "score": 30,
-        "matched_keywords": [
-          "select",
-          "responsibly",
-          "carefully"
-        ]
-      }
-    },
-    "aptitude_score": 86.85,
-    "final_status": "strong"
-  },
-  {
-    "candidate_id": "C021",
-    "question_id": "Q21",
-    "analysis": {
-      "reasoning": {
-        "score": 0,
-        "matched_keywords": []
-      },
-      "scenario": {
-        "score": 70,
-        "matched_keywords": [
-          "professional",
-          "respectfully",
-          "support",
-          "customer",
-          "issue",
-          "resolve",
-          "communicate"
-        ]
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 12
+        "score": 100,
+        "word_count": 20
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 20,
+        "score": 15,
         "matched_keywords": [
-          "solve",
           "support"
         ]
       },
@@ -871,17 +800,19 @@
         "matched_keywords": []
       }
     },
-    "aptitude_score": 46.8,
+    "aptitude_score": 60.83,
     "final_status": "average"
   },
   {
-    "candidate_id": "C022",
-    "question_id": "Q22",
+    "candidate_id": "C021",
+    "question_id": "Q21",
     "analysis": {
       "reasoning": {
-        "score": 15,
+        "score": 45,
         "matched_keywords": [
-          "verify"
+          "analyze",
+          "compare",
+          "identify"
         ]
       },
       "scenario": {
@@ -889,29 +820,62 @@
         "matched_keywords": []
       },
       "clarity": {
-        "score": 60,
-        "word_count": 13
+        "score": 90,
+        "word_count": 17
       },
       "structure": {
-        "score": 15,
-        "structure_detected": [
-          "before"
-        ]
+        "score": 0,
+        "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
-          "verify"
+          "identify"
         ]
       },
       "decision": {
-        "score": 10,
+        "score": 30,
         "matched_keywords": [
-          "decision"
+          "carefully",
+          "compare"
         ]
       }
     },
-    "aptitude_score": 31.05,
+    "aptitude_score": 74.25,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C022",
+    "question_id": "Q22",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 12,
+        "matched_keywords": [
+          "professional"
+        ]
+      },
+      "clarity": {
+        "score": 80,
+        "word_count": 14
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 40.48,
     "final_status": "weak"
   },
   {
@@ -923,79 +887,66 @@
         "matched_keywords": []
       },
       "scenario": {
-        "score": 10,
-        "matched_keywords": [
-          "teamwork"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "clarity": {
-        "score": 60,
-        "word_count": 11
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 20,
+        "score": 15,
         "matched_keywords": [
-          "improve",
           "manage"
         ]
       },
       "decision": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
           "manage"
         ]
       }
     },
-    "aptitude_score": 27.9,
-    "final_status": "weak"
+    "aptitude_score": 49.5,
+    "final_status": "average"
   },
   {
     "candidate_id": "C024",
     "question_id": "Q24",
     "analysis": {
       "reasoning": {
-        "score": 45,
-        "matched_keywords": [
-          "analyze",
-          "because",
-          "understand"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "scenario": {
-        "score": 10,
-        "matched_keywords": [
-          "issue"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "clarity": {
-        "score": 70,
-        "word_count": 15
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
-        "score": 15,
-        "structure_detected": [
-          "because"
-        ]
+        "score": 0,
+        "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
+        "score": 15,
         "matched_keywords": [
-          "solve"
+          "improve"
         ]
       },
       "decision": {
-        "score": 10,
-        "matched_keywords": [
-          "carefully"
-        ]
+        "score": 0,
+        "matched_keywords": []
       }
     },
-    "aptitude_score": 50.85,
-    "final_status": "average"
+    "aptitude_score": 44.55,
+    "final_status": "weak"
   },
   {
     "candidate_id": "C025",
@@ -1006,15 +957,11 @@
         "matched_keywords": []
       },
       "scenario": {
-        "score": 30,
-        "matched_keywords": [
-          "professional",
-          "calm",
-          "issue"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "clarity": {
-        "score": 60,
+        "score": 80,
         "word_count": 14
       },
       "structure": {
@@ -1022,17 +969,15 @@
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 10,
-        "matched_keywords": [
-          "solve"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "decision": {
         "score": 0,
         "matched_keywords": []
       }
     },
-    "aptitude_score": 29.7,
+    "aptitude_score": 35.2,
     "final_status": "weak"
   },
   {
@@ -1042,116 +987,29 @@
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "identify"
+          "explain"
         ]
       },
       "scenario": {
-        "score": 0,
-        "matched_keywords": []
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 12
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "immediately"
-        ]
-      },
-      "problem_solving": {
-        "score": 40,
-        "matched_keywords": [
-          "fix",
-          "improve",
-          "efficient",
-          "identify"
-        ]
-      },
-      "decision": {
-        "score": 10,
-        "matched_keywords": [
-          "immediately"
-        ]
-      }
-    },
-    "aptitude_score": 39.15,
-    "final_status": "weak"
-  },
-  {
-    "candidate_id": "C027",
-    "question_id": "Q27",
-    "analysis": {
-      "reasoning": {
-        "score": 30,
-        "matched_keywords": [
-          "compare",
-          "approach"
-        ]
-      },
-      "scenario": {
-        "score": 20,
+        "score": 36,
         "matched_keywords": [
           "professional",
-          "solution"
-        ]
-      },
-      "clarity": {
-        "score": 60,
-        "word_count": 12
-      },
-      "structure": {
-        "score": 15,
-        "structure_detected": [
-          "before"
-        ]
-      },
-      "problem_solving": {
-        "score": 0,
-        "matched_keywords": []
-      },
-      "decision": {
-        "score": 20,
-        "matched_keywords": [
-          "select",
-          "carefully"
-        ]
-      }
-    },
-    "aptitude_score": 45.0,
-    "final_status": "average"
-  },
-  {
-    "candidate_id": "C028",
-    "question_id": "Q28",
-    "analysis": {
-      "reasoning": {
-        "score": 0,
-        "matched_keywords": []
-      },
-      "scenario": {
-        "score": 60,
-        "matched_keywords": [
           "respectfully",
-          "support",
-          "customer",
-          "issue",
-          "resolve",
-          "communicate"
+          "support"
         ]
       },
       "clarity": {
-        "score": 60,
-        "word_count": 13
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 20,
+        "score": 30,
         "matched_keywords": [
-          "solve",
+          "improve",
           "support"
         ]
       },
@@ -1160,17 +1018,17 @@
         "matched_keywords": []
       }
     },
-    "aptitude_score": 43.2,
-    "final_status": "average"
+    "aptitude_score": 71.94,
+    "final_status": "strong"
   },
   {
-    "candidate_id": "C029",
-    "question_id": "Q29",
+    "candidate_id": "C027",
+    "question_id": "Q27",
     "analysis": {
       "reasoning": {
         "score": 15,
         "matched_keywords": [
-          "analyze"
+          "verify"
         ]
       },
       "scenario": {
@@ -1178,8 +1036,48 @@
         "matched_keywords": []
       },
       "clarity": {
-        "score": 70,
-        "word_count": 15
+        "score": 90,
+        "word_count": 17
+      },
+      "structure": {
+        "score": 12,
+        "structure_detected": [
+          "before"
+        ]
+      },
+      "problem_solving": {
+        "score": 15,
+        "matched_keywords": [
+          "verify"
+        ]
+      },
+      "decision": {
+        "score": 0,
+        "matched_keywords": []
+      }
+    },
+    "aptitude_score": 53.79,
+    "final_status": "average"
+  },
+  {
+    "candidate_id": "C028",
+    "question_id": "Q28",
+    "analysis": {
+      "reasoning": {
+        "score": 15,
+        "matched_keywords": [
+          "approach"
+        ]
+      },
+      "scenario": {
+        "score": 12,
+        "matched_keywords": [
+          "solution"
+        ]
+      },
+      "clarity": {
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
         "score": 0,
@@ -1190,14 +1088,54 @@
         "matched_keywords": []
       },
       "decision": {
-        "score": 10,
+        "score": 45,
         "matched_keywords": [
-          "decision"
+          "decision",
+          "select",
+          "carefully"
         ]
       }
     },
-    "aptitude_score": 28.35,
-    "final_status": "weak"
+    "aptitude_score": 66.33,
+    "final_status": "strong"
+  },
+  {
+    "candidate_id": "C029",
+    "question_id": "Q29",
+    "analysis": {
+      "reasoning": {
+        "score": 0,
+        "matched_keywords": []
+      },
+      "scenario": {
+        "score": 12,
+        "matched_keywords": [
+          "professional"
+        ]
+      },
+      "clarity": {
+        "score": 90,
+        "word_count": 17
+      },
+      "structure": {
+        "score": 0,
+        "structure_detected": []
+      },
+      "problem_solving": {
+        "score": 15,
+        "matched_keywords": [
+          "improve"
+        ]
+      },
+      "decision": {
+        "score": 15,
+        "matched_keywords": [
+          "carefully"
+        ]
+      }
+    },
+    "aptitude_score": 54.78,
+    "final_status": "average"
   },
   {
     "candidate_id": "C030",
@@ -1208,36 +1146,29 @@
         "matched_keywords": []
       },
       "scenario": {
-        "score": 10,
-        "matched_keywords": [
-          "support"
-        ]
+        "score": 0,
+        "matched_keywords": []
       },
       "clarity": {
-        "score": 60,
-        "word_count": 14
+        "score": 90,
+        "word_count": 16
       },
       "structure": {
         "score": 0,
         "structure_detected": []
       },
       "problem_solving": {
-        "score": 30,
+        "score": 15,
         "matched_keywords": [
-          "efficient",
-          "manage",
-          "support"
+          "improve"
         ]
       },
       "decision": {
-        "score": 20,
-        "matched_keywords": [
-          "responsibly",
-          "manage"
-        ]
+        "score": 0,
+        "matched_keywords": []
       }
     },
-    "aptitude_score": 33.3,
+    "aptitude_score": 44.55,
     "final_status": "weak"
   }
 ]

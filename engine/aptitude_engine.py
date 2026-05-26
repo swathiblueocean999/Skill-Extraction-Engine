@@ -1,4 +1,3 @@
-
 import json
 import os
 
@@ -6,55 +5,91 @@ import os
 class AptitudeEngine:
 
     def __init__(self):
+
         self.reasoning_keywords = [
-            "analyze", "compare", "because", "reason",
-            "identify", "verify", "explain",
-            "understand", "approach", "prioritize"
+            "analyze",
+            "compare",
+            "because",
+            "reason",
+            "identify",
+            "verify",
+            "understand",
+            "approach",
+            "prioritize",
+            "explain"
         ]
 
         self.scenario_keywords = [
-            "professional", "calm", "respectfully",
-            "support", "teamwork", "customer",
-            "issue", "resolve", "solution",
+            "professional",
+            "calm",
+            "respectfully",
+            "support",
+            "teamwork",
+            "customer",
+            "issue",
+            "resolve",
+            "solution",
             "communicate"
         ]
 
         self.problem_solving_keywords = [
-            "solve", "fix", "improve", "reduce",
-            "efficient", "correct", "manage",
-            "identify", "verify", "support"
+            "solve",
+            "fix",
+            "improve",
+            "reduce",
+            "efficient",
+            "correct",
+            "manage",
+            "identify",
+            "verify",
+            "support"
         ]
 
         self.decision_keywords = [
-            "decision", "select", "choose",
-            "prioritize", "responsibly",
-            "carefully", "immediately", "manage"
+            "decision",
+            "select",
+            "choose",
+            "prioritize",
+            "responsibly",
+            "carefully",
+            "manage",
+            "compare"
         ]
 
         self.structure_words = [
-            "first", "then", "finally",
-            "before", "after", "because",
-            "therefore", "immediately"
+            "first",
+            "then",
+            "finally",
+            "before",
+            "after",
+            "because",
+            "immediately"
         ]
 
-    def calculate_score(self, matched_count, multiplier=10, max_score=100):
-        score = matched_count * multiplier
+    def detect_keywords(
+        self,
+        answer,
+        keyword_list
+    ):
 
-        if score > max_score:
-            score = max_score
-
-        return score
-
-    def detect_keywords(self, answer, keyword_list):
         matched = []
 
         answer_lower = answer.lower()
 
         for keyword in keyword_list:
+
             if keyword in answer_lower:
                 matched.append(keyword)
 
         return matched
+
+    def calculate_score(
+        self,
+        matched_count,
+        multiplier
+    ):
+
+        return min(matched_count * multiplier, 100)
 
     def analyze_answer(self, answer):
 
@@ -66,7 +101,7 @@ class AptitudeEngine:
 
         reasoning_score = self.calculate_score(
             len(reasoning_matches),
-            multiplier=15
+            15
         )
 
         # SCENARIO
@@ -77,7 +112,7 @@ class AptitudeEngine:
 
         scenario_score = self.calculate_score(
             len(scenario_matches),
-            multiplier=10
+            12
         )
 
         # PROBLEM SOLVING
@@ -86,12 +121,12 @@ class AptitudeEngine:
             self.problem_solving_keywords
         )
 
-        problem_solving_score = self.calculate_score(
+        problem_score = self.calculate_score(
             len(problem_matches),
-            multiplier=10
+            15
         )
 
-        # DECISION MAKING
+        # DECISION
         decision_matches = self.detect_keywords(
             answer,
             self.decision_keywords
@@ -99,10 +134,10 @@ class AptitudeEngine:
 
         decision_score = self.calculate_score(
             len(decision_matches),
-            multiplier=10
+            15
         )
 
-        # STRUCTURE DETECTION
+        # STRUCTURE
         structure_matches = self.detect_keywords(
             answer,
             self.structure_words
@@ -110,52 +145,57 @@ class AptitudeEngine:
 
         structure_score = self.calculate_score(
             len(structure_matches),
-            multiplier=15
+            12
         )
 
-        # CLARITY SCORE
+        # CLARITY
         word_count = len(answer.split())
 
-        if word_count >= 40:
+        if word_count >= 20:
             clarity_score = 100
-        elif word_count >= 30:
-            clarity_score = 90
-        elif word_count >= 20:
-            clarity_score = 80
-        elif word_count >= 15:
-            clarity_score = 70
-        elif word_count >= 10:
-            clarity_score = 60
-        else:
-            clarity_score = 40
 
-        # FINAL WEIGHTED SCORE
+        elif word_count >= 15:
+            clarity_score = 90
+
+        elif word_count >= 10:
+            clarity_score = 80
+
+        elif word_count >= 6:
+            clarity_score = 70
+
+        else:
+            clarity_score = 50
+
+        # RAW SCORE
         raw_score = (
-            reasoning_score * 0.25 +
+            reasoning_score * 0.20 +
             scenario_score * 0.20 +
-            clarity_score * 0.15 +
+            clarity_score * 0.20 +
             structure_score * 0.10 +
-            problem_solving_score * 0.15 +
+            problem_score * 0.15 +
             decision_score * 0.15
         )
 
-        # NORMALIZED SCORE
-        aptitude_score = round(raw_score * 1.8, 2)
+        # BOOSTED FINAL SCORE
+        aptitude_score = round(raw_score * 2.2, 2)
 
-        # LIMIT SCORE
         if aptitude_score > 100:
             aptitude_score = 100
 
-        # FINAL STATUS
-        if aptitude_score >= 70:
+        # STATUS
+        if aptitude_score >= 65:
             final_status = "strong"
-        elif aptitude_score >= 40:
+
+        elif aptitude_score >= 45:
             final_status = "average"
+
         else:
             final_status = "weak"
 
         return {
+
             "analysis": {
+
                 "reasoning": {
                     "score": reasoning_score,
                     "matched_keywords": reasoning_matches
@@ -177,7 +217,7 @@ class AptitudeEngine:
                 },
 
                 "problem_solving": {
-                    "score": problem_solving_score,
+                    "score": problem_score,
                     "matched_keywords": problem_matches
                 },
 
@@ -198,10 +238,16 @@ def run_aptitude_engine():
     output_file = "outputs/aptitude_results.json"
 
     if not os.path.exists(input_file):
+
         print(f"ERROR: {input_file} not found")
         return
 
-    with open(input_file, "r", encoding="utf-8") as file:
+    with open(
+        input_file,
+        "r",
+        encoding="utf-8"
+    ) as file:
+
         candidates = json.load(file)
 
     engine = AptitudeEngine()
@@ -216,36 +262,47 @@ def run_aptitude_engine():
 
         analysis_result = engine.analyze_answer(answer)
 
-        result = {
+        results.append({
+
             "candidate_id": candidate_id,
             "question_id": question_id,
             "analysis": analysis_result["analysis"],
             "aptitude_score": analysis_result["aptitude_score"],
             "final_status": analysis_result["final_status"]
-        }
-
-        results.append(result)
+        })
 
     os.makedirs("outputs", exist_ok=True)
 
-    with open(output_file, "w", encoding="utf-8") as output:
-        json.dump(results, output, indent=2)
+    with open(
+        output_file,
+        "w",
+        encoding="utf-8"
+    ) as output:
 
-    print("\nAptitude analysis completed successfully.")
+        json.dump(
+            results,
+            output,
+            indent=2
+        )
+
+    print("\nAPTITUDE ANALYSIS COMPLETED")
+    print("===================================")
     print(f"Results saved to: {output_file}")
 
-    # SUMMARY
-    strong_count = len(
-        [r for r in results if r["final_status"] == "strong"]
-    )
+    strong_count = len([
+        r for r in results
+        if r["final_status"] == "strong"
+    ])
 
-    average_count = len(
-        [r for r in results if r["final_status"] == "average"]
-    )
+    average_count = len([
+        r for r in results
+        if r["final_status"] == "average"
+    ])
 
-    weak_count = len(
-        [r for r in results if r["final_status"] == "weak"]
-    )
+    weak_count = len([
+        r for r in results
+        if r["final_status"] == "weak"
+    ])
 
     print("\n===== SUMMARY =====")
     print(f"Strong Candidates : {strong_count}")
@@ -253,7 +310,11 @@ def run_aptitude_engine():
     print(f"Weak Candidates   : {weak_count}")
     print("===================\n")
 
+    print("=======================================================")
+    print(" Aptitude analysis completed successfully.")
+    print(" Results generated inside outputs folder.")
+    print("=======================================================")
+
 
 if __name__ == "__main__":
     run_aptitude_engine()
-
