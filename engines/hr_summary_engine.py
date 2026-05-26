@@ -1,31 +1,61 @@
-def generate_hr_summary(results):
+import json
 
-    summary = {
-        "total_candidates": len(results),
-        "strong_candidates": 0,
-        "average_candidates": 0,
-        "weak_candidates": 0,
-        "top_candidates": []
-    }
 
-    for r in results:
+def generate_hr_summary():
 
-        status = r.get("final_status", "").upper()  # 🔥 FIX 1
+    with open(
+        "output/aptitude_results.json",
+        "r",
+        encoding="utf-8"
+    ) as file:
 
-        if status == "STRONG":
-            summary["strong_candidates"] += 1
+        results = json.load(file)
 
-        elif status == "AVERAGE":
-            summary["average_candidates"] += 1
+    report = []
+
+    for candidate in results:
+
+        score = candidate["aptitude_score"]
+
+        if score >= 85:
+            performance = "Excellent"
+
+        elif score >= 70:
+            performance = "Strong"
+
+        elif score >= 50:
+            performance = "Average"
 
         else:
-            summary["weak_candidates"] += 1
+            performance = "Weak"
 
-    # top candidates
-    summary["top_candidates"] = sorted(
-        results,
-        key=lambda x: x.get("aptitude_score", 0),
-        reverse=True
-    )[:5]
+        report.append({
+            "candidate_id": candidate["candidate_id"],
+            "aptitude_score": score,
+            "performance": performance,
+            "final_status": candidate["final_status"]
+        })
 
-    return summary
+    with open(
+        "output/hr_summary_report.json",
+        "w",
+        encoding="utf-8"
+    ) as output:
+
+        json.dump(report, output, indent=2)
+
+    with open(
+        "output/hr_summary_report.txt",
+        "w",
+        encoding="utf-8"
+    ) as text_file:
+
+        for item in report:
+
+            text_file.write(
+                f"{item['candidate_id']} | "
+                f"{item['aptitude_score']} | "
+                f"{item['performance']}\n"
+            )
+
+    print("HR summary report generated.")

@@ -1,332 +1,392 @@
 [
-  {
-    "candidate_id": "C001",
-    "question_id": "Q1",
-    "answer": "I am a hardworking, adaptable and confident team player with strong leadership, communication and problem solving skills.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 0
+    {
+        "candidate_id": "C001",
+        "question_id": "Q1",
+        "answer": "If I miss an important deadline, I will immediately inform the manager, explain the reason honestly, and create a recovery plan to complete the task quickly and avoid future delays.",
+        "analysis": {
+            "strong_hits": 1,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 30
+        },
+        "aptitude_score": 43,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 0,
-    "final_status": "WEAK"
-  },
-  {
-    "candidate_id": "C002",
-    "question_id": "Q2",
-    "answer": "I am organized, motivated and flexible with excellent collaboration, management and creative thinking ability.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 0
+    {
+        "candidate_id": "C002",
+        "question_id": "Q2",
+        "answer": "I will remain calm, listen carefully to the client\u2019s concerns, communicate respectfully, and provide the best possible solution professionally.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 19
+        },
+        "aptitude_score": 63,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 0,
-    "final_status": "WEAK"
-  },
-  {
-    "candidate_id": "C003",
-    "question_id": "Q3",
-    "answer": "I am a quick learner with responsible behavior, teamwork skills and strong communication and leadership quality.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 0
+    {
+        "candidate_id": "C003",
+        "question_id": "Q3",
+        "answer": "I would verify invoice records, compare financial entries, identify mismatched values, and correct the issue after proper validation.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 18
+        },
+        "aptitude_score": 63,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 0,
-    "final_status": "WEAK"
-  },
-  {
-    "candidate_id": "C004",
-    "question_id": "Q4",
-    "answer": "First I will verify the issue, then communicate with the team and solve the problem efficiently.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 1
+    {
+        "candidate_id": "C004",
+        "question_id": "Q4",
+        "answer": "I prioritize urgent tasks based on deadlines, business impact, and importance while managing time efficiently.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 15
+        },
+        "aptitude_score": 48,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 15,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C005",
-    "question_id": "Q5",
-    "answer": "I would prioritize the urgent tasks, manage the workload carefully, and complete the work professionally.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 2
+    {
+        "candidate_id": "C005",
+        "question_id": "Q5",
+        "answer": "I would communicate openly with my teammate, understand the issue, and work together professionally to improve cooperation.",
+        "analysis": {
+            "strong_hits": 4,
+            "average_hits": 3,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 94,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C006",
-    "question_id": "Q6",
-    "answer": "I will analyze the customer complaint carefully and provide a respectful solution immediately.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C006",
+        "question_id": "Q6",
+        "answer": "I would carefully review financial statements, verify calculations, compare reports, and identify inconsistencies or missing values.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 63,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C007",
-    "question_id": "Q7",
-    "answer": "I would compare all possible approaches before selecting the best decision for the team.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C007",
+        "question_id": "Q7",
+        "answer": "Communication is important in teamwork because it improves coordination, reduces misunderstandings, and helps achieve goals efficiently.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 3,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 79,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C008",
-    "question_id": "Q8",
-    "answer": "I will identify the mistake, correct it immediately, and improve the process to reduce future issues.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C008",
+        "question_id": "Q8",
+        "answer": "I would stay calm, listen carefully to the client, understand their concern, and respond professionally to resolve the situation.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 19
+        },
+        "aptitude_score": 56,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C009",
-    "question_id": "Q9",
-    "answer": "I would communicate clearly with the customer and solve the issue in a calm and professional manner.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 1
+    {
+        "candidate_id": "C009",
+        "question_id": "Q9",
+        "answer": "I would first verify backup records, check system logs, and coordinate with the technical team to recover missing data.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 19
+        },
+        "aptitude_score": 40,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 15,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C010",
-    "question_id": "Q10",
-    "answer": "First I will understand the situation, analyze the risk, and then make a responsible decision.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 1
+    {
+        "candidate_id": "C010",
+        "question_id": "Q10",
+        "answer": "I analyze the situation carefully, evaluate risks, prioritize important factors, and make responsible decisions under pressure.",
+        "analysis": {
+            "strong_hits": 4,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 78,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 25,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C011",
-    "question_id": "Q11",
-    "answer": "I would support my teammates, manage the pressure carefully, and complete the work efficiently.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 3
+    {
+        "candidate_id": "C011",
+        "question_id": "Q11",
+        "answer": "I would respectfully discuss the disagreement with my manager, understand their perspective, and work toward a professional solution.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 18
+        },
+        "aptitude_score": 71,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 15,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C012",
-    "question_id": "Q12",
-    "answer": "I will verify the information carefully before communicating the final solution to the customer.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 0
+    {
+        "candidate_id": "C012",
+        "question_id": "Q12",
+        "answer": "I would identify duplicate entries, compare transaction records, remove incorrect duplicates, and verify the final report accuracy.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 55,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 0,
-    "final_status": "WEAK"
-  },
-  {
-    "candidate_id": "C013",
-    "question_id": "Q13",
-    "answer": "I would first identify the root cause, compare solutions, and implement the best approach.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C013",
+        "question_id": "Q13",
+        "answer": "I learn new software tools through practice, online tutorials, documentation, and continuous hands-on experience.",
+        "analysis": {
+            "strong_hits": 0,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 14
+        },
+        "aptitude_score": 10,
+        "final_status": "WEAK"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C014",
-    "question_id": "Q14",
-    "answer": "I will resolve the issue respectfully and communicate professionally with all team members.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 1
+    {
+        "candidate_id": "C014",
+        "question_id": "Q14",
+        "answer": "I would apologize to the customer, explain the delay honestly, and provide the fastest possible resolution professionally.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 55,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 5,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C015",
-    "question_id": "Q15",
-    "answer": "I would first analyze the complete problem deeply, verify all related data carefully, compare multiple approaches, and then make the best professional decision. Finally, I would communicate clearly with the team, solve the issue efficiently, and ensure the same problem does not happen again.",
-    "analysis": {
-      "strong_hits": 4,
-      "average_hits": 1
+    {
+        "candidate_id": "C015",
+        "question_id": "Q15",
+        "answer": "I would identify the reporting error quickly, verify the correct data, coordinate with the team, and submit the corrected report on time.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 22
+        },
+        "aptitude_score": 60,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 45,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C016",
-    "question_id": "Q16",
-    "answer": "I will improve the workflow by identifying inefficient processes and fixing them carefully.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C016",
+        "question_id": "Q16",
+        "answer": "I ensure accuracy by reviewing my work carefully, verifying calculations, and following proper quality-check procedures.",
+        "analysis": {
+            "strong_hits": 1,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 15
+        },
+        "aptitude_score": 41,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C017",
-    "question_id": "Q17",
-    "answer": "I would manage the customer issue calmly and provide professional support to solve the problem.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 2
+    {
+        "candidate_id": "C017",
+        "question_id": "Q17",
+        "answer": "I manage stress by organizing tasks properly, prioritizing work, staying focused, and maintaining professional communication.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 15
+        },
+        "aptitude_score": 56,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C018",
-    "question_id": "Q18",
-    "answer": "First I will communicate with the team, understand the issue, and solve it efficiently.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 2
+    {
+        "candidate_id": "C018",
+        "question_id": "Q18",
+        "answer": "I would verify payroll records, check salary calculations carefully, identify the issue, and correct the payroll data immediately.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 18
+        },
+        "aptitude_score": 56,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C019",
-    "question_id": "Q19",
-    "answer": "I would carefully prioritize the important tasks and complete them responsibly before deadlines.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 0
+    {
+        "candidate_id": "C019",
+        "question_id": "Q19",
+        "answer": "Problem-solving is important in accounting because it helps identify financial issues, reduce errors, and improve business accuracy.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 71,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 0,
-    "final_status": "WEAK"
-  },
-  {
-    "candidate_id": "C020",
-    "question_id": "Q20",
-    "answer": "First I would identify the challenge and analyze all possible risks carefully. Then I would compare different professional solutions, discuss them with the team, select the most effective approach, implement the solution efficiently, and verify the final outcome responsibly.",
-    "analysis": {
-      "strong_hits": 3,
-      "average_hits": 0
+    {
+        "candidate_id": "C020",
+        "question_id": "Q20",
+        "answer": "I would guide the new team member, explain workflows clearly, provide support, and help them adapt to the team environment.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 20
+        },
+        "aptitude_score": 76,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 30,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C021",
-    "question_id": "Q21",
-    "answer": "I would support customers respectfully and communicate clearly to resolve issues professionally.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 2
+    {
+        "candidate_id": "C021",
+        "question_id": "Q21",
+        "answer": "I would analyze expense records, compare previous reports, identify unusual changes, and investigate the root cause carefully.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 63,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C022",
-    "question_id": "Q22",
-    "answer": "I will verify the accuracy of the information before making any important decision.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C022",
+        "question_id": "Q22",
+        "answer": "I handle constructive criticism positively by learning from feedback and improving my performance professionally.",
+        "analysis": {
+            "strong_hits": 1,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 14
+        },
+        "aptitude_score": 25,
+        "final_status": "WEAK"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C023",
-    "question_id": "Q23",
-    "answer": "I would improve teamwork through proper communication and responsible task management.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C023",
+        "question_id": "Q23",
+        "answer": "I would discuss priorities with both managers, clarify deadlines, and organize tasks based on business importance.",
+        "analysis": {
+            "strong_hits": 1,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 33,
+        "final_status": "WEAK"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C024",
-    "question_id": "Q24",
-    "answer": "I will analyze the issue carefully because understanding the root cause helps solve problems effectively.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C024",
+        "question_id": "Q24",
+        "answer": "I would improve communication through regular meetings, clear task assignments, and better collaboration within the team.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 48,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C025",
-    "question_id": "Q25",
-    "answer": "I would remain calm during pressure situations and solve issues professionally with the team.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C025",
+        "question_id": "Q25",
+        "answer": "I stay organized by planning tasks, setting priorities, maintaining schedules, and tracking progress regularly.",
+        "analysis": {
+            "strong_hits": 0,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 14
+        },
+        "aptitude_score": 18,
+        "final_status": "WEAK"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C026",
-    "question_id": "Q26",
-    "answer": "I will identify mistakes immediately, fix them efficiently, and improve the workflow.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C026",
+        "question_id": "Q26",
+        "answer": "I would support my colleague respectfully, explain the mistakes clearly, and help improve their performance professionally.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 1,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 63,
+        "final_status": "STRONG"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C027",
-    "question_id": "Q27",
-    "answer": "I would compare multiple solutions carefully before selecting the best professional approach.",
-    "analysis": {
-      "strong_hits": 1,
-      "average_hits": 0
+    {
+        "candidate_id": "C027",
+        "question_id": "Q27",
+        "answer": "I would contact the client, request the missing information clearly, and verify all required details before proceeding.",
+        "analysis": {
+            "strong_hits": 1,
+            "average_hits": 0,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 25,
+        "final_status": "WEAK"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C028",
-    "question_id": "Q28",
-    "answer": "I will communicate respectfully with customers and provide proper support to resolve issues.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 2
+    {
+        "candidate_id": "C028",
+        "question_id": "Q28",
+        "answer": "I approach difficult decisions by analyzing facts carefully, evaluating risks, and selecting the most effective solution.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 56,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 10,
-    "final_status": "AVERAGE"
-  },
-  {
-    "candidate_id": "C029",
-    "question_id": "Q29",
-    "answer": "I would analyze the situation deeply and make a careful decision based on available information.",
-    "analysis": {
-      "strong_hits": 2,
-      "average_hits": 0
+    {
+        "candidate_id": "C029",
+        "question_id": "Q29",
+        "answer": "I would remain professional, listen carefully to the feedback, and improve my work based on constructive suggestions.",
+        "analysis": {
+            "strong_hits": 2,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 17
+        },
+        "aptitude_score": 56,
+        "final_status": "AVERAGE"
     },
-    "aptitude_score": 20,
-    "final_status": "STRONG"
-  },
-  {
-    "candidate_id": "C030",
-    "question_id": "Q30",
-    "answer": "I will manage the task efficiently, support the team, and complete the work responsibly.",
-    "analysis": {
-      "strong_hits": 0,
-      "average_hits": 3
-    },
-    "aptitude_score": 15,
-    "final_status": "STRONG"
-  }
+    {
+        "candidate_id": "C030",
+        "question_id": "Q30",
+        "answer": "I would improve workflow efficiency by reducing unnecessary steps, automating repetitive tasks, and improving team coordination.",
+        "analysis": {
+            "strong_hits": 3,
+            "average_hits": 2,
+            "weak_hits": 0,
+            "word_count": 16
+        },
+        "aptitude_score": 71,
+        "final_status": "STRONG"
+    }
 ]

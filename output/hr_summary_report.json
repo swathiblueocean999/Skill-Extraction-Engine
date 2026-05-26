@@ -1,63 +1,15 @@
 {
-  "total_candidates": 30,
-  "strong_candidates": 15,
-  "average_candidates": 10,
-  "weak_candidates": 5,
-  "top_candidates": [
-    {
-      "candidate_id": "C015",
-      "question_id": "Q15",
-      "answer": "I would first analyze the complete problem deeply, verify all related data carefully, compare multiple approaches, and then make the best professional decision. Finally, I would communicate clearly with the team, solve the issue efficiently, and ensure the same problem does not happen again.",
-      "analysis": {
-        "strong_hits": 4,
-        "average_hits": 1
-      },
-      "aptitude_score": 45,
-      "final_status": "STRONG"
-    },
-    {
-      "candidate_id": "C020",
-      "question_id": "Q20",
-      "answer": "First I would identify the challenge and analyze all possible risks carefully. Then I would compare different professional solutions, discuss them with the team, select the most effective approach, implement the solution efficiently, and verify the final outcome responsibly.",
-      "analysis": {
-        "strong_hits": 3,
-        "average_hits": 0
-      },
-      "aptitude_score": 30,
-      "final_status": "STRONG"
-    },
-    {
-      "candidate_id": "C010",
-      "question_id": "Q10",
-      "answer": "First I will understand the situation, analyze the risk, and then make a responsible decision.",
-      "analysis": {
-        "strong_hits": 2,
-        "average_hits": 1
-      },
-      "aptitude_score": 25,
-      "final_status": "STRONG"
-    },
-    {
-      "candidate_id": "C007",
-      "question_id": "Q7",
-      "answer": "I would compare all possible approaches before selecting the best decision for the team.",
-      "analysis": {
-        "strong_hits": 2,
-        "average_hits": 0
-      },
-      "aptitude_score": 20,
-      "final_status": "STRONG"
-    },
-    {
-      "candidate_id": "C008",
-      "question_id": "Q8",
-      "answer": "I will identify the mistake, correct it immediately, and improve the process to reduce future issues.",
-      "analysis": {
-        "strong_hits": 2,
-        "average_hits": 0
-      },
-      "aptitude_score": 20,
-      "final_status": "STRONG"
+    "project_name": "DAY 39 - HR AI PROJECT",
+    "total_candidates": 30,
+    "strong_candidates": 13,
+    "average_candidates": 12,
+    "weak_candidates": 5,
+    "system_status": "SUCCESS",
+    "analysis_status": "COMPLETED",
+    "final_result": "The HR AI aptitude analysis system successfully evaluated all candidates and generated balanced professional results.",
+    "recommendation": {
+        "strong": "Proceed to next interview round",
+        "average": "Needs additional evaluation",
+        "weak": "Requires improvement before selection"
     }
-  ]
 }

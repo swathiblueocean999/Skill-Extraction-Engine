@@ -1,13 +1,17 @@
-from engine.aptitude_engine import run_aptitude_engine
+from engines.aptitude_engine import run_aptitude_engine
 
 
 def main():
 
-    print("\n=== DAY 38 - APTITUDE AI ENGINE ===\n")
+    print("\n===================================")
+    print(" DAY 39 - HR AI PROJECT ")
+    print("===================================\n")
 
     run_aptitude_engine()
 
-    print("\nSystem completed successfully.\n")
+    print("\n===================================")
+    print(" SYSTEM COMPLETED SUCCESSFULLY ")
+    print("===================================\n")
 
 
 if __name__ == "__main__":

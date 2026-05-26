@@ -1,15 +1,30 @@
-=====================================
- DAY 39 - HR SUMMARY REPORT
-=====================================
-
-Total Candidates : 30
-Strong Candidates: 15
-Average Candidates: 10
-Weak Candidates  : 5
-
-TOP CANDIDATES:
-- C015 | Score: 45 | STRONG
-- C020 | Score: 30 | STRONG
-- C010 | Score: 25 | STRONG
-- C007 | Score: 20 | STRONG
-- C008 | Score: 20 | STRONG
+C001 | 74 | Strong
+C002 | 77 | Strong
+C003 | 69 | Average
+C004 | 65 | Average
+C005 | 81 | Strong
+C006 | 73 | Strong
+C007 | 73 | Strong
+C008 | 77 | Strong
+C009 | 73 | Strong
+C010 | 77 | Strong
+C011 | 73 | Strong
+C012 | 69 | Average
+C013 | 60 | Average
+C014 | 73 | Strong
+C015 | 78 | Strong
+C016 | 73 | Strong
+C017 | 73 | Strong
+C018 | 73 | Strong
+C019 | 69 | Average
+C020 | 78 | Strong
+C021 | 73 | Strong
+C022 | 64 | Average
+C023 | 69 | Average
+C024 | 73 | Strong
+C025 | 60 | Average
+C026 | 77 | Strong
+C027 | 69 | Average
+C028 | 73 | Strong
+C029 | 77 | Strong
+C030 | 73 | Strong
