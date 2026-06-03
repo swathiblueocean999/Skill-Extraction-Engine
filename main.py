@@ -1,18 +1,11 @@
-from engines.aptitude_engine import run_aptitude_engine
+import os
 
+print("🚀 Starting Optimization Pipeline...\n")
 
-def main():
+os.system("python optimization_engine/transcript_cleaner.py")
+os.system("python optimization_engine/anomaly_detector.py")
+os.system("python optimization_engine/score_refiner.py")
+os.system("python optimization_engine/followup_stability.py")
+os.system("python optimization_engine/speed_optimizer.py")
 
-    print("\n===================================")
-    print(" DAY 39 - HR AI PROJECT ")
-    print("===================================\n")
-
-    run_aptitude_engine()
-
-    print("\n===================================")
-    print(" SYSTEM COMPLETED SUCCESSFULLY ")
-    print("===================================\n")
-
-
-if __name__ == "__main__":
-    main()
+print("\n✅ Day 42 Optimization Completed")

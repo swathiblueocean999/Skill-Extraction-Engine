@@ -1,1 +1,12 @@
-{}
+{
+    "total_candidates": 4,
+    "anomalies_found": 1,
+    "anomaly_candidates": [
+        {
+            "candidate_id": "C3",
+            "score": 51.5,
+            "issue": "Low Score Anomaly",
+            "status": "Needs Review"
+        }
+    ]
+}
