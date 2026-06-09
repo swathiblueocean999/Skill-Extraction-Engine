@@ -1,8 +1,11 @@
 {
     "summary": "Optimization and stability improvements completed successfully",
-    "transcript_cleanup": "Applied",
+    "total_candidates_processed": 4,
+    "processing_time_seconds": 0.0007,
+    "transcript_cleanup": "Completed",
     "anomaly_detection": "Completed",
     "score_refinement": "Completed",
     "processing_speed": "Improved",
-    "system_status": "Stable"
+    "system_status": "Stable",
+    "optimization_status": "Completed"
 }
